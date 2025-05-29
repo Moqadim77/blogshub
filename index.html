@@ -153,7 +153,7 @@
 
             <!-- BANNER IMAGE -->
             <img src="${blog.banner}" alt="Banner for ${blog.title}"
-                 class="w-full h-48 object-cover rounded-lg mb-4" />
+                 class="w-full h-48 sm:h-full object-cover rounded-lg mb-4" />
 
             <h1 class="text-3xl font-bold mb-2">${blog.title}</h1>
             <time class="text-sm text-gray-500 block mb-3">${new Date(blog.date).toDateString()}</time>
@@ -177,7 +177,7 @@
             <a href="?post=${blog.id}" class="text-sky-700 hover:underline">${blog.title}</a>
           </h2>
           <img src="${blog.banner}" alt="Banner for ${blog.title}"
-                 class="w-full h-48 object-cover rounded-lg mb-4" />
+                 class="w-full h-48 sm:h-60 object-cover rounded-lg mb-4" />
           <p class="text-gray-700">${blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
           <a href="?post=${blog.id}" class="inline-block mt-2 text-white bg-black rounded-full px-4 py-1 hover:underline">Read more →</a>
         </article>
