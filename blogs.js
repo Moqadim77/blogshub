@@ -4,7 +4,7 @@ const blogs = [
   title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
   date: "2025-05-29",
   tags: ["affiliate marketing", "online income", "marketing"],
-  banner: "https://th.bing.com/th/id/OIP.CiZ9Xxz7k8VnOmuTqPbg4gHaE7?rs=1&pid=ImgDetMain",
+  banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
   content: `
 Affiliate marketing is one of the most talked-about ways to make money online. You’ve probably heard someone on YouTube or Instagram say, “I made passive income while I slept!”, and chances are, they were talking about affiliate marketing.
 
@@ -185,7 +185,7 @@ Start small, stay consistent, and treat trading as a skill not a shortcut. With 
   title: "What Is Copywriting and Why Does It Matter?",
   date: "2025-05-27",
   tags: ["copywriting", "marketing", "freelancing"],
-  banner: "https://th.bing.com/th/id/OIP.NUB7KxuQl8-fMpgm-DdcUgHaEo?rs=1&pid=ImgDetMain",
+  banner: "https://www.awai.com/_img/content/what-is-copywriting/title_page_image.png",
   content: `
 Every time you read a catchy ad, a tempting product description, or a website that makes you want to click “buy now,” you’re reading the work of a copywriter. Copywriting is one of the most powerful (and underrated) skills in the digital world today.
 
