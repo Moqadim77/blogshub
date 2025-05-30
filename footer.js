@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const footerHTML = `
-    <footer class="bg-gray-500 text-white border-t border-white mt-12">
+    <footer class="bg-gray-500 text-white border-white">
       <div class="max-w-7xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-3 gap-6">
         <!-- About -->
         <div>
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <p class="text-sm">Phone: +92 300 *******</p>
         </div>
       </div>
-      <div class="text-center text-sm py-4 bg-gray-500 border-t border-black">
+      <div class="text-center text-sm py-4 bg-gray-500 border-t border-white">
         © <span id="year"></span> BlogsHub. All rights reserved.
       </div>
     </footer>
