@@ -26,35 +26,9 @@
 
 <body class="bg-sky-50 text-gray-800">
 
-    <!-- Navbar -->
-    <nav class="p-4 bg-blue-100 text-white border-b border-black">
-        <div class="flex items-center justify-between flex-wrap max-w-7xl mx-auto">
-            <!-- Logo -->
-            <div class="flex items-center flex-shrink-0 text-white mr-6">
-                <a href="index.html" class="text-2xl font-bold">
-                    <img src="./logo.png" alt="logo" class="w-14 h-14" />
-                </a>
-            </div>
-
-            <!-- Search Bar -->
-            <div class="flex-1 mx-4 flex">
-                <div class="w-full md:max-w-[300px] relative">
-                    <input type="text" placeholder="Search..."
-                        class="w-full max-w-[300px] px-4 py-2 pr-12 rounded-full text-black focus:outline-none" />
-                    <button class="absolute right-2 top-1/2 transform -translate-y-1/2 text-black">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                    </button>
-                </div>
-            </div>
-
-            <!-- Hamburger Button -->
-            <div class="">
-                <button id="menu-btn" class="text-white focus:outline-none text-3xl">
-                    ☰
-                </button>
-            </div>
-        </div>
-    </nav>
+    <!-- Navbar JS -->
+    <script src="navbar.js"></script>
+    <div id="navbar-placeholder"></div>
 
     <script>
         const btn = document.getElementById('menu-btn');
