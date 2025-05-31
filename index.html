@@ -59,7 +59,7 @@
 
 
     <!-- Main content -->
-    <main class="max-w-3xl mx-auto p-4" id="main-content">
+    <main class="max-w-3xl mx-auto sm:p-4" id="main-content">
         <!-- Blog list or single post injected here -->
     </main>
 
@@ -161,12 +161,12 @@
         } else {
             // List view
             contentDiv.innerHTML = blogs.map(blog => `
-        <article class="bg-white border border-sky-200 p-6 mb-6 rounded-lg shadow hover:shadow-lg transition">
-          <h2 class="text-2xl font-semibold mb-2">
-            <a href="?post=${blog.id}" class="text-sky-700 hover:underline">${blog.title}</a>
-          </h2>
+        <article class="bg-white border border-sky-200 p-4 sm:p-6 mb-6 sm:rounded-lg shadow hover:shadow-lg transition">
           <img src="${blog.banner}" alt="Banner for ${blog.title}"
                  class="w-full h-48 sm:h-60 object-cover rounded-lg mb-4" />
+            <h2 class="text-2xl font-bold mb-2">
+            <a href="?post=${blog.id}" class="hover:underline">${blog.title}</a>
+          </h2>
           <p class="text-gray-700">${blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
           <a href="?post=${blog.id}" class="inline-block mt-2 text-white bg-black rounded-full px-4 py-1 hover:underline">Read more →</a>
         </article>
