@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <ul class="space-y-1 text-sm">
             <li><a href="index.html" class="hover:underline">Home</a></li>
             <li><a href="about.html" class="hover:underline">About</a></li>
-            <li><a href="privacy-policy.html" class="hover:underline">Privacy Policy</a></li>
+            <li><a href="privacy.html" class="hover:underline">Privacy Policy</a></li>
             <li><a href="terms.html" class="hover:underline">Terms of Use</a></li>
             <li><a href="signin.html" class="hover:underline">Sign In</a></li>
           </ul>
