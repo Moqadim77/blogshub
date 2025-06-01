@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="BlogsHub is your go-to platform for the latest articles on technology, sports, health, entertainment, and more." />
+    <meta name="keywords"
+        content="blog, blogshub, blogging sites, blogshub.online, tech, sports, health, entertainment, lifestyle, responsive, SEO" />
+    <meta name="author" content="BlogsHub Team" />
+    <title>Read blogs on BlogsHub</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="canonical" href="https://www.blogshub.online/blogs.html" />
+</head>
+
+<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RWT6WMPL0R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-RWT6WMPL0R');
+    </script>
+
+<body class="bg-sky-50 text-gray-800">
+
+    <!-- Navbar JS -->
+    <script src="navbar.js"></script>
+    <div id="navbar-placeholder"></div>
+
+    <script>
+        const btn = document.getElementById('menu-btn');
+        const nav = document.getElementById('nav-links');
+
+        btn.addEventListener('click', () => {
+            nav.classList.toggle('hidden');
+        });
+    </script>
+
+    <!-- Banner -->
+    <div id="header-placeholder"></div>
+
+    <script>
+        const path = window.location.pathname;
+        const param = new URLSearchParams(window.location.search);
+        const isHomepage = (path === '/' || path.endsWith('index.html')) && !param.has('post');
+
+        if (isHomepage) {
+            document.getElementById('header-placeholder').innerHTML = `
+            <header class="bg-gray-500 py-10 px-4 text-center">
+                <h1 class="text-4xl font-extrabold text-white">BLOGS HUB</h1>
+                <p class="text-white mt-2 text-lg">Deep dives, thoughtful reads, and a clean reading experience.</p>
+            </header>
+            `;
+        }
+    </script>
+
+
+    <!-- Main content -->
+    <main class="max-w-3xl mx-auto sm:p-4" id="main-content">
+        <!-- Blog list or single post injected here -->
+    </main>
+
+    <script src="blogs.js"></script>
+    <script>
+        function parseMarkdown(md) {
+            // Sanitize
+            md = md.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;");
+
+            // Code blocks
+            md = md.replace(/```([\s\S]*?)```/g, '<pre class="bg-gray-100 p-4 rounded overflow-x-auto"><code>$1</code></pre>');
+
+            // Inline code
+            md = md.replace(/`([^`]+)`/g, '<code class="bg-gray-100 px-1 rounded">$1</code>');
+
+            // Images
+            md = md.replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1" class="my-4 rounded border" />');
+
+            // Links
+            md = md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" ref="no" class="text-blue-600 hover:underline" target="_blank">$1</a>');
+
+            // Headings
+            md = md.replace(/^###### (.*)$/gim, '<h6 class="text-sm font-semibold mt-6 mb-2">$1</h6>')
+                .replace(/^##### (.*)$/gim, '<h5 class="text-base font-semibold mt-6 mb-2">$1</h5>')
+                .replace(/^#### (.*)$/gim, '<h4 class="text-lg font-semibold mt-6 mb-2">$1</h4>')
+                .replace(/^### (.*)$/gim, '<h3 class="text-xl font-bold mt-6 mb-2">$1</h3>')
+                .replace(/^## (.*)$/gim, '<h2 class="text-2xl font-bold mt-6 mb-2">$1</h2>')
+                .replace(/^# (.*)$/gim, '<h1 class="text-3xl font-bold mt-6 mb-4">$1</h1>');
+
+            // Blockquotes
+            md = md.replace(/^> (.*$)/gim, '<blockquote class="border-l-4 border-gray-300 pl-4 italic text-gray-600 my-4">$1</blockquote>');
+
+            // Horizontal rules
+            md = md.replace(/^[-*]{3,}$/gm, '<hr class="my-6 border-t border-gray-300" />');
+
+            // Bold + Italic
+            md = md.replace(/\*\*\*(.*?)\*\*\*/g, '<strong><em>$1</em></strong>');
+
+            // Bold
+            md = md.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+            // Italic
+            md = md.replace(/\*(.*?)\*/g, '<em>$1</em>');
+
+            // Group bullet list items
+            md = md.replace(/(?:^|\n)(- .+(?:\n- .+)*)/gm, (match, list) => {
+                const items = list.trim().split('\n').map(item => `<li>${item.replace(/^- /, '')}</li>`).join('');
+                return `<ul class="list-disc ml-6 my-4">${items}</ul>`;
+            });
+
+            // Group numbered list items
+            md = md.replace(/(?:^|\n)(\d+\. .+(?:\n\d+\. .+)*)/gm, (match, list) => {
+                const items = list.trim().split('\n').map(item => `<li>${item.replace(/^\d+\. /, '')}</li>`).join('');
+                return `<ol class="list-decimal ml-6 my-4">${items}</ol>`;
+            });
+
+            // Paragraphs – only apply if not already part of block element
+            md = md.replace(/^\s*(?!<(h\d|ul|ol|li|blockquote|pre|img|hr|code|a))([^\n]+)\s*$/gm, '<p class="my-4 leading-relaxed">$2</p>');
+
+            return md;
+        }
+    </script>
+
+
+    <script>
+        const contentDiv = document.getElementById("main-content");
+        const params = new URLSearchParams(window.location.search);
+        const postId = params.get("post");
+
+        if (postId) {
+            // Single post view
+            const blog = blogs.find(b => b.id === postId);
+            if (blog) {
+                document.title = blog.title + " | MyBlog";
+                contentDiv.innerHTML = `
+          <article class="bg-white border border-sky-200 px-6 pb-6 pt-2 mb-6 rounded-lg shadow">
+            <a href="index.html" class="inline-block text-blue-500 mb-2 hover:underline">← Back to all posts</a>
+
+            <!-- BANNER IMAGE -->
+            <img src="${blog.banner}" alt="Banner for ${blog.title}"
+                 class="w-full h-48 sm:h-full object-cover rounded-lg mb-4" />
+
+            <h1 class="text-3xl font-bold mb-2">${blog.title}</h1>
+            <time class="text-sm text-gray-500 block mb-3">${new Date(blog.date).toDateString()}</time>
+            <div class="mb-4 text-sm">
+              ${blog.tags.map(t => `<span class="inline-block bg-blue-500 text-white font-semibold px-2 py-1 rounded mr-2">${t}</span>`).join('')}
+            </div>
+            <hr class="my-4" />
+
+            <div class="prose max-w-none">${parseMarkdown(blog.content)}</div>
+            <a href="index.html" class="inline-block mt-6 text-sky-600 hover:underline">← Back to all posts</a>
+          </article>
+        `;
+            } else {
+                contentDiv.innerHTML = "<p>Sorry, that post doesn’t exist.</p>";
+            }
+        } else {
+            // List view
+            contentDiv.innerHTML = blogs.map(blog => `
+        <article class="bg-white border border-sky-200 p-4 sm:p-6 mb-6 sm:rounded-lg shadow hover:shadow-lg transition">
+          <img src="${blog.banner}" alt="Banner for ${blog.title}"
+                 class="w-full h-48 sm:h-60 object-cover rounded-lg mb-4" />
+            <h2 class="text-2xl font-bold mb-2">
+            <a href="?post=${blog.id}" class="hover:underline">${blog.title}</a>
+          </h2>
+          <p class="text-gray-700">${blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
+          <a href="?post=${blog.id}" class="inline-block mt-2 text-white bg-black rounded-full px-4 py-1 hover:underline">Read more →</a>
+        </article>
+      `).join("");
+        }
+    </script>
+
+    <div class="pt-10 pb-16 bg-blue-100 px-4 border-t border-b border-gray-100">
+        <!-- Sign-In form placeholder -->
+        <div id="signin-placeholder"></div>
+    </div>
+
+    <!-- Footer placeholder -->
+    <div id="footer-placeholder"></div>
+
+    <script src="footer.js"></script>
+    <script src="signin.js"></script>
+</body>
+
+</html>
