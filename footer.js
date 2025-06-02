@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <p class="text-sm">Phone: +92 300 *******</p>
         </div>
       </div>
-      <div class="text-center text-sm py-4 bg-gray-500 border-t border-white">
+      <div class="text-center text-sm py-4 bg-gray-700 border-t border-white">
         © <span id="year"></span> BlogsHub. All rights reserved.
       </div>
     </footer>
