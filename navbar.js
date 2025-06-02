@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const navHTML = `
-    <nav class="p-4 bg-white text-black border-b border-white relative">
+    <nav class="p-4 bg-white text-black border-b border-gray-200 relative">
       <div class="flex items-center justify-between flex-wrap max-w-7xl mx-auto">
         <!-- Logo -->
         <div class="flex items-center flex-shrink-0 text-white">
