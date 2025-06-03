@@ -764,7 +764,7 @@ So grab your clips, fire up your editor, and start creating. The world’s next 
     title: "Web Development: A Beginner’s Guide to Building the Internet",
     date: "2025-05-29",
     tags: ["web development", "coding", "tech skills"],
-    banner: "https://spec.nith.ac.in/BLOGS/a1%20(5).jpg",
+    banner: "https://startupreviewer.com/wp-content/uploads/2022/01/Web-Development-Technologies.jpg",
     content: `
 Ever visited a website and thought, “How do people even build these things?” That’s where **web development** comes in.
 
@@ -870,7 +870,7 @@ The internet is built by people like you—curious, creative, and committed. Tim
     title: "TikTok Monetization: How to Make Money Creating Short Videos",
     date: "2025-05-29",
     tags: ["tiktok", "monetization", "creator economy"],
-    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHXUYGTYZviJBF3gIt2a0uYwzEboy86DP9w&s",
+    banner: "https://podorder.io/wp-content/uploads/2021/10/make-money-on-Tik-Tok.jpg",
     content: `
 TikTok isn't just a fun app for dancing and lip-syncing anymore—it's a powerful platform where **anyone can build an audience and start earning real money**. If you’ve ever thought, “Can I actually make money from TikTok?” the answer is yes—but it takes strategy, consistency, and some creativity.
 
