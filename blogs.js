@@ -4,7 +4,8 @@ const blogs = [
     title: "Understanding the Use of AI: How It's Changing Everyday Life and Business",
     date: "2025-05-29",
     tags: ["AI", "technology", "future skills"],
-    keywords: "'ai use', 'ai 2025', '2025 ai', 'how used ai in 2025'",
+    keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
+    description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries—from marketing to healthcare.",
     banner: "https://ric.edu.pk/wp-content/uploads/2025/01/Artificial-Intelligence-1.jpg",
     content: `
 AI (Artificial Intelligence) might sound like something from a sci-fi movie, but it’s very real, and already part of your daily life. From smart assistants to personalized Netflix recommendations, AI is shaping how we live, work, and think.
@@ -106,6 +107,8 @@ Remember: AI is powerful, but the person using it is still the most important pa
     title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
     date: "2025-05-29",
     tags: ["affiliate marketing", "online income", "marketing"],
+    keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
+    description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in—all without needing your own product.",
     banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
     content: `
 Affiliate marketing is one of the most talked-about ways to make money online. You’ve probably heard someone on YouTube or Instagram say, “I made passive income while I slept!”, and chances are, they were talking about affiliate marketing.
@@ -211,6 +214,8 @@ Affiliate marketing won’t make you rich overnight, but it *can* grow into a re
     title: "Graphic Designing: A Beginner’s Guide to Creating Visual Magic",
     date: "2025-05-29",
     tags: ["graphic design", "creative skills", "designing"],
+    keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
+    description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design—no degree needed.",
     banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
     content: `
 Ever wondered who designs those eye-catching posters, website banners, social media ads, or even the packaging of your favorite snacks? That’s the work of **graphic designers**, the visual storytellers of the digital world.
@@ -316,6 +321,8 @@ So go ahead, open up Canva or Photoshop, and start experimenting. Every great de
     title: "A Beginner’s Guide to Dropshipping: How It Works and How to Start",
     date: "2025-05-29",
     tags: ["dropshipping", "ecommerce", "online business"],
+    keywords: "dropshipping for beginners, how dropshipping works, start dropshipping, ecommerce business, dropshipping suppliers, online store setup, dropshipping marketing, dropshipping tools",
+    description: "Learn how dropshipping works and how to start your own online store with minimal upfront costs. This beginner’s guide covers essential steps, tools, marketing strategies, and common mistakes to help you build a successful dropshipping business.",
     banner: "https://online.csp.edu/wp-content/uploads/2020/07/What-is-Drop-Shipping.png",
     content: `
 You’ve probably heard stories of people running online stores and making sales while lounging on a beach. In many cases, they’re using a business model called **dropshipping**.
@@ -418,6 +425,8 @@ Start small. Focus on one product, one store, and one marketing strategy. Be con
     title: "A Beginner’s Guide to Freelancing: How to Start and Succeed",
     date: "2025-05-29",
     tags: ["freelancing", "remote work", "online income"],
+    keywords: "freelancing for beginners, how to start freelancing, freelance jobs, remote work tips, online income ideas, freelance platforms, freelancing tools, work from anywhere",
+    description: "Discover how to start and succeed in freelancing with this beginner’s guide. Learn essential tips, tools, where to find clients, common mistakes to avoid, and how to build a flexible online income.",
     banner: "https://tos.com.bd/images/freelancing-outsourcing-platform.jpg",
     content: `
 You've probably seen people on social media saying they "work from anywhere" or are their own boss. Many of them are doing something called **freelancing**, working for clients or companies independently rather than being a full-time employee.
@@ -517,6 +526,8 @@ Whether you're doing it part-time for extra cash or turning it into a full-time 
     title: "A Simple Guide to Trading: What You Need to Know Before You Begin",
     date: "2025-05-11",
     tags: ["trading guide", "trading"],
+    keywords: "trading guide, beginner trading tips, how to trade stocks, forex trading basics, types of trading, trading strategies, risk management in trading, trading tools, day trading, swing trading",
+    description: "A simple beginner’s guide to trading explaining how it works, different trading styles, essential tools, common mistakes, and tips to start trading wisely and build your skills over time.",
     banner: "https://hycm.s3.amazonaws.com/public/files/articles/how_to_trade.webp",
     content: `
 Trading is becoming more popular every day. You may have seen people talking about it on YouTube, Instagram, or TikTok sharing their trades, profits, and even claiming they make money while they sleep. While some of this is true, there’s a lot more to trading than just buying low and selling high. It’s not a get-rich-quick scheme, but with patience and learning, trading can become a useful skill or even a full-time career.
@@ -593,6 +604,8 @@ Start small, stay consistent, and treat trading as a skill not a shortcut. With 
     title: "What Is Copywriting and Why Does It Matter?",
     date: "2025-05-27",
     tags: ["copywriting", "marketing", "freelancing"],
+    keywords: "copywriting, what is copywriting, copywriting tips, marketing copywriting, freelance copywriting, writing to sell, copywriting skills, persuasive writing, copywriting for beginners",
+    description: "Discover what copywriting is, why it matters, and how you can learn this powerful skill to boost sales, improve marketing, and start freelancing with confidence.",
     banner: "https://www.awai.com/_img/content/what-is-copywriting/title_page_image.png",
     content: `
 Every time you read a catchy ad, a tempting product description, or a website that makes you want to click “buy now,” you’re reading the work of a copywriter. Copywriting is one of the most powerful (and underrated) skills in the digital world today.
@@ -655,6 +668,8 @@ And the best part? You can learn it from anywhere, even your couch. All you need
     title: "Video Editing Basics: How to Start Creating Epic Content",
     date: "2025-05-29",
     tags: ["video editing", "content creation", "freelancing"],
+    keywords: "video editing basics, how to edit videos, video editing for beginners, best video editing software, freelance video editor, content creation tips, video editing tips, learn video editing, video editing tutorial",
+    description: "Learn the basics of video editing, discover the best beginner-friendly software, and get tips on how to start creating epic content and even make money as a freelance video editor.",
     banner: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/56KACkKW05xh2bqHsLp4zk/e08b1ea5363f8fb9e850e93b13dd7163/GettyImages-1418210625.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
     content: `
 Scroll through YouTube, TikTok, or Instagram, and you’ll notice one thing: clean, eye-catching, and engaging videos are everywhere. Behind every viral reel, cinematic vlog, or cool montage is one crucial skill, **video editing**.
@@ -765,6 +780,8 @@ So grab your clips, fire up your editor, and start creating. The world’s next 
     title: "Web Development: A Beginner’s Guide to Building the Internet",
     date: "2025-05-29",
     tags: ["web development", "coding", "tech skills"],
+    keywords: "web development basics, beginner web development, learn coding, frontend development, backend development, full-stack developer, web development tools, how to build websites, coding for beginners",
+    description: "Discover the essentials of web development for beginners. Learn frontend and backend basics, coding languages, tools, and where to find jobs to start building your own websites and web apps.",
     banner: "https://spec.nith.ac.in/BLOGS/a1%20(5).jpg",
     content: `
 Ever visited a website and thought, “How do people even build these things?” That’s where **web development** comes in.
@@ -871,6 +888,8 @@ The internet is built by people like you, curious, creative, and committed. Time
     title: "TikTok Monetization: How to Make Money Creating Short Videos",
     date: "2025-05-29",
     tags: ["tiktok", "monetization", "creator economy"],
+    keywords: "TikTok monetization, how to make money on TikTok, TikTok creator fund, TikTok brand deals, TikTok affiliate marketing, TikTok shop, grow TikTok audience, TikTok tips for creators",
+    description: "Learn how to make money on TikTok with proven strategies like the Creator Fund, brand deals, affiliate marketing, and selling products. Discover tips to grow your audience and turn your TikTok hobby into a profitable hustle.",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHXUYGTYZviJBF3gIt2a0uYwzEboy86DP9w&s",
     content: `
 TikTok isn't just a fun app for dancing and lip-syncing anymore, it's a powerful platform where **anyone can build an audience and start earning real money**. If you’ve ever thought, “Can I actually make money from TikTok?” the answer is yes, but it takes strategy, consistency, and some creativity.
