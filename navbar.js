@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const navHTML = `
-    <nav class="p-4 bg-white text-black border-b border-gray-200 relative">
+    <nav class="sticky top-0 z-50 bg-white border-b border-gray-200 p-4">
       <div class="flex items-center justify-between flex-wrap max-w-7xl mx-auto">
         <!-- Logo -->
         <div class="flex items-center flex-shrink-0 text-white">
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
 
         <!-- Hamburger Button -->
-        <div class="md:hidden">
+        <div class="">
           <button id="menu-btn" class="text-gray-500 focus:outline-none text-3xl">
             ☰
           </button>
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
       </div>
 
       <!-- Dropdown Menu -->
-      <div id="menu" class="absolute md:mt-3 top-full left-0 w-full text-black bg-white hidden flex-col md:flex-row md:static md:flex md:items-center md:justify-center">
+      <div id="menu" class="absolute md:mt-3 top-full left-0 w-full text-black bg-white hidden flex-col flex md:flex-row md:static md:items-center md:justify-center">
         <a href="index.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">Home</a>
         <a href="blogs.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">Blogs</a>
         <a href="about.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">About</a>
