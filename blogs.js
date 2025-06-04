@@ -782,7 +782,7 @@ So grab your clips, fire up your editor, and start creating. The world’s next 
     tags: ["web development", "coding", "tech skills"],
     keywords: "web development basics, beginner web development, learn coding, frontend development, backend development, full-stack developer, web development tools, how to build websites, coding for beginners",
     description: "Discover the essentials of web development for beginners. Learn frontend and backend basics, coding languages, tools, and where to find jobs to start building your own websites and web apps.",
-    banner: "https://spec.nith.ac.in/BLOGS/a1%20(5).jpg",
+    banner: "https://startupreviewer.com/wp-content/uploads/2022/01/Web-Development-Technologies.jpg",
     content: `
 Ever visited a website and thought, “How do people even build these things?” That’s where **web development** comes in.
 
@@ -890,7 +890,7 @@ The internet is built by people like you, curious, creative, and committed. Time
     tags: ["tiktok", "monetization", "creator economy"],
     keywords: "TikTok monetization, how to make money on TikTok, TikTok creator fund, TikTok brand deals, TikTok affiliate marketing, TikTok shop, grow TikTok audience, TikTok tips for creators",
     description: "Learn how to make money on TikTok with proven strategies like the Creator Fund, brand deals, affiliate marketing, and selling products. Discover tips to grow your audience and turn your TikTok hobby into a profitable hustle.",
-    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHXUYGTYZviJBF3gIt2a0uYwzEboy86DP9w&s",
+    banner: "https://podorder.io/wp-content/uploads/2021/10/make-money-on-Tik-Tok.jpg",
     content: `
 TikTok isn't just a fun app for dancing and lip-syncing anymore, it's a powerful platform where **anyone can build an audience and start earning real money**. If you’ve ever thought, “Can I actually make money from TikTok?” the answer is yes, but it takes strategy, consistency, and some creativity.
 
