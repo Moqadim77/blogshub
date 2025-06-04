@@ -172,14 +172,14 @@
                     </article>
                 `;
             } else {
-                document.title = "Post Not Found | MyBlog";
+                document.title = "Post Not Found | BlogsHub";
                 setMetaTag("robots", "noindex, nofollow");
 
                 contentDiv.innerHTML = "<p>Sorry, that post doesn’t exist.</p>";
             }
 
         } else {
-            document.title = "All Posts | MyBlog";
+            document.title = "Articles | BlogsHub";
             setMetaTag("robots", "index, follow");
 
             contentDiv.innerHTML = `
@@ -189,9 +189,9 @@
                         <img src="${blog.banner}" alt="Banner for ${blog.title}"
                             class="w-full h-48 object-cover rounded-lg mb-4" />
                         <h2 class="text-2xl font-bold mb-2">
-                            <a href="?post=${blog.id}" class="hover:underline">${blog.title}</a>
+                            <a href="?post=${blog.id}" class="hover:underline line-clamp-2">${blog.title}</a>
                         </h2>
-                        <p class="text-gray-700">${blog.description || blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
+                        <p class="text-gray-700 line-clamp-3">${blog.description || blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
                         <a href="?post=${blog.id}" class="inline-block mt-2 text-white bg-black rounded-full px-4 py-1 hover:underline">Read more →</a>
                     </article>
                     `).join("")}
