@@ -146,12 +146,29 @@
             const blog = blogs.find(b => b.id === postId);
 
             if (blog) {
-                document.title = `${blog.title} | MyBlog`;
+                document.title = `${blog.title} | BlogsHub`;
+
+                const setProperty = (property, content) => {
+                    let tag = document.querySelector(`meta[property="${property}"]`);
+                    if (!tag) {
+                        tag = document.createElement("meta");
+                        tag.setAttribute("property", property);
+                        document.head.appendChild(tag);
+                    }
+                    tag.content = content;
+                };
 
                 // SEO Meta Tags
                 setMetaTag("keywords", blog.keywords || blog.tags.join(", "));
                 setMetaTag("description", blog.description || blog.content.slice(0, 150));
                 setMetaTag("robots", "index, follow");
+
+                // For Open Graph
+                setProperty("og:title", blog.title);
+                setProperty("og:description", blog.description);
+                setProperty("og:type", "article");
+                setProperty("og:url", `${window.location.origin}/index.html?post=${postId}`);
+                setProperty("og:image", blog.banner);
 
                 contentDiv.innerHTML = `
                     <article class="bg-white w-full sm:px-10 md:px-16 lg:px-32 xl:px-40 px-6 pb-6 pt-2 mb-6 rounded-xl">
@@ -179,7 +196,7 @@
             }
 
         } else {
-            document.title = "Articles | BlogsHub";
+            document.title = "All Posts | BlogsHub";
             setMetaTag("robots", "index, follow");
 
             contentDiv.innerHTML = `
@@ -189,9 +206,9 @@
                         <img src="${blog.banner}" alt="Banner for ${blog.title}"
                             class="w-full h-48 object-cover rounded-lg mb-4" />
                         <h2 class="text-2xl font-bold mb-2">
-                            <a href="?post=${blog.id}" class="hover:underline line-clamp-2">${blog.title}</a>
+                            <a href="?post=${blog.id}" class="hover:underline">${blog.title}</a>
                         </h2>
-                        <p class="text-gray-700 line-clamp-3">${blog.description || blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
+                        <p class="text-gray-700">${blog.description || blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
                         <a href="?post=${blog.id}" class="inline-block mt-2 text-white bg-black rounded-full px-4 py-1 hover:underline">Read more →</a>
                     </article>
                     `).join("")}
