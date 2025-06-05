@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const navHTML = `
+    const navHTML = `
     <nav class="sticky top-0 z-50 bg-white border-b border-gray-200 p-4">
       <div class="flex items-center justify-between flex-wrap max-w-7xl mx-auto">
         <!-- Logo -->
@@ -42,83 +42,83 @@ document.addEventListener("DOMContentLoaded", function () {
     </nav>
   `;
 
-  const navContainer = document.getElementById("navbar-placeholder");
-  if (!navContainer) return;
-  navContainer.innerHTML = navHTML;
+    const navContainer = document.getElementById("navbar-placeholder");
+    if (!navContainer) return;
+    navContainer.innerHTML = navHTML;
 
-  const btn = document.getElementById("menu-btn");
-  const menu = document.getElementById("menu");
-  btn.addEventListener("click", () => {
-    menu.classList.toggle("hidden");
-  });
+    const btn = document.getElementById("menu-btn");
+    const menu = document.getElementById("menu");
+    btn.addEventListener("click", () => {
+        menu.classList.toggle("hidden");
+    });
 
-  const searchInput = document.getElementById("navbar-search-input");
-  const suggestionsDiv = document.getElementById("search-suggestions");
+    const searchInput = document.getElementById("navbar-search-input");
+    const suggestionsDiv = document.getElementById("search-suggestions");
 
-  // Pre-fill input if URL has ?q
-  const params = new URLSearchParams(window.location.search);
-  const searchQuery = params.get("q")?.trim() || "";
-  if (searchQuery && searchInput) {
-    searchInput.value = searchQuery;
-  }
-
-  function highlightMatch(text, query) {
-    const regex = new RegExp(`(${query})`, "gi");
-    return text.replace(regex, `<mark class="bg-yellow-200">$1</mark>`);
-  }
-
-  function matchBlog(blog, query) {
-    const q = query.toLowerCase();
-    return (
-      blog.title.toLowerCase().includes(q) ||
-      blog.description?.toLowerCase().includes(q) ||
-      blog.keywords?.toLowerCase().includes(q) ||
-      (blog.tags && blog.tags.some(tag => tag.toLowerCase().includes(q)))
-    );
-  }
-
-  function showSuggestions(query) {
-    const trimmedQuery = query.trim();
-    if (!trimmedQuery) {
-      suggestionsDiv.classList.add("hidden");
-      suggestionsDiv.innerHTML = "";
-      return;
+    // Pre-fill input if URL has ?q
+    const params = new URLSearchParams(window.location.search);
+    const searchQuery = params.get("q")?.trim() || "";
+    if (searchQuery && searchInput) {
+        searchInput.value = searchQuery;
     }
 
-    const matched = blogs.filter(blog => matchBlog(blog, trimmedQuery)).slice(0, 10);
+    function highlightMatch(text, query) {
+        const regex = new RegExp(`(${query})`, "gi");
+        return text.replace(regex, `<mark class="bg-yellow-200">$1</mark>`);
+    }
 
-    if (matched.length === 0) {
-      suggestionsDiv.innerHTML = `<div class="px-4 py-2 text-gray-600">No matches found for "<strong>${trimmedQuery}</strong>"</div>`;
-    } else {
-      suggestionsDiv.innerHTML = matched.map(blog => `
+    function matchBlog(blog, query) {
+        const q = query.toLowerCase();
+        return (
+            blog.title.toLowerCase().includes(q) ||
+            blog.description?.toLowerCase().includes(q) ||
+            blog.keywords?.toLowerCase().includes(q) ||
+            (blog.tags && blog.tags.some(tag => tag.toLowerCase().includes(q)))
+        );
+    }
+
+    function showSuggestions(query) {
+        const trimmedQuery = query.trim();
+        if (!trimmedQuery) {
+            suggestionsDiv.classList.add("hidden");
+            suggestionsDiv.innerHTML = "";
+            return;
+        }
+
+        const matched = blogs.filter(blog => matchBlog(blog, trimmedQuery)).slice(0, 10);
+
+        if (matched.length === 0) {
+            suggestionsDiv.innerHTML = `<div class="px-4 py-2 text-gray-600">No matches found for "<strong>${trimmedQuery}</strong>"</div>`;
+        } else {
+            suggestionsDiv.innerHTML = matched.map(blog => `
         <a href="index.html?post=${blog.id}" class="flex items-center px-4 py-2 hover:bg-sky-100 transition border-b last:border-b-0">
           <img src="${blog.banner}" alt="${blog.title}" class="w-12 h-12 object-cover rounded-lg mr-3" />
           <span class="text-sm font-medium text-gray-800">${highlightMatch(blog.title, trimmedQuery)}</span>
         </a>
       `).join("");
+        }
+
+        suggestionsDiv.classList.remove("hidden");
     }
 
-    suggestionsDiv.classList.remove("hidden");
-  }
+    searchInput.addEventListener("input", e => {
+        const value = e.target.value;
+        showSuggestions(value);
+    });
 
-  searchInput.addEventListener("input", e => {
-    const value = e.target.value;
-    showSuggestions(value);
-  });
+    searchInput.addEventListener("keydown", e => {
+        if (e.key === "Enter") {
+            const value = searchInput.value.trim();
+            if (value.length > 0) {
+                window.location.href = `search.html?q=${encodeURIComponent(value)}`;
+            }
+        }
+    });
 
-  searchInput.addEventListener("keydown", e => {
-    if (e.key === "Enter") {
-      const value = searchInput.value.trim();
-      if (value.length > 0) {
-        window.location.href = `search.html?q=${encodeURIComponent(value)}`;
-      }
-    }
-  });
-
-  // Hide suggestions when clicking outside
-  document.addEventListener("click", (e) => {
-    if (!searchInput.contains(e.target) && !suggestionsDiv.contains(e.target)) {
-      suggestionsDiv.classList.add("hidden");
-    }
-  });
+    // Hide suggestions when clicking outside
+    document.addEventListener("click", (e) => {
+        if (!searchInput.contains(e.target) && !suggestionsDiv.contains(e.target)) {
+            suggestionsDiv.classList.add("hidden");
+        }
+    });
 });
