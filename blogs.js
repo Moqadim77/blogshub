@@ -5,7 +5,7 @@ const blogs = [
     date: "2025-05-29",
     tags: ["AI", "technology", "future skills"],
     keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
-    description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries—from marketing to healthcare.",
+    description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries, from marketing to healthcare.",
     banner: "https://ric.edu.pk/wp-content/uploads/2025/01/Artificial-Intelligence-1.jpg",
     content: `
 AI (Artificial Intelligence) might sound like something from a sci-fi movie, but it’s very real, and already part of your daily life. From smart assistants to personalized Netflix recommendations, AI is shaping how we live, work, and think.
@@ -108,7 +108,7 @@ Remember: AI is powerful, but the person using it is still the most important pa
     date: "2025-05-29",
     tags: ["affiliate marketing", "online income", "marketing"],
     keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
-    description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in—all without needing your own product.",
+    description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in, all without needing your own product.",
     banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
     content: `
 Affiliate marketing is one of the most talked-about ways to make money online. You’ve probably heard someone on YouTube or Instagram say, “I made passive income while I slept!”, and chances are, they were talking about affiliate marketing.
@@ -215,7 +215,7 @@ Affiliate marketing won’t make you rich overnight, but it *can* grow into a re
     date: "2025-05-29",
     tags: ["graphic design", "creative skills", "designing"],
     keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
-    description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design—no degree needed.",
+    description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design, no degree needed.",
     banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
     content: `
 Ever wondered who designs those eye-catching posters, website banners, social media ads, or even the packaging of your favorite snacks? That’s the work of **graphic designers**, the visual storytellers of the digital world.
