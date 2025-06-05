@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=/article.html" />
+    <script>
+      const path = window.location.pathname;
+      // Check if it's a pretty URL like /article/some-post-id
+      if (path.startsWith("/article/")) {
+        const slug = path.replace("/article", "");
+        window.location.replace("/article.html" + slug);
+      } else {
+        // For any other unknown path, go to homepage
+        window.location.replace("/");
+      }
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
