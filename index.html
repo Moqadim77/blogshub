@@ -167,7 +167,7 @@
                 setProperty("og:title", blog.title);
                 setProperty("og:description", blog.description);
                 setProperty("og:type", "article");
-                setProperty("og:url", `${window.location.origin}/index.html?post=${postId}`);
+                setProperty("og:url", `${window.location.origin}/?post=${postId}`);
                 setProperty("og:image", blog.banner);
 
                 contentDiv.innerHTML = `
