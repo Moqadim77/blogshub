@@ -189,7 +189,11 @@
                     </article>
                 `;
             } else {
-                document.title = "Post Not Found | BlogsHub";
+                const contentDiv = document.getElementById("main-content");
+                const params = new URLSearchParams(window.location.search);
+                const postId = params.get("post");
+                const title = postId ? postId.replace(/-/g, ' ') : "";
+                document.title = `${title.length > 0 ? title : "Post Not Found"} | BlogsHub`;
                 setMetaTag("robots", "noindex, nofollow");
 
                 contentDiv.innerHTML = "<p>Sorry, that post doesn’t exist.</p>";
