@@ -1,13 +1,120 @@
 const blogs = [
-  {
-    id: "Understanding-the-Use-of-AI-in-Everyday-Life-and-Business",
-    title: "Understanding the Use of AI: How It's Changing Everyday Life and Business",
-    date: "2025-05-29",
-    tags: ["AI", "technology", "future skills"],
-    keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
-    description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries, from marketing to healthcare.",
-    banner: "https://ric.edu.pk/wp-content/uploads/2025/01/Artificial-Intelligence-1.jpg",
-    content: `
+    {
+        id: "How-to-Use-AI-to-Earn-with-Shopify",
+        title: "How to Use AI to Earn with Shopify",
+        date: "2025-06-05",
+        tags: ["AI", "Shopify", "ecommerce", "side hustle"],
+        keywords: "AI for Shopify, earn with AI, Shopify automation, ecommerce with AI, dropshipping AI, AI tools for store owners, make money with Shopify",
+        description: "Learn how to use artificial intelligence to start or grow a Shopify store in 2025. Discover the best AI tools for product research, store automation, customer service, content creation, and more.",
+        banner: "https://bestfulfill.com/wp-content/uploads/2021/11/can-you-really-make-money-on-shopify-1-1024x576.jpg",
+        content: `
+Want to launch a Shopify store, but don’t know where to start—or how to stand out? Good news: AI is your new business partner.
+
+Artificial Intelligence can now do the heavy lifting for everything from product research to writing product descriptions. Whether you're just starting out or looking to scale your store, AI tools can save time, boost profits, and help you run your business like a pro.
+
+Let’s dive into how to earn money on Shopify using the power of AI.
+
+# Step 1: Find Winning Products with AI
+
+The first step to a successful Shopify store is selling the right product. AI tools can help you find products that are **trending, profitable, and in demand**.
+
+Here are some tools to try:
+- **Sell The Trend** – Uses AI to identify hot products based on sales trends.
+- **Ecomhunt** – Curated list of winning products, plus performance analytics.
+- **Zik Analytics (for dropshipping)** – Research tools that help you understand what sells best.
+
+AI tools speed up the research and reduce guesswork.
+
+# Step 2: Write High-Converting Product Descriptions
+
+Good copy sells. But writing dozens of descriptions? Not fun.
+
+Use AI writing assistants to create professional, SEO-friendly product descriptions:
+- **ChatGPT** – Generate product copy tailored to your audience.
+- **Copy.ai or Jasper** – AI writing tools built for ecommerce marketers.
+- **Grammarly** – Polish your text and sound more persuasive.
+
+Just provide a few details, and let the AI do the rest.
+
+# Step 3: Automate Customer Support
+
+Nobody wants to reply to the same questions all day. AI chatbots can handle FAQs and provide 24/7 support.
+
+Try:
+- **Tidio** – Combines AI with live chat for Shopify.
+- **Gorgias** – Centralizes support and uses AI to speed up replies.
+- **Zendesk with AI** – AI ticket sorting and auto-responses.
+
+Happy customers = repeat customers.
+
+# Step 4: Create Ads and Social Content Fast
+
+Marketing is where most people struggle—but AI can help here too.
+
+Use these tools:
+- **Canva + Magic Write** – Design social media posts and write captions.
+- **Lumen5 or Pictory** – Turn product pages or blog posts into promo videos.
+- **AdCreative.ai** – Generate ad visuals and text optimized for conversions.
+
+Need to write Facebook ads? ChatGPT can do that too.
+
+# Step 5: Personalize the Customer Experience
+
+AI can recommend products to your customers based on their behavior, increasing the chance they’ll buy more.
+
+Apps like:
+- **LimeSpot** – Personalized product recommendations.
+- **Recom.ai** – Upsell and cross-sell with AI logic.
+- **Shopify Inbox AI** – Auto-replies and smarter conversations.
+
+These tools make your store feel like it's run by a genius marketing team (even if it’s just you and coffee).
+
+# Step 6: Use AI to Manage Inventory and Pricing
+
+AI tools can help optimize your stock and prices, so you don’t lose sales—or money.
+
+Check out:
+- **Prisync** – Competitive pricing with AI automation.
+- **Inventory Planner** – Demand forecasting using AI.
+- **Shopify's own analytics + AI** – Built-in reports that guide decisions.
+
+Work smarter, not harder.
+
+# Pros and Cons of Using AI with Shopify
+
+**Pros:**
+- Saves time on repetitive tasks
+- Improves marketing and conversions
+- Offers insights to make smarter decisions
+- Scales your store faster with fewer people
+
+**Cons:**
+- Some tools can be expensive
+- AI still needs a human touch for strategy
+- Over-automation might make your store feel less personal
+
+# Final Thoughts: Use AI to Start (or Scale) Your Shopify Hustle
+
+You don’t need to be a tech genius—or even a full-time entrepreneur—to build a successful Shopify business. With the right AI tools, you can launch faster, spend less time doing boring tasks, and earn more from your efforts.
+
+Start simple:
+- Pick a product
+- Use AI to build your store
+- Let automation handle support and marketing
+
+AI is the secret weapon for modern ecommerce. Use it wisely, and Shopify could be your next side hustle—or your main gig.
+
+`
+    },
+    {
+        id: "Understanding-the-Use-of-AI-in-Everyday-Life-and-Business",
+        title: "Understanding the Use of AI: How It's Changing Everyday Life and Business",
+        date: "2025-05-29",
+        tags: ["AI", "technology", "future skills"],
+        keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
+        description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries, from marketing to healthcare.",
+        banner: "https://ric.edu.pk/wp-content/uploads/2025/01/Artificial-Intelligence-1.jpg",
+        content: `
 AI (Artificial Intelligence) might sound like something from a sci-fi movie, but it’s very real, and already part of your daily life. From smart assistants to personalized Netflix recommendations, AI is shaping how we live, work, and think.
 
 But what exactly is AI? And how can you use it in your personal or professional life? Let’s break it down.
@@ -101,16 +208,16 @@ Start small. Use a few tools. See how they help you save time or unlock new crea
 
 Remember: AI is powerful, but the person using it is still the most important part. Be smart, stay curious, and keep learning.
   `
-  },
-  {
-    id: "A-Beginner-Guide-to-Affiliate-Marketing-What-It-Is-and-How-to-Start",
-    title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
-    date: "2025-05-29",
-    tags: ["affiliate marketing", "online income", "marketing"],
-    keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
-    description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in, all without needing your own product.",
-    banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
-    content: `
+    },
+    {
+        id: "A-Beginner-Guide-to-Affiliate-Marketing-What-It-Is-and-How-to-Start",
+        title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
+        date: "2025-05-29",
+        tags: ["affiliate marketing", "online income", "marketing"],
+        keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
+        description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in, all without needing your own product.",
+        banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
+        content: `
 Affiliate marketing is one of the most talked-about ways to make money online. You’ve probably heard someone on YouTube or Instagram say, “I made passive income while I slept!”, and chances are, they were talking about affiliate marketing.
 
 But what exactly is it? Is it really that easy? And can you actually make money with it, even if you're a complete beginner?
@@ -208,16 +315,16 @@ Start simple. Pick one product, one platform, and one strategy. Learn, test, imp
 
 Affiliate marketing won’t make you rich overnight, but it *can* grow into a reliable side hustle or even full-time income stream if you stay focused and committed.
   `
-  },
-  {
-    id: "Graphic-Designing-A-Beginner-Guide-to-Creating-Visual-Magic",
-    title: "Graphic Designing: A Beginner’s Guide to Creating Visual Magic",
-    date: "2025-05-29",
-    tags: ["graphic design", "creative skills", "designing"],
-    keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
-    description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design, no degree needed.",
-    banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
-    content: `
+    },
+    {
+        id: "Graphic-Designing-A-Beginner-Guide-to-Creating-Visual-Magic",
+        title: "Graphic Designing: A Beginner’s Guide to Creating Visual Magic",
+        date: "2025-05-29",
+        tags: ["graphic design", "creative skills", "designing"],
+        keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
+        description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design, no degree needed.",
+        banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
+        content: `
 Ever wondered who designs those eye-catching posters, website banners, social media ads, or even the packaging of your favorite snacks? That’s the work of **graphic designers**, the visual storytellers of the digital world.
 
 Whether you want to freelance, work for a company, or just learn a cool creative skill, graphic design is one of the most in-demand and rewarding skills in today’s online world.
@@ -315,16 +422,16 @@ Whether you’re a total beginner or someone looking to switch careers, graphic 
 
 So go ahead, open up Canva or Photoshop, and start experimenting. Every great designer started with a blank canvas, yours is waiting.
   `
-  },
-  {
-    id: "A-Beginner-Guide-to-Dropshipping-How-It-Works-and-How-to-Start",
-    title: "A Beginner’s Guide to Dropshipping: How It Works and How to Start",
-    date: "2025-05-29",
-    tags: ["dropshipping", "ecommerce", "online business"],
-    keywords: "dropshipping for beginners, how dropshipping works, start dropshipping, ecommerce business, dropshipping suppliers, online store setup, dropshipping marketing, dropshipping tools",
-    description: "Learn how dropshipping works and how to start your own online store with minimal upfront costs. This beginner’s guide covers essential steps, tools, marketing strategies, and common mistakes to help you build a successful dropshipping business.",
-    banner: "https://online.csp.edu/wp-content/uploads/2020/07/What-is-Drop-Shipping.png",
-    content: `
+    },
+    {
+        id: "A-Beginner-Guide-to-Dropshipping-How-It-Works-and-How-to-Start",
+        title: "A Beginner’s Guide to Dropshipping: How It Works and How to Start",
+        date: "2025-05-29",
+        tags: ["dropshipping", "ecommerce", "online business"],
+        keywords: "dropshipping for beginners, how dropshipping works, start dropshipping, ecommerce business, dropshipping suppliers, online store setup, dropshipping marketing, dropshipping tools",
+        description: "Learn how dropshipping works and how to start your own online store with minimal upfront costs. This beginner’s guide covers essential steps, tools, marketing strategies, and common mistakes to help you build a successful dropshipping business.",
+        banner: "https://online.csp.edu/wp-content/uploads/2020/07/What-is-Drop-Shipping.png",
+        content: `
 You’ve probably heard stories of people running online stores and making sales while lounging on a beach. In many cases, they’re using a business model called **dropshipping**.
 
 It sounds like magic, selling products without touching inventory or shipping boxes, but is it really that easy? And can beginners get started without a big budget?
@@ -419,16 +526,16 @@ If you’re:
 
 Start small. Focus on one product, one store, and one marketing strategy. Be consistent, keep learning, and you’ll have a solid shot at building a real online business.
   `
-  },
-  {
-    id: "A-Beginner-Guide-to-Freelancing-How-to-Start-and-Succeed",
-    title: "A Beginner’s Guide to Freelancing: How to Start and Succeed",
-    date: "2025-05-29",
-    tags: ["freelancing", "remote work", "online income"],
-    keywords: "freelancing for beginners, how to start freelancing, freelance jobs, remote work tips, online income ideas, freelance platforms, freelancing tools, work from anywhere",
-    description: "Discover how to start and succeed in freelancing with this beginner’s guide. Learn essential tips, tools, where to find clients, common mistakes to avoid, and how to build a flexible online income.",
-    banner: "https://tos.com.bd/images/freelancing-outsourcing-platform.jpg",
-    content: `
+    },
+    {
+        id: "A-Beginner-Guide-to-Freelancing-How-to-Start-and-Succeed",
+        title: "A Beginner’s Guide to Freelancing: How to Start and Succeed",
+        date: "2025-05-29",
+        tags: ["freelancing", "remote work", "online income"],
+        keywords: "freelancing for beginners, how to start freelancing, freelance jobs, remote work tips, online income ideas, freelance platforms, freelancing tools, work from anywhere",
+        description: "Discover how to start and succeed in freelancing with this beginner’s guide. Learn essential tips, tools, where to find clients, common mistakes to avoid, and how to build a flexible online income.",
+        banner: "https://tos.com.bd/images/freelancing-outsourcing-platform.jpg",
+        content: `
 You've probably seen people on social media saying they "work from anywhere" or are their own boss. Many of them are doing something called **freelancing**, working for clients or companies independently rather than being a full-time employee.
 
 It’s one of the fastest-growing ways to make money online, and the best part? You don’t need a degree or a fancy office to get started.
@@ -520,16 +627,16 @@ Start by picking one service. Offer it to one client. Then another. Then raise y
 
 Whether you're doing it part-time for extra cash or turning it into a full-time career, freelancing can open doors to a flexible and rewarding lifestyle.
   `
-  },
-  {
-    id: "A-Simple-Guide-to-Trading-What-You-Need-to-Know-Before-You-Begin",
-    title: "A Simple Guide to Trading: What You Need to Know Before You Begin",
-    date: "2025-05-11",
-    tags: ["trading guide", "trading"],
-    keywords: "trading guide, beginner trading tips, how to trade stocks, forex trading basics, types of trading, trading strategies, risk management in trading, trading tools, day trading, swing trading",
-    description: "A simple beginner’s guide to trading explaining how it works, different trading styles, essential tools, common mistakes, and tips to start trading wisely and build your skills over time.",
-    banner: "https://hycm.s3.amazonaws.com/public/files/articles/how_to_trade.webp",
-    content: `
+    },
+    {
+        id: "A-Simple-Guide-to-Trading-What-You-Need-to-Know-Before-You-Begin",
+        title: "A Simple Guide to Trading: What You Need to Know Before You Begin",
+        date: "2025-05-11",
+        tags: ["trading guide", "trading"],
+        keywords: "trading guide, beginner trading tips, how to trade stocks, forex trading basics, types of trading, trading strategies, risk management in trading, trading tools, day trading, swing trading",
+        description: "A simple beginner’s guide to trading explaining how it works, different trading styles, essential tools, common mistakes, and tips to start trading wisely and build your skills over time.",
+        banner: "https://hycm.s3.amazonaws.com/public/files/articles/how_to_trade.webp",
+        content: `
 Trading is becoming more popular every day. You may have seen people talking about it on YouTube, Instagram, or TikTok sharing their trades, profits, and even claiming they make money while they sleep. While some of this is true, there’s a lot more to trading than just buying low and selling high. It’s not a get-rich-quick scheme, but with patience and learning, trading can become a useful skill or even a full-time career.
 \n\n
 If you're new to the world of trading, this article will give you a friendly and easy-to-understand overview of what trading is, how it works, and what to expect as a beginner.
@@ -598,16 +705,16 @@ Trading isn’t for everyone, and that’s okay. It takes time, patience, and a 
 If you’re someone who enjoys learning, likes to take responsibility for your decisions, and can stay calm under pressure, trading might be a great path for you.
 Start small, stay consistent, and treat trading as a skill not a shortcut. With the right mindset, it can be a rewarding journey.
   `
-  },
-  {
-    id: "What-Is-Copywriting-and-Why-Does-It-Matter",
-    title: "What Is Copywriting and Why Does It Matter?",
-    date: "2025-05-27",
-    tags: ["copywriting", "marketing", "freelancing"],
-    keywords: "copywriting, what is copywriting, copywriting tips, marketing copywriting, freelance copywriting, writing to sell, copywriting skills, persuasive writing, copywriting for beginners",
-    description: "Discover what copywriting is, why it matters, and how you can learn this powerful skill to boost sales, improve marketing, and start freelancing with confidence.",
-    banner: "https://www.awai.com/_img/content/what-is-copywriting/title_page_image.png",
-    content: `
+    },
+    {
+        id: "What-Is-Copywriting-and-Why-Does-It-Matter",
+        title: "What Is Copywriting and Why Does It Matter?",
+        date: "2025-05-27",
+        tags: ["copywriting", "marketing", "freelancing"],
+        keywords: "copywriting, what is copywriting, copywriting tips, marketing copywriting, freelance copywriting, writing to sell, copywriting skills, persuasive writing, copywriting for beginners",
+        description: "Discover what copywriting is, why it matters, and how you can learn this powerful skill to boost sales, improve marketing, and start freelancing with confidence.",
+        banner: "https://www.awai.com/_img/content/what-is-copywriting/title_page_image.png",
+        content: `
 Every time you read a catchy ad, a tempting product description, or a website that makes you want to click “buy now,” you’re reading the work of a copywriter. Copywriting is one of the most powerful (and underrated) skills in the digital world today.
 
 Whether you're a business owner, an aspiring freelancer, or someone just curious about online income, learning copywriting can open up incredible opportunities.
@@ -662,16 +769,16 @@ Copywriting isn’t just about writing. It’s about selling ideas, solving prob
 
 And the best part? You can learn it from anywhere, even your couch. All you need is a keyboard, curiosity, and the drive to practice.
   `
-  },
-  {
-    id: "Video-Editing-Basics-How-to-Start-Creating-Epic-Content",
-    title: "Video Editing Basics: How to Start Creating Epic Content",
-    date: "2025-05-29",
-    tags: ["video editing", "content creation", "freelancing"],
-    keywords: "video editing basics, how to edit videos, video editing for beginners, best video editing software, freelance video editor, content creation tips, video editing tips, learn video editing, video editing tutorial",
-    description: "Learn the basics of video editing, discover the best beginner-friendly software, and get tips on how to start creating epic content and even make money as a freelance video editor.",
-    banner: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/56KACkKW05xh2bqHsLp4zk/e08b1ea5363f8fb9e850e93b13dd7163/GettyImages-1418210625.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
-    content: `
+    },
+    {
+        id: "Video-Editing-Basics-How-to-Start-Creating-Epic-Content",
+        title: "Video Editing Basics: How to Start Creating Epic Content",
+        date: "2025-05-29",
+        tags: ["video editing", "content creation", "freelancing"],
+        keywords: "video editing basics, how to edit videos, video editing for beginners, best video editing software, freelance video editor, content creation tips, video editing tips, learn video editing, video editing tutorial",
+        description: "Learn the basics of video editing, discover the best beginner-friendly software, and get tips on how to start creating epic content and even make money as a freelance video editor.",
+        banner: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/56KACkKW05xh2bqHsLp4zk/e08b1ea5363f8fb9e850e93b13dd7163/GettyImages-1418210625.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
+        content: `
 Scroll through YouTube, TikTok, or Instagram, and you’ll notice one thing: clean, eye-catching, and engaging videos are everywhere. Behind every viral reel, cinematic vlog, or cool montage is one crucial skill, **video editing**.
 
 Whether you want to be a content creator, freelancer, or just spice up your travel footage, video editing is a super valuable (and fun) skill to learn.
@@ -774,16 +881,16 @@ Be patient with yourself. Your first videos won’t be perfect (no one’s are).
 
 So grab your clips, fire up your editor, and start creating. The world’s next great video might be waiting inside your hard drive.
   `
-  },
-  {
-    id: "Web-Development-A-Beginner-Guide-to-Building-the-Internet",
-    title: "Web Development: A Beginner’s Guide to Building the Internet",
-    date: "2025-05-29",
-    tags: ["web development", "coding", "tech skills"],
-    keywords: "web development basics, beginner web development, learn coding, frontend development, backend development, full-stack developer, web development tools, how to build websites, coding for beginners",
-    description: "Discover the essentials of web development for beginners. Learn frontend and backend basics, coding languages, tools, and where to find jobs to start building your own websites and web apps.",
-    banner: "https://startupreviewer.com/wp-content/uploads/2022/01/Web-Development-Technologies.jpg",
-    content: `
+    },
+    {
+        id: "Web-Development-A-Beginner-Guide-to-Building-the-Internet",
+        title: "Web Development: A Beginner’s Guide to Building the Internet",
+        date: "2025-05-29",
+        tags: ["web development", "coding", "tech skills"],
+        keywords: "web development basics, beginner web development, learn coding, frontend development, backend development, full-stack developer, web development tools, how to build websites, coding for beginners",
+        description: "Discover the essentials of web development for beginners. Learn frontend and backend basics, coding languages, tools, and where to find jobs to start building your own websites and web apps.",
+        banner: "https://startupreviewer.com/wp-content/uploads/2022/01/Web-Development-Technologies.jpg",
+        content: `
 Ever visited a website and thought, “How do people even build these things?” That’s where **web development** comes in.
 
 From the layout of an online store to the buttons on a blog, web developers are the people who build and maintain the websites and web apps we use every day. And the best part? You don’t need a computer science degree to start learning it.
@@ -882,16 +989,16 @@ Start small. Build a page. Then a project. Then a portfolio. Keep going, and you
 
 The internet is built by people like you, curious, creative, and committed. Time to join the builders.
   `
-  },
-  {
-    id: "TikTok-Monetization-How-to-Make-Money-Creating-Short-Videos",
-    title: "TikTok Monetization: How to Make Money Creating Short Videos",
-    date: "2025-05-29",
-    tags: ["tiktok", "monetization", "creator economy"],
-    keywords: "TikTok monetization, how to make money on TikTok, TikTok creator fund, TikTok brand deals, TikTok affiliate marketing, TikTok shop, grow TikTok audience, TikTok tips for creators",
-    description: "Learn how to make money on TikTok with proven strategies like the Creator Fund, brand deals, affiliate marketing, and selling products. Discover tips to grow your audience and turn your TikTok hobby into a profitable hustle.",
-    banner: "https://podorder.io/wp-content/uploads/2021/10/make-money-on-Tik-Tok.jpg",
-    content: `
+    },
+    {
+        id: "TikTok-Monetization-How-to-Make-Money-Creating-Short-Videos",
+        title: "TikTok Monetization: How to Make Money Creating Short Videos",
+        date: "2025-05-29",
+        tags: ["tiktok", "monetization", "creator economy"],
+        keywords: "TikTok monetization, how to make money on TikTok, TikTok creator fund, TikTok brand deals, TikTok affiliate marketing, TikTok shop, grow TikTok audience, TikTok tips for creators",
+        description: "Learn how to make money on TikTok with proven strategies like the Creator Fund, brand deals, affiliate marketing, and selling products. Discover tips to grow your audience and turn your TikTok hobby into a profitable hustle.",
+        banner: "https://podorder.io/wp-content/uploads/2021/10/make-money-on-Tik-Tok.jpg",
+        content: `
 TikTok isn't just a fun app for dancing and lip-syncing anymore, it's a powerful platform where **anyone can build an audience and start earning real money**. If you’ve ever thought, “Can I actually make money from TikTok?” the answer is yes, but it takes strategy, consistency, and some creativity.
 
 In this guide, we’ll break down the main ways TikTokers are getting paid, even without millions of followers.
@@ -977,5 +1084,5 @@ Yes, you can, but like any platform, success takes time, effort, and a willingne
 
 Start small, be consistent, and focus on value, not just views. With the right strategy, **TikTok can go from a hobby to a hustle.**
   `
-  },
+    },
 ];
