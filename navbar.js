@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const navHTML = `
+  const navHTML = `
     <nav class="sticky top-0 z-50 bg-white border-b border-gray-200 p-4">
       <div class="flex items-center justify-between flex-wrap max-w-7xl mx-auto">
         <!-- Logo -->
@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <button class="absolute left-3 lg:left-4 top-1/2 transform -translate-y-1/2 text-black">
               <i class="fa-solid fa-magnifying-glass text-gray-500"></i>
             </button>
-            <input type="text" placeholder="Search..."
+            <input type="text" id="navbar-search-input" placeholder="Search..."
               class="w-full max-w-[300px] bg-gray-100 focus:border-sky-800 px-4 py-2 pl-9 lg:pl-11 rounded-full text-black focus:outline-none" 
             />
           </div>
@@ -41,15 +41,24 @@ document.addEventListener("DOMContentLoaded", function () {
     </nav>
   `;
 
-    const navContainer = document.getElementById("navbar-placeholder");
-    if (navContainer) {
-        navContainer.innerHTML = navHTML;
+  const navContainer = document.getElementById("navbar-placeholder");
+  if (navContainer) {
+    navContainer.innerHTML = navHTML;
 
-        const btn = document.getElementById("menu-btn");
-        const menu = document.getElementById("menu");
+    const btn = document.getElementById("menu-btn");
+    const menu = document.getElementById("menu");
 
-        btn.addEventListener("click", () => {
-            menu.classList.toggle("hidden");
-        });
+    btn.addEventListener("click", () => {
+      menu.classList.toggle("hidden");
+    });
+
+    // 🔽 Set search input from URL query
+    const params = new URLSearchParams(window.location.search);
+    const searchQuery = params.get("q")?.trim() || "";
+    const searchInput = document.getElementById("navbar-search-input");
+
+    if (searchInput && searchQuery) {
+      searchInput.value = searchQuery;
     }
+  }
 });
