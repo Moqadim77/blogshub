@@ -1,25 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Search | BlogsHub</title>
-  <meta name="description" content="Search results on BlogsHub for trending topics in tech, lifestyle, business and more." />
-  <meta name="keywords" content="blog search, latest blog articles, blogshub search, search blogshub, searching on blogshub, trend on blogshub, trending topics, BlogsHub search" />
-  <meta name="robots" content="index, follow" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" />
-  <link rel="icon" href="favicon.ico" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8833008865372719"
-     crossorigin="anonymous"></script>
-  <script src="navbar.js" defer></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search | BlogsHub</title>
+    <meta name="description"
+        content="Search results on BlogsHub for trending topics in tech, lifestyle, business and more." />
+    <meta name="keywords"
+        content="blog search, latest blog articles, blogshub search, search blogshub, searching on blogshub, trend on blogshub, trending topics, BlogsHub search" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" />
+    <link rel="icon" href="favicon.ico" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8833008865372719"
+        crossorigin="anonymous"></script>
+    <script src="navbar.js" defer></script>
 </head>
+
 <body class="bg-sky-50 text-gray-800">
-  <div id="navbar-placeholder"></div>
+    <div id="navbar-placeholder"></div>
 
     <main class="mx-auto py-6 px-2 sm:px-4">
         <h1 id="search-heading" class="text-3xl font-bold mb-4">Search Page of BlogsHub</h1>
-        
+
         <div id="search-results" class="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3"></div>
     </main>
 
@@ -33,29 +39,29 @@
         }
     </script>
 
-  <script src="blogs.js"></script>
-  <script>
-    const resultsDiv = document.getElementById("search-results");
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get("q")?.toLowerCase().trim() || "";
+    <script src="blogs.js"></script>
+    <script>
+        const resultsDiv = document.getElementById("search-results");
+        const params = new URLSearchParams(window.location.search);
+        const query = params.get("q")?.toLowerCase().trim() || "";
 
-    document.title = query ? `Results for "${query}" | BlogsHub` : "Search | BlogsHub";
+        document.title = query ? `Results for "${query}" | BlogsHub` : "Search | BlogsHub";
 
-    function matchBlog(blog, query) {
-      const lowerQuery = query.toLowerCase();
-      return (
-        blog.title.toLowerCase().includes(lowerQuery) ||
-        blog.description?.toLowerCase().includes(lowerQuery) ||
-        blog.keywords?.toLowerCase().includes(lowerQuery) ||
-        (blog.tags && blog.tags.some(tag => tag.toLowerCase().includes(lowerQuery)))
-      );
-    }
+        function matchBlog(blog, query) {
+            const lowerQuery = query.toLowerCase();
+            return (
+                blog.title.toLowerCase().includes(lowerQuery) ||
+                blog.description?.toLowerCase().includes(lowerQuery) ||
+                blog.keywords?.toLowerCase().includes(lowerQuery) ||
+                (blog.tags && blog.tags.some(tag => tag.toLowerCase().includes(lowerQuery)))
+            );
+        }
 
-    if (query.length > 0) {
-      const matchedBlogs = blogs.filter(blog => matchBlog(blog, query));
+        if (query.length > 0) {
+            const matchedBlogs = blogs.filter(blog => matchBlog(blog, query));
 
-      if (matchedBlogs.length > 0) {
-        resultsDiv.innerHTML = matchedBlogs.map(blog => `
+            if (matchedBlogs.length > 0) {
+                resultsDiv.innerHTML = matchedBlogs.map(blog => `
           <article class="bg-white border border-sky-200 p-4 sm:p-6 rounded-lg shadow hover:shadow-lg transition">
             <img src="${blog.banner}" alt="${blog.title}" class="w-full h-48 object-cover rounded mb-4" />
             <h2 class="text-xl font-bold mb-1">
@@ -65,14 +71,15 @@
             <a href="index.html?post=${blog.id}" class="text-blue-600 font-semibold hover:underline">Read more →</a>
           </article>
         `).join("");
-      } else {
-        resultsDiv.innerHTML = `<p class="text-gray-700 col-span-full">No blog posts found for "<strong>${query}</strong>".</p>`;
-      }
-    } else {
-      resultsDiv.innerHTML = `<p class="text-gray-700 col-span-full">Please enter a search query using <code>?q=your+search</code> in the URL.</p>`;
-    }
-  </script>
+            } else {
+                resultsDiv.innerHTML = `<p class="text-gray-700 col-span-full">No blog posts found for "<strong>${query}</strong>".</p>`;
+            }
+        } else {
+            resultsDiv.innerHTML = `<p class="text-gray-700 col-span-full">Please enter a search query using <code>?q=your+search</code> in the URL.</p>`;
+        }
+    </script>
 
-  <script src="footer.js" defer></script>
+    <script src="footer.js" defer></script>
 </body>
+
 </html>
