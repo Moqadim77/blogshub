@@ -1,4 +1,4 @@
-const blogs = [
+export const blogs = [
   {
     id: "Israel-strikes-Iran-nuclear-sites-2025",
     title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
