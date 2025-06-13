@@ -8,6 +8,7 @@ const blogs = [
     description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
     banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
     content: `
+
 Israel shocked the world on **June 13, 2025** by launching its most extensive military assault on Iran in decades, targeting nuclear and missile sites in what it named **Operation Rising Lion**. In response, Iran retaliated with a massive drone and ballistic missile barrage. The US and global powers quickly stepped in diplomatically and defensively. Here's your all-in-one guide to understanding this critical moment.
 
 ---
@@ -15,71 +16,71 @@ Israel shocked the world on **June 13, 2025** by launching its most extensive mi
 ## 1️⃣ Timeline: What Happened & When
 
 ### ✅ June 11–12: Preparations
-- In the days before the attack, reports indicated Israel was fully prepared to strike key Iranian sites. The US reduced embassy personnel in the region, signaling growing tension :contentReference[oaicite:1]{index=1}.
-- Prime Minister Netanyahu placed a note referencing “a great lion” from the Bible in Jerusalem’s Western Wall, a symbolic signal of the impending military action :contentReference[oaicite:2]{index=2}.
+- In the days before the attack, reports indicated Israel was fully prepared to strike key Iranian sites. The US reduced embassy personnel in the region, signaling growing tension.
+- Prime Minister Netanyahu placed a note referencing “a great lion” from the Bible in Jerusalem’s Western Wall — a symbolic signal of the impending military action.
 
 ---
 
 ### ✅ June 13 (Morning, Israel local time)
-- Israel launched **Operation Rising Lion**, deploying over **200 warplanes and drones** to strike around **100 targets** in Iran. Hit sites included nuclear enrichment facilities (Natanz, Fordow, Isfahan), missile and air-defense infrastructure, and command centers :contentReference[oaicite:3]{index=3}.
-- Preceding drone strikes by Mossad disabled key radar systems to ease the air campaign :contentReference[oaicite:4]{index=4}.
-  
+- Israel launched **Operation Rising Lion**, deploying over **200 warplanes and drones** to strike around **100 targets** in Iran. Hit sites included nuclear enrichment facilities (Natanz, Fordow, Isfahan), missile and air-defense infrastructure, and command centers.
+- Preceding drone strikes by Mossad disabled key radar systems to ease the air campaign.
+
 ---
 
 ### ✅ Afternoon–Evening: Iran’s Response
-- Iran launched a multi-wave attack using over **100 ballistic missiles and 150+ drones**, targeting cities across Israel including Tel Aviv and Jerusalem :contentReference[oaicite:5]{index=5}.
-- Defensive systems,Iron Dome, Patriot, Arrow‑2/3,successfully intercepted nearly all projectiles. Sirens and alerts disrupted civilian life but prevented significant damage :contentReference[oaicite:6]{index=6}.
-- The US assisted Israel in intercepting incoming threats and deployed additional assets to protect regional US military bases :contentReference[oaicite:7]{index=7}.
+- Iran launched a multi-wave attack using over **100 ballistic missiles and 150+ drones**, targeting cities across Israel including Tel Aviv and Jerusalem.
+- Defensive systems—Iron Dome, Patriot, Arrow‑2/3—successfully intercepted nearly all projectiles. Sirens and alerts disrupted civilian life but prevented significant damage.
+- The US assisted Israel in intercepting incoming threats and deployed additional assets to protect regional US military bases.
 
 ---
 
-## 2️⃣ What Was Hit,Targets & Casualties
+## 2️⃣ What Was Hit—Targets & Casualties
 
 ### 🔧 Military & Nuclear Infrastructure
-- **Air-defense radars**, S‑300 missile batteries, missile production sites, and centrifuge and enrichment complexes at Natanz, Fordow, Isfahan, and Khondab were damaged or destroyed :contentReference[oaicite:8]{index=8}.
+- **Air-defense radars**, S‑300 missile batteries, missile production sites, and centrifuge and enrichment complexes at Natanz, Fordow, Isfahan, and Khondab were damaged or destroyed.
 
 ### 🧨 Top Leadership Targets
 - Multiple high-ranking Iranian commanders were killed, including IRGC commander Hossein Salami and Armed Forces Chief Mohammad Bagheri.
-- Prominent nuclear scientists, including Fereydoon Abbasi and Mohammad Mehdi Tehranchi, were also killed :contentReference[oaicite:9]{index=9}.
+- Prominent nuclear scientists, including Fereydoon Abbasi and Mohammad Mehdi Tehranchi, were also killed.
 
 ### 🏘️ Civilian & Infrastructure Impact
-- Exposure of civilian casualties in Tehran and other cities, at least **78 killed and 329 injured**, including children, according to Iranian reports :contentReference[oaicite:10]{index=10}.
-- Preliminary confirmation from the IAEA showed no radiation leak despite the nuclear sites being attacked :contentReference[oaicite:11]{index=11}.
+- Exposure of civilian casualties in Tehran and other cities — at least **78 killed and 329 injured**, including children, according to Iranian reports.
+- Preliminary confirmation from the IAEA showed no radiation leak despite the nuclear sites being attacked.
 
 ---
 
 ## 3️⃣ Immediate Response: Iran, US, Allies
 
 ### 🇮🇷 Iran’s Reaction
-- Ayatollah Khamenei called the attack “satanic,” labeling it a declaration of war and promising “harsh revenge” :contentReference[oaicite:12]{index=12}.
-- The Foreign Ministry accused the US of involvement and demanded global condemnation :contentReference[oaicite:13]{index=13}.
+- Ayatollah Khamenei called the attack “satanic,” labeling it a declaration of war and promising “harsh revenge.”
+- The Foreign Ministry accused the US of involvement and demanded global condemnation.
 
 ### 🇺🇸 United States' Role
-- Assisted air defense intercepts and relocated key military assets nearby :contentReference[oaicite:14]{index=14}.
-- President Trump clarified US did not conduct strikes but warned Iran against deeper escalation :contentReference[oaicite:15]{index=15}.
+- Assisted air defense intercepts and relocated key military assets nearby.
+- President Trump clarified US did not conduct strikes but warned Iran against deeper escalation.
 
 ### 🌐 Global Diplomacy
-- The UN held an emergency session; Western governments called for de-escalation :contentReference[oaicite:16]{index=16}.
-- Russia sharply condemned the attack as “unprovoked and unacceptable” and warned of serious consequences :contentReference[oaicite:17]{index=17}.
+- The UN held an emergency session; Western governments called for de-escalation.
+- Russia sharply condemned the attack as “unprovoked and unacceptable” and warned of serious consequences.
 
 ---
 
 ## 4️⃣ Why This Attack Matters
 
 ### 🧭 A Shift Toward Direct Conflict
-This was the largest direct airstrike by Israel on Iran since the Iran–Iraq War. It signals a move from proxy engagements to overt military confrontation :contentReference[oaicite:18]{index=18}.
+This was the largest direct airstrike by Israel on Iran since the Iran–Iraq War. It signals a move from proxy engagements to overt military confrontation.
 
 ### 🔬 Nuclear Implications
-Israel claims to delay Iran’s path to a nuclear weapon. Despite IAEA finding no radiation leak, Iran has vowed to accelerate enrichment :contentReference[oaicite:19]{index=19}.
+Israel claims to delay Iran’s path to a nuclear weapon. Despite IAEA finding no radiation leak, Iran has vowed to accelerate enrichment.
 
 ### 💣 Military Advantage
-Taking out radars and missile systems opens space for future air operations and alters Iran’s deterrence capability :contentReference[oaicite:20]{index=20}.
+Taking out radars and missile systems opens space for future air operations and alters Iran’s deterrence capability.
 
 ### 🌏 Regional Risk Increases
-Heightened tension increases the likelihood of proxy attacks by Hezbollah, Houthis, or militias targeting US or allied interests :contentReference[oaicite:21]{index=21}.
+Heightened tension increases the likelihood of proxy attacks by Hezbollah, Houthis, or militias targeting US or allied interests.
 
 ### 📈 Economic & Global Impact
-Oil prices spiked over 7%, airline routes were diverted, and markets saw heightened volatility :contentReference[oaicite:22]{index=22}.
+Oil prices spiked over 7%, airline routes were diverted, and markets saw heightened volatility.
 
 ---
 
@@ -112,7 +113,7 @@ Oil prices spiked over 7%, airline routes were diverted, and markets saw heighte
 
 ## 7️⃣ Beginner Takeaways
 
-- This event crossed a threshold,this is direct war, not proxy warfare.
+- This event crossed a threshold—this is direct war, not proxy warfare.
 - The US played a supporting but non-combatant role.
 - Global powers are trying to contain a spiral, yet responses are mixed.
 - The outcome could reshape the Middle East’s geopolitical map and global security.
@@ -122,28 +123,28 @@ Oil prices spiked over 7%, airline routes were diverted, and markets saw heighte
 ## 8️⃣ Frequently Asked Questions
 
 ### ❓ Was the Natanz site badly damaged?
-Yes,Natanz and Fordow were hit, with no radiation leak but irreversible infrastructural damage :contentReference[oaicite:23]{index=23}.
+Yes—Natanz and Fordow were hit, with no radiation leak but irreversible infrastructural damage.
 
 ---
 
 ### ❓ Did the US take part in the strikes?
-No,the US helped to intercept Iran’s retaliation but did not execute airstrikes :contentReference[oaicite:24]{index=24}.
+No—the US helped to intercept Iran’s retaliation but did not execute airstrikes.
 
 ---
 
 ### ❓ Will this lead to full-scale war?
-Unclear,both sides showed restraint. Israel indicated ongoing operations while Iran vowed “harsh” responses. Watch for more missile/drones, proxy actions, and global diplomatic moves.
+Unclear—both sides showed restraint. Israel indicated ongoing operations while Iran vowed “harsh” responses. Watch for more missile/drones, proxy actions, and global diplomatic moves.
 
 ---
 
 ### ❓ How are global markets reacting?
-Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More disruption possible if escalation continues :contentReference[oaicite:25]{index=25}.
+Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More disruption possible if escalation continues.
 
 ---
 
 ## 9️⃣ Final Takeaway
 
-**Operation Rising Lion** on June 13, 2025, marks a watershed moment. Israel’s deep strike into Iran showcases unprecedented strategic boldness. Iran’s retaliation, mostly foiled, demonstrates defense capability. The region is at a delicate crossroads,skirting the edge between strategic deterrence and all-out war. Global eyes are on how both sides and international actors maneuver next.
+**Operation Rising Lion** on June 13, 2025, marks a watershed moment. Israel’s deep strike into Iran showcases unprecedented strategic boldness. Iran’s retaliation, mostly foiled, demonstrates defense capability. The region is at a delicate crossroads—skirting the edge between strategic deterrence and all-out war. Global eyes are on how both sides and international actors maneuver next.
 
 ---
 
@@ -151,7 +152,6 @@ Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More
 - [Top Websites to Earn Money from Typing Jobs](/blog/Top-Websites-to-Earn-Money-from-Typing-Jobs)  
 - [How to Make Money with SEO Services](/blog/How-to-Make-Money-with-SEO-Services)  
 *(Check these out if you're tracking personal finance during global uncertainty.)*
-
 `
 },
   {
