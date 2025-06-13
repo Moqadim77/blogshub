@@ -1,4 +1,4 @@
-export const blogs = [
+const blogs = [
   {
     id: "Israel-strikes-Iran-nuclear-sites-2025",
     title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
@@ -2768,17 +2768,16 @@ Here’s your success roadmap:
 
 💻✨ Ready to earn your first $5 on Fiverr? That’s how it starts. The rest is up to you.
   `
-<<<<<<< HEAD
-},
-{
-  id: "How-to-Make-Money-with-SEO-Services",
-  title: "How to Make Money with SEO Services: Beginner’s Guide (2025)",
-  date: "2025-06-10",
-  tags: ["SEO", "digital marketing", "freelancing", "online business"],
-  keywords: "how to make money with SEO, SEO services for beginners, start SEO freelancing, SEO agency 2025, earn online with SEO, search engine optimization, make money from SEO skills, beginner SEO guide, SEO business ideas, passive income SEO",
-  description: "Learn how to make money with SEO services in 2025. This beginner-friendly guide covers everything—from learning SEO skills to landing clients, offering services, and scaling a profitable freelancing or agency business.",
-  banner: "https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/647cf030c6d707eb3eea55f9_SEO%20Ranking.webp",
-  content: `
+  },
+  {
+    id: "How-to-Make-Money-with-SEO-Services",
+    title: "How to Make Money with SEO Services: Beginner’s Guide (2025)",
+    date: "2025-06-10",
+    tags: ["SEO", "digital marketing", "freelancing", "online business"],
+    keywords: "how to make money with SEO, SEO services for beginners, start SEO freelancing, SEO agency 2025, earn online with SEO, search engine optimization, make money from SEO skills, beginner SEO guide, SEO business ideas, passive income SEO",
+    description: "Learn how to make money with SEO services in 2025. This beginner-friendly guide covers everything—from learning SEO skills to landing clients, offering services, and scaling a profitable freelancing or agency business.",
+    banner: "https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/647cf030c6d707eb3eea55f9_SEO%20Ranking.webp",
+    content: `
 
 SEO (Search Engine Optimization) is one of the most in-demand skills in the digital world—and guess what? You don’t need a marketing degree to earn money with it.
 
@@ -2979,17 +2978,6 @@ In 2025 and beyond, **businesses that want visibility online will always need SE
 ---
 Start learning today. Practice on your own site. Then, turn that knowledge into income—one optimized page at a time.
 `
-},
-    {
-  id: "How-to-Make-Money-Without-Investment-in-2025",
-  title: "How to Make Money Without Investment in 2025 (No Money? No Problem!)",
-  date: "2025-06-05",
-  tags: ["money", "side hustle", "passive income", "students", "online work"],
-  keywords: "how to make money without investment, no investment side hustles, free ways to earn online, make money from home 2025, zero investment business ideas, earn money as a student, passive income without money, freelancing without investment, make money online free, how to earn without spending",
-  description: "You don’t need money to start making money. Discover 12+ powerful ways to earn online in 2025 without any upfront investment—perfect for students, beginners, and anyone starting from scratch.",
-  banner: "https://cdn.pixabay.com/photo/2016/10/18/21/22/dollar-1751551_1280.jpg",
-  content: `
-=======
   },
   {
     id: "How-to-Make-Money-Without-Investment-in-2025",
@@ -3000,10 +2988,9 @@ Start learning today. Practice on your own site. Then, turn that knowledge into 
     description: "You don’t need money to start making money. Discover 12+ powerful ways to earn online in 2025 without any upfront investment, perfect for students, beginners, and anyone starting from scratch.",
     banner: "https://digest.myhq.in/wp-content/uploads/2023/05/71Z_2201.w009.n001.101B.p14.101-scaled.jpg",
     content: `
->>>>>>> dfabaf24ba6e83fb9f6e13766dc6962d5fd56da8
 Ever felt stuck because you want to earn but don't have money to start?
 
-Here’s the truth: **You can start earning online in 2025 with ZERO investment.** All you need is a phone/laptop, internet, and your time.
+Here’s the truth: ** You can start earning online in 2025 with ZERO investment.** All you need is a phone/ laptop, internet, and your time.
 
 Whether you're a student, unemployed, or just looking for a side hustle, this guide gives you **real, proven ways to make money online** without spending a dime.
 
@@ -3011,27 +2998,27 @@ Let’s dive into the top methods.
 
 ---
 
-# 1. Freelancing (Your Skills = Your Money)
+# 1. Freelancing(Your Skills = Your Money)
 
-Freelancing means selling your skills directly to clients. No money needed, just your talent.
+Freelancing means selling your skills directly to clients.No money needed, just your talent.
 
 Popular platforms:
-- **Fiverr**
-- **Upwork**
-- **Freelancer.com**
+- ** Fiverr **
+- ** Upwork **
+- ** Freelancer.com **
 
-Skills in demand:
-- Writing  
-- Graphic design  
-- Video editing  
-- Voice-over  
-- Social media management  
-- Translation  
-- Virtual assistant
+  Skills in demand:
+  - Writing
+  - Graphic design
+  - Video editing
+  - Voice - over
+  - Social media management
+  - Translation
+  - Virtual assistant
 
-💡 *Tip: Create a free profile, showcase your work (even if made for practice), and start pitching small gigs.*
+💡 * Tip: Create a free profile, showcase your work(even if made for practice), and start pitching small gigs.*
 
----
+  ---
 
 # 2. Content Writing
 
@@ -3039,35 +3026,35 @@ If you enjoy writing, this is one of the fastest ways to earn online, without sp
 
 You can:
 - Write blog posts for websites
-- Offer SEO article writing
-- Write email newsletters or product descriptions
+  - Offer SEO article writing
+    - Write email newsletters or product descriptions
 
 Where to start:
 - Join Facebook writing groups
-- Sign up on Fiverr or PeoplePerHour
-- Offer services on LinkedIn
+  - Sign up on Fiverr or PeoplePerHour
+    - Offer services on LinkedIn
 
-**Bonus:** Use free tools like **Grammarly** and **Hemingway Editor** to improve your writing quality.
+      ** Bonus:** Use free tools like ** Grammarly ** and ** Hemingway Editor ** to improve your writing quality.
 
 ---
 
 # 3. Start a YouTube Channel
 
-You don’t need fancy gear. Many creators started with just a phone and free editing apps.
+You don’t need fancy gear.Many creators started with just a phone and free editing apps.
 
-What can you create?
-- Tutorials (e.g., math, coding, art)
-- Lifestyle vlogs
-- Product reviews
-- Cooking videos
-- Funny shorts or memes
+What can you create ?
+  - Tutorials(e.g., math, coding, art)
+  - Lifestyle vlogs
+    - Product reviews
+      - Cooking videos
+        - Funny shorts or memes
 
-Once you hit **1,000 subscribers + 4,000 watch hours**, you can apply for **YouTube monetization** and earn from ads.
+Once you hit ** 1,000 subscribers + 4,000 watch hours **, you can apply for ** YouTube monetization ** and earn from ads.
 
 Also earn from:
 - Brand sponsorships
-- Affiliate links
-- Selling your digital products
+  - Affiliate links
+    - Selling your digital products
 
 ---
 
@@ -3077,37 +3064,37 @@ If you’re creative, Instagram can make you money, without spending anything.
 
 Post short, engaging Reels around:
 - Quotes
-- Tips
-- Funny skits
-- Trending audio
-- Tutorials
+  - Tips
+  - Funny skits
+    - Trending audio
+      - Tutorials
 
 Ways to earn:
-- Brand deals (even micro influencers get paid!)
-- Affiliate marketing
-- Paid promotions
-- Instagram Creator Fund (in some regions)
+- Brand deals(even micro influencers get paid!)
+  - Affiliate marketing
+    - Paid promotions
+      - Instagram Creator Fund(in some regions)
 
 ---
 
 # 5. Sell Your Photos
 
-Love photography? Turn your phone camera into a money-making machine.
+Love photography ? Turn your phone camera into a money - making machine.
 
 Upload your photos to stock photo websites like:
-- **Pexels**
-- **Unsplash**
-- **Shutterstock**
-- **Adobe Stock**
+- ** Pexels **
+- ** Unsplash **
+- ** Shutterstock **
+- ** Adobe Stock **
 
-Every time someone downloads or buys your photo, you earn.
+  Every time someone downloads or buys your photo, you earn.
 
 Hot photo ideas:
-- Nature  
-- Food  
-- Abstract textures  
-- Everyday objects  
-- Tech setups
+- Nature
+  - Food
+  - Abstract textures
+    - Everyday objects
+      - Tech setups
 
 ---
 
@@ -3115,32 +3102,32 @@ Hot photo ideas:
 
 You can sell:
 - Canva templates
-- Notion planners
-- Resume designs
-- Ebooks
-- Wallpapers
-- Printable to-do lists
+  - Notion planners
+    - Resume designs
+      - Ebooks
+      - Wallpapers
+      - Printable to -do lists
 
 Use:
-- **Gumroad** (free to start)
-- **Payhip**
-- **Ko-fi**
+- ** Gumroad ** (free to start)
+- ** Payhip **
+- ** Ko - fi **
 
-Create your product with free tools, upload, and start promoting on social media.
+  Create your product with free tools, upload, and start promoting on social media.
 
 ---
 
 # 7. Online Tutoring
 
-If you’re good at a subject (math, English, science, coding, etc.), help others and get paid.
+If you’re good at a subject(math, English, science, coding, etc.), help others and get paid.
 
-Platforms:
-- **Preply**
-- **Superprof**
-- **Chegg Tutors**
-- **Cambly** (for spoken English)
+  Platforms:
+- ** Preply **
+- ** Superprof **
+- ** Chegg Tutors **
+- ** Cambly ** (for spoken English)
 
-You can also teach independently via Zoom/Google Meet and find students on local Facebook groups.
+You can also teach independently via Zoom / Google Meet and find students on local Facebook groups.
 
 ---
 
@@ -3149,11 +3136,11 @@ You can also teach independently via Zoom/Google Meet and find students on local
 Transcription = turning audio or video into text.
 
 Platforms to start:
-- **Rev.com**
-- **TranscribeMe**
-- **GoTranscript**
+- ** Rev.com **
+- ** TranscribeMe **
+- ** GoTranscript **
 
-Pays $0.30 to $1 per audio minute. Just need good English and listening skills.
+  Pays $0.30 to $1 per audio minute.Just need good English and listening skills.
 
 ---
 
@@ -3161,54 +3148,54 @@ Pays $0.30 to $1 per audio minute. Just need good English and listening skills.
 
 Promote other people’s products and earn commission for each sale.
 
-You don’t need a website. You can:
+You don’t need a website.You can:
 - Share links in YouTube descriptions
-- Add them to Instagram bios
-- Write posts on Medium or LinkedIn
+  - Add them to Instagram bios
+    - Write posts on Medium or LinkedIn
 
 Join affiliate programs:
-- **Amazon Associates**
-- **ClickBank**
-- **Impact**
-- **ShareASale**
+- ** Amazon Associates **
+- ** ClickBank **
+- ** Impact **
+- ** ShareASale **
 
-💡 Tip: Focus on one niche (like fitness, tech, or books) to grow faster.
+💡 Tip: Focus on one niche(like fitness, tech, or books) to grow faster.
 
 ---
 
 # 10. Become a Virtual Assistant
 
 Businesses and influencers need help with:
-- Email management  
-- Scheduling posts  
-- Data entry  
-- Research  
-- Customer replies
+- Email management
+  - Scheduling posts
+    - Data entry
+      - Research
+      - Customer replies
 
-You can work part-time from home and earn well.
+You can work part - time from home and earn well.
 
 Start by offering services on:
 - Fiverr
-- OnlineJobs.ph
-- Facebook groups
-- LinkedIn
+  - OnlineJobs.ph
+  - Facebook groups
+    - LinkedIn
 
 ---
 
 # 11. Answer Surveys or Test Apps
 
-Not the most lucrative, but easy to start and 100% free.
+Not the most lucrative, but easy to start and 100 % free.
 
 Sites like:
-- **Swagbucks**
-- **Toluna**
-- **UserTesting**
-- **TimeBucks**
+- ** Swagbucks **
+- ** Toluna **
+- ** UserTesting **
+- ** TimeBucks **
 
-Some pay you to:
+  Some pay you to:
 - Test new websites
-- Give opinions
-- Watch ads
+  - Give opinions
+    - Watch ads
 
 💡 Don’t expect big money, but it’s great for pocket cash.
 
@@ -3216,12 +3203,12 @@ Some pay you to:
 
 # 12. Voice Over Work
 
-Got a nice voice? Record ads, reels, videos, or tutorials.
+Got a nice voice ? Record ads, reels, videos, or tutorials.
 
 You can:
 - Record using your phone and a quiet space
-- Use **Audacity** (free software) to edit
-- Offer on Fiverr, Voices.com, or Upwork
+- Use ** Audacity ** (free software) to edit
+  - Offer on Fiverr, Voices.com, or Upwork
 
 No need for a studio to get started!
 
@@ -3229,10 +3216,10 @@ No need for a studio to get started!
 
 # Real Success Stories of People Who Started with $0
 
-✅ *Maya*, a college student in India, started freelance writing on Fiverr and now earns $800/month.  
-✅ *Rahul*, used Canva and sold Instagram templates on Gumroad, made $1,200 in 3 months.  
-✅ *Sarah*, started teaching English online via Zoom, now has 15 students and full-time income.  
-✅ *Ali*, created study guides on Notion and sells them as digital downloads for passive income.
+✅ * Maya *, a college student in India, started freelance writing on Fiverr and now earns $800 / month.  
+✅ * Rahul *, used Canva and sold Instagram templates on Gumroad, made $1, 200 in 3 months.  
+✅ * Sarah *, started teaching English online via Zoom, now has 15 students and full - time income.  
+✅ * Ali *, created study guides on Notion and sells them as digital downloads for passive income.
 
 They all started with time, skills, and consistency, not money.
 
@@ -3240,20 +3227,20 @@ They all started with time, skills, and consistency, not money.
 
 # Free Tools to Boost Your Journey
 
-| Task | Free Tool |
-|------|-----------|
+  | Task | Free Tool |
+| ------| -----------|
 | Design | Canva, Photopea |
 | Writing | Grammarly, Hemingway |
 | Coding | Replit, GitHub |
 | Video Editing | CapCut, InShot |
 | Selling Digital Products | Gumroad, Payhip |
-| Marketing | Buffer (social scheduling), Linktree |
+| Marketing | Buffer(social scheduling), Linktree |
 
----
+  ---
 
 # Final Thoughts: Start Now, Start Small
 
-Making money without investment is 100% possible in 2025.
+Making money without investment is 100 % possible in 2025.
 
 Here’s what you need:
 ✅ A smartphone or computer  
@@ -3261,65 +3248,64 @@ Here’s what you need:
 ✅ Time, effort, and consistency  
 ❌ No need for paid ads, courses, or software to begin
 
-Pick one method from this list. Stick with it for 30 days. You’ll learn, grow, and probably earn faster than you expect.
+Pick one method from this list.Stick with it for 30 days.You’ll learn, grow, and probably earn faster than you expect.
 
-Remember: **You don’t need money. You need a mindset.**
+  Remember: ** You don’t need money.You need a mindset.**
 
-So stop waiting, start building your income today! 💰📱💻
+    So stop waiting, start building your income today! 💰📱💻
 `
-<<<<<<< HEAD
-},
-{
-  id: "How-to-Make-Money-with-Real-Estate",
-  title: "How to Make Money with Real Estate: Beginner’s Guide (2025)",
-  date: "2025-06-10",
-  tags: ["real estate", "investing", "passive income", "beginner guide"],
-  keywords: "how to make money with real estate, real estate investing for beginners, passive income property, earn money with rentals, house flipping, Airbnb rental tips, beginner real estate guide, real estate 2025, best ways to invest in property, real estate income ideas",
-  description: "Discover how beginners can start making money through real estate. Learn about rental income, house flipping, REITs, Airbnb hosting, and smart strategies for success in property investing—no experience needed.",
-  banner: "https://profit.pakistantoday.com.pk/wp-content/uploads/2020/07/iStock-912235266-scaled.jpg",
-  content: `
+  },
+  {
+    id: "How-to-Make-Money-with-Real-Estate",
+    title: "How to Make Money with Real Estate: Beginner’s Guide (2025)",
+    date: "2025-06-10",
+    tags: ["real estate", "investing", "passive income", "beginner guide"],
+    keywords: "how to make money with real estate, real estate investing for beginners, passive income property, earn money with rentals, house flipping, Airbnb rental tips, beginner real estate guide, real estate 2025, best ways to invest in property, real estate income ideas",
+    description: "Discover how beginners can start making money through real estate. Learn about rental income, house flipping, REITs, Airbnb hosting, and smart strategies for success in property investing—no experience needed.",
+    banner: "https://profit.pakistantoday.com.pk/wp-content/uploads/2020/07/iStock-912235266-scaled.jpg",
+    content: `
 
 Real estate is one of the oldest and most powerful ways to build wealth—and yes, even beginners can get started in 2025.
 
 Whether you want to earn passive income, build equity, or flip properties for profit, real estate offers multiple paths to make money—without needing to be a millionaire.
 
-Let’s break it all down for you:
+  Let’s break it all down for you:
 
----
+    ---
 
-# 🏡 What Is Real Estate?
+# 🏡 What Is Real Estate ?
 
-Real estate refers to **property consisting of land and buildings**, including:
+  Real estate refers to ** property consisting of land and buildings **, including:
 - Houses
-- Apartments
-- Commercial buildings
-- Land
+  - Apartments
+  - Commercial buildings
+    - Land
 
-When you buy real estate, you can either **live in it**, **rent it**, or **resell it** for a profit.
+When you buy real estate, you can either ** live in it **, ** rent it **, or ** resell it ** for a profit.
 
 ---
 
 # 💰 1. Ways to Make Money from Real Estate
 
 ## 1️⃣ Rental Income  
-Buy a property, rent it out monthly, and collect consistent passive income. Great for long-term wealth.
+Buy a property, rent it out monthly, and collect consistent passive income.Great for long - term wealth.
 
-Example:
-> Buy an apartment for $80,000 and rent it for $500/month = $6,000/year in income.
+  Example:
+> Buy an apartment for $80,000 and rent it for $500 / month = $6,000 / year in income.
 
 ## 2️⃣ House Flipping  
 Buy a cheap or old property, renovate it, and sell it for a higher price.
 
-Example:
+  Example:
 > Buy at $50,000 → Spend $15,000 on renovation → Sell at $90,000 → Profit: $25,000
 
-## 3️⃣ Airbnb / Short-Term Rentals  
+## 3️⃣ Airbnb / Short - Term Rentals  
 Rent your home or room to tourists using platforms like Airbnb or Booking.com.
 
-Best in tourist areas or cities.
+  Best in tourist areas or cities.
 
-## 4️⃣ Real Estate Investment Trusts (REITs)  
-Want to invest without owning property? Buy shares in a REIT (like stocks) and earn dividends.
+## 4️⃣ Real Estate Investment Trusts(REITs)  
+Want to invest without owning property ? Buy shares in a REIT(like stocks) and earn dividends.
 
 No tenants, no maintenance.
 
@@ -3327,135 +3313,135 @@ No tenants, no maintenance.
 Buy land in growing areas and sell it later for profit—or rent it for farming, billboard space, or storage.
 
 ## 6️⃣ Lease Options  
-Control property without owning it—rent it with the right to buy later. Sublet it for profit.
+Control property without owning it—rent it with the right to buy later.Sublet it for profit.
 
 ## 7️⃣ Wholesaling  
 Find properties below market price, connect the seller to a buyer, and earn a commission—without buying anything.
 
 ---
 
-# 🧠 Is Real Estate Safe for Beginners?
+# 🧠 Is Real Estate Safe for Beginners ?
 
-Yes—**if done wisely.**
+  Yes—**if done wisely.**
 
-Like any investment, it involves risk. But real estate offers:
-- Tangible assets (you can see and touch the property)
-- Appreciation (property value usually increases over time)
-- Monthly income potential (through rent)
+    Like any investment, it involves risk.But real estate offers:
+- Tangible assets(you can see and touch the property)
+  - Appreciation(property value usually increases over time)
+  - Monthly income potential(through rent)
 
-You don’t need to buy a mansion. You can start small—even with:
+You don’t need to buy a mansion.You can start small—even with:
 - A shared apartment
-- A small piece of land
-- A single unit to rent on Airbnb
+  - A small piece of land
+    - A single unit to rent on Airbnb
 
 ---
 
-# 🔍 How to Start Step-by-Step (Beginner Roadmap)
+# 🔍 How to Start Step - by - Step(Beginner Roadmap)
 
 ## ✅ Step 1: Learn the Basics  
 Before buying anything, understand:
 - Market prices
-- Rental demand in your area
-- Legal regulations (especially rental laws)
+  - Rental demand in your area
+    - Legal regulations(especially rental laws)
 
 Read blogs, watch YouTube tutorials, or join real estate Facebook groups.
 
 ## ✅ Step 2: Decide Your Path  
 Choose based on your budget and time:
-- Want passive income? → Try rentals or REITs.  
-- Want fast profit? → Consider house flipping or wholesaling.  
-- Want low investment? → Try Airbnb hosting or land leasing.
+- Want passive income ? → Try rentals or REITs.  
+- Want fast profit ? → Consider house flipping or wholesaling.  
+- Want low investment ? → Try Airbnb hosting or land leasing.
 
-## ✅ Step 3: Save Capital or Get Financing  
+## ✅ Step 3: Save Capital or Get Financing
 You’ll need a budget for:
-- Down payment (10–30% of property price)
-- Closing costs
-- Repairs or upgrades
+  - Down payment(10–30 % of property price)
+    - Closing costs
+      - Repairs or upgrades
 
 OR, try:
 - Bank loans
-- Government grants (for first-time buyers)
-- Real estate crowdfunding platforms
+  - Government grants(for first - time buyers)
+  - Real estate crowdfunding platforms
 
 ## ✅ Step 4: Find the Right Property  
 Use online platforms like:
 - Zillow
-- Realtor.com
-- Redfin
-- Facebook Marketplace (for land or cheap homes)
+  - Realtor.com
+  - Redfin
+  - Facebook Marketplace(for land or cheap homes)
 
 Look for:
-- Undervalued homes
-- High-rental areas
-- Properties near schools, markets, or transport
+  - Undervalued homes
+    - High - rental areas
+      - Properties near schools, markets, or transport
 
 ## ✅ Step 5: Close the Deal  
 Work with:
 - A real estate agent
-- A lawyer
-- An inspector
+  - A lawyer
+    - An inspector
 
 Make sure the paperwork is legal and clean.
 
-## ✅ Step 6: Start Earning  
-- Rent it out (long-term or Airbnb)  
-- Flip it after renovation  
-- Sell when market prices rise
+## ✅ Step 6: Start Earning
+  - Rent it out(long - term or Airbnb)
+    - Flip it after renovation
+      - Sell when market prices rise
 
 ---
 
 # 🛠️ Tools & Platforms for Real Estate Success
 
-- **Zillow / Redfin / Realtor.com** – Property listings
-- **BiggerPockets** – Forum for real estate learning
-- **Airbnb / Vrbo** – Short-term rental income
-- **Roofstock / Fundrise** – Buy or invest in rentals online
-- **Google Maps** – Analyze neighborhoods
-- **Canva** – Create flyers or ads for tenants
-- **Trello / Notion** – Organize renovation or tenant tasks
+  - ** Zillow / Redfin / Realtor.com ** – Property listings
+    - ** BiggerPockets ** – Forum for real estate learning
+      - ** Airbnb / Vrbo ** – Short - term rental income
+        - ** Roofstock / Fundrise ** – Buy or invest in rentals online
+          - ** Google Maps ** – Analyze neighborhoods
+            - ** Canva ** – Create flyers or ads for tenants
+              - ** Trello / Notion ** – Organize renovation or tenant tasks
 
 ---
 
-# 📈 How Much Can You Earn?
+# 📈 How Much Can You Earn ?
 
 | Method | Potential Monthly Income | Notes |
-|--------|--------------------------|-------|
-| Long-Term Rental | $300–$2,000+ | Depends on city, rent, costs |
-| Airbnb Hosting | $500–$3,000+ | Higher in tourist cities |
+| --------| --------------------------| -------|
+| Long - Term Rental | $300–$2,000 + | Depends on city, rent, costs |
+| Airbnb Hosting | $500–$3,000 + | Higher in tourist cities |
 | House Flipping | $10,000–$50,000 | After 3–6 months of work |
 | Wholesaling | $5,000–$20,000 | Quick if you have buyers |
-| REITs | $100–$1,000+ annually | Good for passive income |
+| REITs | $100–$1,000 + annually | Good for passive income |
 
----
+  ---
 
 # ⚖️ Pros and Cons of Real Estate
 
-**Pros:**
-- Stable and secure investment
-- Monthly income potential
-- Property values usually rise
-- Can be started part-time
-- Tax advantages
+  ** Pros:**
+    - Stable and secure investment
+      - Monthly income potential
+        - Property values usually rise
+          - Can be started part - time
+            - Tax advantages
 
-**Cons:**
-- Requires capital (or loans)
-- Maintenance costs
-- Risk of bad tenants
-- Can be slow to sell
-- Market can crash
+              ** Cons:**
+                - Requires capital(or loans)
+                  - Maintenance costs
+                    - Risk of bad tenants
+                      - Can be slow to sell
+                        - Market can crash
 
 ---
 
 # 🤔 Common Mistakes Beginners Make
 
-- Buying in the wrong location
-- Ignoring property inspections
-- Underestimating repair costs
-- Overpricing rent
-- Not screening tenants properly
-- Going in without a strategy
+  - Buying in the wrong location
+    - Ignoring property inspections
+      - Underestimating repair costs
+        - Overpricing rent
+          - Not screening tenants properly
+            - Going in without a strategy
 
-**Tip:** Always run the numbers before buying!
+              ** Tip:** Always run the numbers before buying!
 
 ---
 
@@ -3465,27 +3451,16 @@ Whether you're a student, freelancer, full-time worker, or entrepreneur—**real
 
 Even if you don’t have a big budget, you can begin with:
 - Airbnb
-- Wholesaling
-- Real estate crowdfunding
+  - Wholesaling
+  - Real estate crowdfunding
 
 Or start learning now and save up to buy your first property in the next 1–2 years.
 
-**Real estate isn't a get-rich-quick scheme—but it’s one of the best get-rich-slowly systems in the world.**
+** Real estate isn't a get-rich-quick scheme—but it’s one of the best get-rich-slowly systems in the world.**
 
 ---
-Start small. Stay smart. And in time, you could turn your first property into a lifetime of income.
+  Start small.Stay smart.And in time, you could turn your first property into a lifetime of income.
 `
-},
-    {
-        id: "How-to-Use-AI-To-Make-Money-with-Social-Media-Management",
-        title: "How to Use AI to Make Money with Social Media Management",
-        date: "2025-06-05",
-        tags: ["AI", "social media", "freelancing", "side hustle", "content creation"],
-        keywords: "make money social media, AI for social media management, social media manager tools, freelance social media manager, automate social media, content planner AI, get clients for social media",
-        description: "Learn how to make money as a social media manager using AI tools. From finding clients to automating content creation, discover how AI makes it easier to offer high-value services, no agency required.",
-        banner: "https://res.cloudinary.com/jerrick/image/upload/v1663233342/6322ed3eb944b7001e56e97e.png",
-        content: `
-=======
   },
   {
     id: "How-to-Use-AI-To-Make-Money-with-Social-Media-Management",
@@ -3496,103 +3471,102 @@ Start small. Stay smart. And in time, you could turn your first property into a 
     description: "Learn how to make money as a social media manager using AI tools. From finding clients to automating content creation, discover how AI makes it easier to offer high-value services, no agency required.",
     banner: "https://res.cloudinary.com/jerrick/image/upload/v1663233342/6322ed3eb944b7001e56e97e.png",
     content: `
->>>>>>> dfabaf24ba6e83fb9f6e13766dc6962d5fd56da8
-Think social media management is only for agencies or marketing pros? Think again.
+Think social media management is only for agencies or marketing pros ? Think again.
 
-With AI, **you can become a social media manager, even as a beginner, and earn real income** managing accounts for creators, brands, and small businesses.
+With AI, ** you can become a social media manager, even as a beginner, and earn real income ** managing accounts for creators, brands, and small businesses.
 
-Here’s how to get started (and how AI does most of the heavy lifting).
+  Here’s how to get started(and how AI does most of the heavy lifting).
 
 # Step 1: Pick Your Platform(s) and Niche
 
 Focus on a few platforms you understand or enjoy, like:
 - Instagram
-- Facebook
-- TikTok
-- LinkedIn
-- Twitter/X
+  - Facebook
+  - TikTok
+  - LinkedIn
+  - Twitter / X
 
-Then choose a niche, real estate, fitness, fashion, coaches, or local businesses. This makes it easier to create relevant content and find clients.
+Then choose a niche, real estate, fitness, fashion, coaches, or local businesses.This makes it easier to create relevant content and find clients.
 
-Want help choosing a niche? Ask **ChatGPT**:  
-> “What are profitable niches for a beginner social media manager?”
+Want help choosing a niche ? Ask ** ChatGPT **:  
+> “What are profitable niches for a beginner social media manager ?”
 
-# Step 2: Learn the Basics (Fast-Tracked by AI)
+# Step 2: Learn the Basics(Fast - Tracked by AI)
 
-You don’t need a degree. AI tools can help you learn on the fly:
-- Use **ChatGPT** to ask social media marketing questions
-- Watch YouTube videos and summarize them with **AI summarizers**
-- Use **Notion AI** to organize your learning and create a content plan
+You don’t need a degree.AI tools can help you learn on the fly:
+- Use ** ChatGPT ** to ask social media marketing questions
+  - Watch YouTube videos and summarize them with ** AI summarizers **
+- Use ** Notion AI ** to organize your learning and create a content plan
 
 Master the basics of:
 - Content strategy
-- Post design
-- Scheduling tools
-- Engagement techniques
+  - Post design
+    - Scheduling tools
+      - Engagement techniques
 
-# Step 3: Offer Services (with AI Doing the Hard Parts)
+# Step 3: Offer Services(with AI Doing the Hard Parts)
 
 Your job is to create and post content, respond to comments, and grow the client's brand. AI makes this easier:
 
 ### Content Creation
-- **ChatGPT** – Write captions, post ideas, and call-to-actions.
-- **Canva + Magic Design** – Design branded posts in minutes.
-- **InVideo or CapCut AI** – Create short-form videos and reels.
+  - ** ChatGPT ** – Write captions, post ideas, and call - to - actions.
+- ** Canva + Magic Design ** – Design branded posts in minutes.
+- ** InVideo or CapCut AI ** – Create short - form videos and reels.
 
 ### Scheduling
-- **Buffer**, **Later**, or **Metricool** – Schedule posts across platforms.
+  - ** Buffer **, ** Later **, or ** Metricool ** – Schedule posts across platforms.
 - AI tools pick the best time to post for more engagement.
 
 ### Analytics & Strategy
-- **Hootsuite AI** or **SocialBee** – Analyze what’s working, then auto-adjust strategy.
-- **Google Sheets + AI Plugins** – Track client performance and generate reports.
+  - ** Hootsuite AI ** or ** SocialBee ** – Analyze what’s working, then auto - adjust strategy.
+- ** Google Sheets + AI Plugins ** – Track client performance and generate reports.
 
 # Step 4: Find Clients and Get Paid
 
-You don’t need 10K followers. You just need one client who doesn’t have time to post.
+You don’t need 10K followers.You just need one client who doesn’t have time to post.
 
 Where to find clients:
-- **Fiverr or Upwork** – Offer packages like “3 posts per week + captions”
-- **Facebook groups or LinkedIn** – DM small business owners
-- **Cold emails** – Use ChatGPT to write the perfect pitch
-- **Instagram DMs** – Reach out to creators who need help
+- ** Fiverr or Upwork ** – Offer packages like “3 posts per week + captions”
+- ** Facebook groups or LinkedIn ** – DM small business owners
+  - ** Cold emails ** – Use ChatGPT to write the perfect pitch
+    - ** Instagram DMs ** – Reach out to creators who need help
 
-Start small: offer $150–$500/month packages. As your portfolio grows, so can your rates.
+Start small: offer $150–$500 / month packages.As your portfolio grows, so can your rates.
 
-# Step 5: Deliver Results with Confidence (AI = Your Team)
+# Step 5: Deliver Results with Confidence(AI = Your Team)
 
 Your client thinks you’re a social media wizard, but AI is your secret weapon.
 
 Each week:
 - Use AI to plan content
-- Schedule posts for the week in one sitting
-- Use analytics tools to see what’s working
-- Use ChatGPT to brainstorm post ideas, giveaway campaigns, or hashtag strategies
+  - Schedule posts for the week in one sitting
+    - Use analytics tools to see what’s working
+      - Use ChatGPT to brainstorm post ideas, giveaway campaigns, or hashtag strategies
 
-Bonus: Offer **add-ons** like Instagram bio optimization, branded Canva templates, or monthly reports, all done faster with AI.
+Bonus: Offer ** add - ons ** like Instagram bio optimization, branded Canva templates, or monthly reports, all done faster with AI.
 
-# Pros and Cons of AI-Powered Social Media Management
+# Pros and Cons of AI - Powered Social Media Management
 
-**Pros:**
-- Start with no experience
-- Use AI to create, plan, and schedule content fast
-- Work from anywhere
-- Scalable, manage more accounts as you grow
+  ** Pros:**
+    - Start with no experience
+      - Use AI to create, plan, and schedule content fast
+        - Work from anywhere
+          - Scalable, manage more accounts as you grow
 
-**Cons:**
-- Still requires creativity and consistency
-- Some clients may want more complex strategies
-- Over-reliance on AI can lead to generic content (add your personal touch!)
+            ** Cons:**
+              - Still requires creativity and consistency
+                - Some clients may want more complex strategies
+                  - Over - reliance on AI can lead to generic content(add your personal touch!)
 
-# Final Thoughts: Manage Like a Pro (Even as a Beginner)
+# Final Thoughts: Manage Like a Pro(Even as a Beginner)
 
-Social media management is one of the best **low-cost, high-demand skills** you can offer in 2025, and AI makes it easier than ever.
+Social media management is one of the best ** low - cost, high - demand skills ** you can offer in 2025, and AI makes it easier than ever.
 
 You don’t need an agency.
 You don’t need a huge following.
 You just need AI, a few smart tools, and the drive to help businesses grow online.
 
-Here’s your action plan:
+  Here’s your action plan:
 1. Pick 1–2 platforms + a niche
 2. Learn the basics with AI tools
 3. Offer services with AI handling content and scheduling
@@ -3600,259 +3574,247 @@ Here’s your action plan:
 
 Use AI to manage content like a pro, deliver results, and turn social media into your next income stream.
 `
-<<<<<<< HEAD
-    },
-    {
-  id: "Top-Websites-to-Earn-Money-from-Typing-Jobs",
-  title: "Top Websites to Earn Money from Typing Jobs (2025 Guide for Beginners)",
-  date: "2025-06-10",
-  tags: ["typing jobs", "freelancing", "online work", "earn from home", "data entry"],
-  keywords: "typing jobs online, websites for typing jobs, earn from home, make money typing, freelance data entry, transcription jobs, typing for beginners, part time online jobs, earn by typing 2025, no investment jobs",
-  description: "Discover the best websites where you can earn money by doing typing jobs in 2025. This guide is perfect for beginners looking for legitimate online typing work—no investment needed.",
-  banner: "https://media.licdn.com/dms/image/v2/D5612AQGGRGb5dFTxig/article-cover_image-shrink_720_1280/B56ZYjFudYGcAQ-/0/1744345430393?e=2147483647&v=beta&t=5VlrKDrcisF5ne_jY6PyiDbrhPqqd9rI31KAUjzpAbc",
-  content: `
+  },
+  {
+    id: "Top-Websites-to-Earn-Money-from-Typing-Jobs",
+    title: "Top Websites to Earn Money from Typing Jobs (2025 Guide for Beginners)",
+    date: "2025-06-10",
+    tags: ["typing jobs", "freelancing", "online work", "earn from home", "data entry"],
+    keywords: "typing jobs online, websites for typing jobs, earn from home, make money typing, freelance data entry, transcription jobs, typing for beginners, part time online jobs, earn by typing 2025, no investment jobs",
+    description: "Discover the best websites where you can earn money by doing typing jobs in 2025. This guide is perfect for beginners looking for legitimate online typing work—no investment needed.",
+    banner: "https://media.licdn.com/dms/image/v2/D5612AQGGRGb5dFTxig/article-cover_image-shrink_720_1280/B56ZYjFudYGcAQ-/0/1744345430393?e=2147483647&v=beta&t=5VlrKDrcisF5ne_jY6PyiDbrhPqqd9rI31KAUjzpAbc",
+    content: `
 
 If you're looking for a simple and beginner-friendly way to earn money online, typing jobs might be your best bet. In 2025, thousands of people are making a side income or even a full-time living just by typing!
 
-The good news? You don’t need any technical skills. If you can type and follow instructions, you're already qualified.
+The good news ? You don’t need any technical skills.If you can type and follow instructions, you're already qualified.
 
-This guide will show you the **top websites** where you can find legitimate typing jobs—and start earning right away.
+This guide will show you the ** top websites ** where you can find legitimate typing jobs—and start earning right away.
 
 ---
 
-# 🧾 What Are Typing Jobs?
+# 🧾 What Are Typing Jobs ?
 
-Typing jobs are online tasks where you get paid to type or input content. These include:
+  Typing jobs are online tasks where you get paid to type or input content.These include:
 
-- **Data entry**
-- **Transcription**
-- **Captioning**
-- **Content writing**
-- **Copy typing (PDF to Word)**
-- **Form filling**
+- ** Data entry **
+- ** Transcription **
+- ** Captioning **
+- ** Content writing **
+- ** Copy typing(PDF to Word) **
+- ** Form filling **
 
-These jobs usually don’t require experience and can be done part-time or full-time from home.
+  These jobs usually don’t require experience and can be done part - time or full - time from home.
 
 ---
 
 # 🌐 Top Websites to Earn Money from Typing Jobs
 
-## 1. **Upwork**
-- 🖥 Website: [upwork.com](https://www.upwork.com)
-- 💼 Type: Freelancing platform
-- 💵 Earnings: $5–$30/hour
+## 1. ** Upwork **
+  - 🖥 Website: [upwork.com](https://www.upwork.com)
+    - 💼 Type: Freelancing platform
+  - 💵 Earnings: $5–$30 / hour
 
-Upwork is one of the biggest freelancing websites in the world. You’ll find hundreds of typing jobs posted every day—ranging from data entry to transcription and form filling.
+Upwork is one of the biggest freelancing websites in the world.You’ll find hundreds of typing jobs posted every day—ranging from data entry to transcription and form filling.
 
-**Pros:**
-- Trusted by big companies
-- Steady supply of jobs
-- You can build a long-term client base
+** Pros:**
+  - Trusted by big companies
+  - Steady supply of jobs
+  - You can build a long - term client base
 
-**Tips:** Start with low-competition jobs. Build your profile with a few successful projects.
-
----
-
-## 2. **Rev**
-- 🖥 Website: [rev.com](https://www.rev.com)
-- 💼 Type: Transcription & captioning
-- 💵 Earnings: $0.30–$1.10 per audio minute
-
-Rev hires freelancers to convert audio files into written text (transcription) or create captions for videos.
-
-**Pros:**
-- Flexible hours
-- No experience needed
-- Work is always available
-
-**Tips:** Take their grammar and typing test seriously. Accuracy matters.
+  ** Tips:** Start with low - competition jobs.Build your profile with a few successful projects.
 
 ---
 
-## 3. **Fiverr**
-- 🖥 Website: [fiverr.com](https://www.fiverr.com)
-- 💼 Type: Freelance gigs
-- 💵 Earnings: $5–$100+ per gig
+## 2. ** Rev **
+  - 🖥 Website: [rev.com](https://www.rev.com)
+    - 💼 Type: Transcription & captioning
+    - 💵 Earnings: $0.30–$1.10 per audio minute
 
-Fiverr lets you offer typing services as a gig. You can create packages for:
-- PDF to Word typing
-- Handwritten note transcription
-- Blog writing or editing
+Rev hires freelancers to convert audio files into written text(transcription) or create captions for videos.
 
-**Pros:**
-- Create your own prices
-- Build a brand around typing
-- International clients
+** Pros:**
+    - Flexible hours
+      - No experience needed
+        - Work is always available
 
-**Tips:** Use keywords in your gig titles and descriptions like “fast typing”, “PDF conversion”, “error-free typing”.
+          ** Tips:** Take their grammar and typing test seriously.Accuracy matters.
 
 ---
 
-## 4. **Clickworker**
-- 🖥 Website: [clickworker.com](https://www.clickworker.com)
-- 💼 Type: Microtasks, typing, and data entry
-- 💵 Earnings: $5–$20/hour (varies by task)
+## 3. ** Fiverr **
+  - 🖥 Website: [fiverr.com](https://www.fiverr.com)
+    - 💼 Type: Freelance gigs
+  - 💵 Earnings: $5–$100 + per gig
+
+Fiverr lets you offer typing services as a gig.You can create packages for:
+  - PDF to Word typing
+    - Handwritten note transcription
+      - Blog writing or editing
+
+        ** Pros:**
+          - Create your own prices
+            - Build a brand around typing
+              - International clients
+
+                ** Tips:** Use keywords in your gig titles and descriptions like “fast typing”, “PDF conversion”, “error - free typing”.
+
+---
+
+## 4. ** Clickworker **
+  - 🖥 Website: [clickworker.com](https://www.clickworker.com)
+    - 💼 Type: Microtasks, typing, and data entry
+  - 💵 Earnings: $5–$20 / hour(varies by task)
 
 Clickworker pays users to complete small jobs—data entry, product categorization, surveys, and copywriting.
 
-**Pros:**
-- Easy sign-up
-- Suitable for beginners
-- Tasks available 24/7
+** Pros:**
+  - Easy sign - up
+  - Suitable for beginners
+    - Tasks available 24 / 7
 
-**Tips:** Complete assessments to unlock high-paying tasks.
-
----
-
-## 5. **Freelancer**
-- 🖥 Website: [freelancer.com](https://www.freelancer.com)
-- 💼 Type: Freelance platform
-- 💵 Earnings: Varies by job
-
-Freelancer is similar to Upwork, offering thousands of typing jobs daily. You can apply for:
-- Typing PDF to Word
-- Manual data entry
-- Captcha typing
-- Transcription
-
-**Pros:**
-- Tons of global clients
-- Safe payment system
-- Variety of tasks
-
-**Tips:** Use the bidding system wisely. Don’t bid too low; show your value.
+    ** Tips:** Complete assessments to unlock high - paying tasks.
 
 ---
 
-## 6. **Scribie**
-- 🖥 Website: [scribie.com](https://scribie.com)
-- 💼 Type: Transcription
-- 💵 Earnings: $5–$25/audio hour
+## 5. ** Freelancer **
+  - 🖥 Website: [freelancer.com](https://www.freelancer.com)
+    - 💼 Type: Freelance platform
+  - 💵 Earnings: Varies by job
 
-Scribie offers short audio clips (under 10 minutes) that need to be transcribed. It’s perfect for beginners trying transcription for the first time.
+Freelancer is similar to Upwork, offering thousands of typing jobs daily.You can apply for:
+  - Typing PDF to Word
+    - Manual data entry
+      - Captcha typing
+        - Transcription
 
-**Pros:**
-- Simple platform
-- Short tasks
-- Work whenever you want
+        ** Pros:**
+          - Tons of global clients
+            - Safe payment system
+              - Variety of tasks
 
-**Tips:** Take their free test to get accepted.
+                ** Tips:** Use the bidding system wisely.Don’t bid too low; show your value.
 
 ---
 
-## 7. **PeoplePerHour**
-- 🖥 Website: [peopleperhour.com](https://www.peopleperhour.com)
-- 💼 Type: Freelance projects
-- 💵 Earnings: $10–$100+ per task
+## 6. ** Scribie **
+  - 🖥 Website: [scribie.com](https://scribie.com)
+    - 💼 Type: Transcription
+  - 💵 Earnings: $5–$25 / audio hour
+
+Scribie offers short audio clips(under 10 minutes) that need to be transcribed.It’s perfect for beginners trying transcription for the first time.
+
+** Pros:**
+    - Simple platform
+      - Short tasks
+        - Work whenever you want
+
+          ** Tips:** Take their free test to get accepted.
+
+---
+
+## 7. ** PeoplePerHour **
+  - 🖥 Website: [peopleperhour.com](https://www.peopleperhour.com)
+    - 💼 Type: Freelance projects
+  - 💵 Earnings: $10–$100 + per task
 
 This site connects freelancers to clients for various jobs, including typing, virtual assistance, and transcription.
 
-**Pros:**
-- Global job opportunities
-- High-paying clients
-- Flexible work terms
+** Pros:**
+  - Global job opportunities
+    - High - paying clients
+      - Flexible work terms
 
-**Tips:** Create a standout profile and pitch clearly why you’re the best for the job.
+        ** Tips:** Create a standout profile and pitch clearly why you’re the best for the job.
 
 ---
 
-## 8. **Microworkers**
-- 🖥 Website: [microworkers.com](https://www.microworkers.com)
-- 💼 Type: Microtasks
-- 💵 Earnings: $0.10 – $2 per task
+## 8. ** Microworkers **
+  - 🖥 Website: [microworkers.com](https://www.microworkers.com)
+    - 💼 Type: Microtasks
+  - 💵 Earnings: $0.10 – $2 per task
 
 While each task pays less, you can do many jobs quickly—typing, form filling, and categorization.
 
-**Pros:**
-- Fast payouts
-- Low-skill entry
-- Great for side income
+** Pros:**
+  - Fast payouts
+    - Low - skill entry
+      - Great for side income
 
-**Tips:** Focus on quick and repeatable tasks to earn consistently.
-
----
-
-## 9. **TranscribeMe**
-- 🖥 Website: [transcribeme.com](https://www.transcribeme.com)
-- 💼 Type: Transcription
-- 💵 Earnings: $15–$22 per audio hour
-
-This site is known for its steady work and beginner-friendly approach. You listen to short audio clips and transcribe them.
-
-**Pros:**
-- Flexible hours
-- Weekly payments
-- Promotions available for quality workers
-
-**Tips:** Pass the entrance test and follow their style guide carefully.
+        ** Tips:** Focus on quick and repeatable tasks to earn consistently.
 
 ---
 
-## 10. **Amazon Mechanical Turk (MTurk)**
-- 🖥 Website: [mturk.com](https://www.mturk.com)
-- 💼 Type: Microtasks
-- 💵 Earnings: $0.05 – $5 per task
+## 9. ** TranscribeMe **
+  - 🖥 Website: [transcribeme.com](https://www.transcribeme.com)
+    - 💼 Type: Transcription
+  - 💵 Earnings: $15–$22 per audio hour
 
-Owned by Amazon, MTurk offers typing-related microtasks such as:
-- Data categorization
-- Transcription
-- Survey entry
+This site is known for its steady work and beginner - friendly approach.You listen to short audio clips and transcribe them.
 
-**Pros:**
-- Legit and trusted
-- Simple typing work
-- Global reach
+** Pros:**
+  - Flexible hours
+    - Weekly payments
+      - Promotions available for quality workers
 
-**Tips:** Some tasks are US-only, but many are open globally.
+        ** Tips:** Pass the entrance test and follow their style guide carefully.
+
+---
+
+## 10. ** Amazon Mechanical Turk(MTurk) **
+  - 🖥 Website: [mturk.com](https://www.mturk.com)
+    - 💼 Type: Microtasks
+  - 💵 Earnings: $0.05 – $5 per task
+
+Owned by Amazon, MTurk offers typing - related microtasks such as:
+    - Data categorization
+    - Transcription
+  - Survey entry
+
+  ** Pros:**
+  - Legit and trusted
+  - Simple typing work
+  - Global reach
+
+  ** Tips:** Some tasks are US - only, but many are open globally.
 
 ---
 
 # 🧠 Tips for Success in Typing Jobs
 
-- **Improve your typing speed** – Aim for at least 50 WPM with 95%+ accuracy
-- **Avoid scams** – Never pay to apply or “buy software” for a job
-- **Start small, scale gradually** – Get experience and build client trust
-- **Build a portfolio** – Even simple screenshots of finished work help
-- **Use good tools** – Grammarly, Google Docs, TypingTest.com
+  - ** Improve your typing speed ** – Aim for at least 50 WPM with 95 % + accuracy
+  - ** Avoid scams ** – Never pay to apply or “buy software” for a job
+    - ** Start small, scale gradually ** – Get experience and build client trust
+      - ** Build a portfolio ** – Even simple screenshots of finished work help
+        - ** Use good tools ** – Grammarly, Google Docs, TypingTest.com
 
 ---
 
 # 🧾 Pros and Cons of Typing Jobs
 
-**✅ Pros:**
-- No experience needed
-- Flexible hours
-- Great for students, stay-at-home parents
-- Can be done part-time or full-time
+  **✅ Pros:**
+    - No experience needed
+      - Flexible hours
+        - Great for students, stay - at - home parents
+          - Can be done part - time or full - time
 
-**❌ Cons:**
-- Some jobs pay low in the beginning
-- Repetitive tasks
-- Requires self-discipline and patience
+            **❌ Cons:**
+              - Some jobs pay low in the beginning
+                - Repetitive tasks
+                  - Requires self - discipline and patience
 
 ---
 
 # 📌 Final Thoughts
 
-Typing jobs are one of the easiest ways to start earning money online. You don’t need fancy skills—just a computer, internet, and dedication.
+Typing jobs are one of the easiest ways to start earning money online.You don’t need fancy skills—just a computer, internet, and dedication.
 
-By joining legit websites like **Rev, Fiverr, Upwork**, and **Clickworker**, you can find consistent work, build your experience, and even grow into a full-time freelancer.
+By joining legit websites like ** Rev, Fiverr, Upwork **, and ** Clickworker **, you can find consistent work, build your experience, and even grow into a full - time freelancer.
 
-Whether you want side cash or long-term income, **typing jobs are a great place to begin**.
+Whether you want side cash or long - term income, ** typing jobs are a great place to begin **.
 
 Start slow, stay focused—and type your way to financial freedom.
 `
-},
-    {
-  id: "How-to-Earn-Money-with-Online-Coaching",
-  title: "How to Earn Money with Online Coaching: Turn Your Expertise into a Profitable Business",
-  date: "2025-06-08",
-  tags: ["online coaching", "make money online", "digital business", "side hustle", "entrepreneurship"],
-  keywords: "how to earn money online coaching, start online coaching business, make money coaching, online coaching tips, coaching platforms, online coaching marketing, coaching business growth, best coaching niches, coaching tools, coaching income",
-  description: "Discover how to earn money with online coaching by sharing your skills and expertise. Learn how to start, market, and grow a successful coaching business in 2025.",
-  banner: "https://cdn.pixabay.com/photo/2017/08/06/10/24/online-2589101_1280.jpg",
-  content: `
-=======
   },
   {
     id: "How-to-Earn-Money-with-Online-Coaching",
@@ -3861,49 +3823,48 @@ Start slow, stay focused—and type your way to financial freedom.
     tags: ["online coaching", "make money online", "digital business", "side hustle", "entrepreneurship"],
     keywords: "how to earn money online coaching, start online coaching business, make money coaching, online coaching tips, coaching platforms, online coaching marketing, coaching business growth, best coaching niches, coaching tools, coaching income",
     description: "Discover how to earn money with online coaching by sharing your skills and expertise. Learn how to start, market, and grow a successful coaching business in 2025.",
-    banner: "https://cdn.shopify.com/s/files/1/0840/8370/3830/articles/1603954884-how-to-make-money-online.jpg?v=1714647100",
+    banner: "https://cdn.pixabay.com/photo/2017/08/06/10/24/online-2589101_1280.jpg",
     content: `
->>>>>>> dfabaf24ba6e83fb9f6e13766dc6962d5fd56da8
-Online coaching has exploded in popularity as more people seek personalized help to improve their skills, health, career, or life. If you have expertise in a specific area and love helping others, online coaching can be a highly rewarding and profitable business.
+Online coaching has exploded in popularity as more people seek personalized help to improve their skills, health, career, or life.If you have expertise in a specific area and love helping others, online coaching can be a highly rewarding and profitable business.
 
 In this guide, we’ll walk you through everything you need to know about earning money with online coaching, from getting started to scaling your coaching business.
 
 ---
 
-# What is Online Coaching?
+# What is Online Coaching ?
 
-Online coaching involves providing guidance, training, or mentorship to clients over the internet. Unlike traditional in-person coaching, everything happens remotely via video calls, messaging apps, or email.
+  Online coaching involves providing guidance, training, or mentorship to clients over the internet.Unlike traditional in -person coaching, everything happens remotely via video calls, messaging apps, or email.
 
 Popular coaching types include:
-- Life coaching  
-- Fitness coaching  
-- Business coaching  
-- Career coaching  
-- Nutrition coaching  
-- Language coaching  
+- Life coaching
+  - Fitness coaching
+    - Business coaching
+      - Career coaching
+        - Nutrition coaching
+          - Language coaching
 
 ---
 
-# Why Choose Online Coaching?
+# Why Choose Online Coaching ?
 
-- Flexible schedule, work anytime, anywhere  
-- Low startup cost, no physical office needed  
-- Scalable, work with individuals or groups  
-- High demand, more people want personal support online  
-- Rewarding, make a real impact on clients’ lives  
+  - Flexible schedule, work anytime, anywhere
+    - Low startup cost, no physical office needed
+      - Scalable, work with individuals or groups
+        - High demand, more people want personal support online
+          - Rewarding, make a real impact on clients’ lives
 
 ---
 
 # Step 1: Identify Your Niche and Expertise
 
-The first step is to clearly define your coaching niche. What are you an expert in? What problems can you solve for others?
+The first step is to clearly define your coaching niche.What are you an expert in? What problems can you solve for others ?
 
-Niche examples:
-- Weight loss for busy professionals  
-- Career growth for recent grads  
-- Social media marketing for small businesses  
-- Mindfulness and stress management  
-- English speaking for non-native learners  
+  Niche examples:
+  - Weight loss for busy professionals
+    - Career growth for recent grads
+      - Social media marketing for small businesses
+        - Mindfulness and stress management
+          - English speaking for non - native learners  
 
 Choosing a niche helps you target the right clients and stand out.
 
@@ -3911,15 +3872,15 @@ Choosing a niche helps you target the right clients and stand out.
 
 # Step 2: Create Your Coaching Packages
 
-Decide what type of coaching services you will offer. Typical options include:
+Decide what type of coaching services you will offer.Typical options include:
 
-- One-on-one coaching sessions (30 minutes to 1 hour)  
-- Group coaching programs  
-- Monthly subscription coaching  
-- Pre-recorded coaching courses  
-- Hybrid packages (live + recorded)  
+- One - on - one coaching sessions(30 minutes to 1 hour)
+  - Group coaching programs
+    - Monthly subscription coaching
+      - Pre - recorded coaching courses
+        - Hybrid packages(live + recorded)  
 
-Set pricing based on your experience, niche, and market rates. Beginners can start with affordable rates and raise prices as they build testimonials and results.
+Set pricing based on your experience, niche, and market rates.Beginners can start with affordable rates and raise prices as they build testimonials and results.
 
 ---
 
@@ -3927,10 +3888,10 @@ Set pricing based on your experience, niche, and market rates. Beginners can sta
 
 To attract clients, you need a professional online presence:
 
-- Create a website with your services, bio, and testimonials  
-- Use social media (Instagram, LinkedIn, TikTok) to share tips and build audience  
-- Start an email list to nurture leads and offer value  
-- Share client success stories and case studies  
+- Create a website with your services, bio, and testimonials
+  - Use social media(Instagram, LinkedIn, TikTok) to share tips and build audience
+    - Start an email list to nurture leads and offer value
+      - Share client success stories and case studies  
 
 Your online brand builds trust and attracts paying clients.
 
@@ -3940,11 +3901,11 @@ Your online brand builds trust and attracts paying clients.
 
 Some useful tools include:
 
-- Video call platforms: Zoom, Google Meet, Skype  
-- Scheduling tools: Calendly, Acuity Scheduling  
-- Payment processors: PayPal, Stripe  
-- Client management: CoachAccountable, Teachable  
-- Messaging apps: WhatsApp, Slack, Telegram  
+- Video call platforms: Zoom, Google Meet, Skype
+  - Scheduling tools: Calendly, Acuity Scheduling
+    - Payment processors: PayPal, Stripe
+      - Client management: CoachAccountable, Teachable
+        - Messaging apps: WhatsApp, Slack, Telegram  
 
 Choose tools that fit your workflow and offer a smooth client experience.
 
@@ -3952,13 +3913,13 @@ Choose tools that fit your workflow and offer a smooth client experience.
 
 # Step 5: Market Your Coaching Business
 
-Marketing is key to earning money consistently. Strategies to try:
+Marketing is key to earning money consistently.Strategies to try:
 
-- Content marketing: Blog posts, YouTube videos, podcasts  
-- Social media marketing: Share tips, live videos, Q&A  
-- Paid ads: Facebook, Instagram, or Google Ads  
-- Collaborations: Partner with influencers or complementary coaches  
-- Webinars or free workshops to showcase expertise  
+- Content marketing: Blog posts, YouTube videos, podcasts
+  - Social media marketing: Share tips, live videos, Q & A
+    - Paid ads: Facebook, Instagram, or Google Ads
+      - Collaborations: Partner with influencers or complementary coaches
+        - Webinars or free workshops to showcase expertise  
 
 Focus on providing value and building relationships.
 
@@ -3966,13 +3927,13 @@ Focus on providing value and building relationships.
 
 # Step 6: Deliver Exceptional Coaching
 
-Your clients’ results and satisfaction will determine your success. Be:
+Your clients’ results and satisfaction will determine your success.Be:
 
-- Supportive and attentive  
-- Clear with goals and expectations  
-- Provide actionable advice and homework  
-- Follow up regularly  
-- Gather feedback and testimonials  
+- Supportive and attentive
+  - Clear with goals and expectations
+    - Provide actionable advice and homework
+      - Follow up regularly
+        - Gather feedback and testimonials  
 
 Happy clients become repeat clients and refer others.
 
@@ -3982,11 +3943,11 @@ Happy clients become repeat clients and refer others.
 
 As you grow, consider:
 
-- Hiring assistant coaches or virtual assistants  
-- Creating online courses or membership sites  
-- Offering group coaching for higher efficiency  
-- Automating marketing with email sequences  
-- Expanding your niche or adding complementary services  
+- Hiring assistant coaches or virtual assistants
+  - Creating online courses or membership sites
+    - Offering group coaching for higher efficiency
+      - Automating marketing with email sequences
+        - Expanding your niche or adding complementary services  
 
 Scaling lets you increase income without working more hours.
 
@@ -3994,207 +3955,206 @@ Scaling lets you increase income without working more hours.
 
 # Pros and Cons of Online Coaching
 
-**Pros:**  
-- Flexible and location-independent  
-- Low startup costs  
-- High impact on clients’ lives  
-- Growing market with diverse niches  
+  ** Pros:**
+    - Flexible and location - independent
+      - Low startup costs
+        - High impact on clients’ lives
+          - Growing market with diverse niches
 
-**Cons:**  
-- Building trust online takes time  
-- Income can be inconsistent initially  
-- Requires self-discipline and marketing skills  
-- Client cancellations or no-shows  
+            ** Cons:**
+              - Building trust online takes time
+                - Income can be inconsistent initially
+                  - Requires self - discipline and marketing skills
+                    - Client cancellations or no - shows
 
 ---
 
-# How Much Can You Make Coaching Online?
+# How Much Can You Make Coaching Online ?
 
-Income varies by niche, pricing, and client volume. Beginner coaches might earn $500–$2,000/month. Experienced coaches with strong brands and multiple clients can make $5,000 to $20,000+ monthly.
+  Income varies by niche, pricing, and client volume.Beginner coaches might earn $500–$2,000 / month.Experienced coaches with strong brands and multiple clients can make $5,000 to $20,000 + monthly.
 
 ---
 
 # Tools and Resources for Online Coaches
 
-- **Zoom & Google Meet**, Video coaching  
-- **Canva**, Create marketing graphics  
-- **WordPress or Wix**, Build websites  
-- **Mailchimp or ConvertKit**, Email marketing  
-- **Kajabi, Teachable**, Online course platforms  
-- **Trello or Asana**, Organize coaching workflow  
+  - ** Zoom & Google Meet **, Video coaching
+    - ** Canva **, Create marketing graphics
+      - ** WordPress or Wix **, Build websites
+        - ** Mailchimp or ConvertKit **, Email marketing
+          - ** Kajabi, Teachable **, Online course platforms
+            - ** Trello or Asana **, Organize coaching workflow
 
 ---
 
 # Final Thoughts: Start Coaching and Monetize Your Expertise
 
-Online coaching is one of the best ways to monetize your skills and passions. Start by identifying your niche, creating your offerings, and building an online presence.
+Online coaching is one of the best ways to monetize your skills and passions.Start by identifying your niche, creating your offerings, and building an online presence.
 
 With consistent effort and great coaching, you can build a profitable, flexible business that makes a real difference in people’s lives.
 
-So, ready to turn your knowledge into income? Start planning your online coaching business today!
-  `
-<<<<<<< HEAD
-},
-{
-  id: "How-to-Make-Money-by-Writing-Articles",
-  title: "How to Make Money by Writing Articles: A Beginner’s Guide (2025)",
-  date: "2025-06-10",
-  tags: ["writing", "freelancing", "content creation", "beginner guide"],
-  keywords: "how to earn by writing, article writing jobs, freelance writing beginner, get paid to write, writing income 2025, online writing platforms, writing websites for beginners, make money writing articles, best sites for writers, earn money by blogging",
-  description: "Want to earn money by writing articles? This step-by-step guide shows beginners how to get started, where to find paid writing work, how much you can earn, and the best websites to start writing in 2025.",
-  banner: "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/6803a966a86ed7001d763c6b.webp",
-  content: `
+  So, ready to turn your knowledge into income ? Start planning your online coaching business today!
+    `
+  },
+  {
+    id: "How-to-Make-Money-by-Writing-Articles",
+    title: "How to Make Money by Writing Articles: A Beginner’s Guide (2025)",
+    date: "2025-06-10",
+    tags: ["writing", "freelancing", "content creation", "beginner guide"],
+    keywords: "how to earn by writing, article writing jobs, freelance writing beginner, get paid to write, writing income 2025, online writing platforms, writing websites for beginners, make money writing articles, best sites for writers, earn money by blogging",
+    description: "Want to earn money by writing articles? This step-by-step guide shows beginners how to get started, where to find paid writing work, how much you can earn, and the best websites to start writing in 2025.",
+    banner: "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/6803a966a86ed7001d763c6b.webp",
+    content: `
 
-Writing articles is one of the **easiest and most flexible ways to make money online**—and no, you don’t need a journalism degree or perfect English.
+Writing articles is one of the ** easiest and most flexible ways to make money online **—and no, you don’t need a journalism degree or perfect English.
 
 Whether you're a student, stay-at-home parent, or freelancer looking to grow your income, article writing is a powerful skill that can pay you consistently—right from your laptop.
 
 In this guide, you'll learn:
-- What article writing is
-- How to get started with no experience
-- Best websites for finding paid writing gigs
-- Tips to get your first client
-- How much money you can realistically earn
+  - What article writing is
+    - How to get started with no experience
+      - Best websites for finding paid writing gigs
+        - Tips to get your first client
+          - How much money you can realistically earn
 
 ---
 
-# 📝 What Does “Article Writing” Mean?
+# 📝 What Does “Article Writing” Mean ?
 
-Article writing involves creating written content for:
-- Blogs
-- Magazines
-- News sites
-- Company websites
-- Product reviews
-- Tutorials
+  Article writing involves creating written content for:
+    - Blogs
+      - Magazines
+      - News sites
+        - Company websites
+          - Product reviews
+            - Tutorials
 
 The topics are endless—travel, fitness, finance, health, tech, fashion, AI, education—you name it!
 
 ---
 
-# 👨‍💻 Who Can Become an Article Writer?
+# 👨‍💻 Who Can Become an Article Writer ?
 
-**Anyone!** You don’t need:
+** Anyone! ** You don’t need:
 - A degree
-- Perfect grammar
-- Experience
+  - Perfect grammar
+    - Experience
 
 What you *do* need:
 - Basic writing skills
-- A good grasp of English (or any language you write in)
-- Internet access
-- A bit of patience
+  - A good grasp of English(or any language you write in)
+    - Internet access
+      - A bit of patience
 
 ---
 
 # 🔍 Types of Articles You Can Get Paid For
 
-1. **Blog Posts** (How-tos, guides, tips, opinion pieces)  
-2. **Listicles** (Top 10 tools, 7 ways to improve X)  
-3. **Product Reviews or Comparisons**  
-4. **News Summaries**  
-5. **SEO Articles** (Optimized for keywords)  
-6. **Guest Posts for Websites**  
-7. **Ghostwriting** (You write, someone else gets the credit)
+1. ** Blog Posts ** (How - tos, guides, tips, opinion pieces)
+2. ** Listicles ** (Top 10 tools, 7 ways to improve X)
+3. ** Product Reviews or Comparisons **
+  4. ** News Summaries **
+    5. ** SEO Articles ** (Optimized for keywords)
+  6. ** Guest Posts for Websites **
+    7. ** Ghostwriting ** (You write, someone else gets the credit)
 
 ---
 
 # 🌐 Where to Find Article Writing Jobs
 
-## 🧑‍💼 1. Freelancing Platforms  
-- **Upwork** – Build a profile, submit proposals.  
-- **Fiverr** – Offer article packages (like 500 words = $10).  
-- **PeoplePerHour** – Great for short-term writing gigs.  
-- **Freelancer.com** – Bid on projects and win contracts.
+## 🧑‍💼 1. Freelancing Platforms
+  - ** Upwork ** – Build a profile, submit proposals.  
+- ** Fiverr ** – Offer article packages(like 500 words = $10).  
+- ** PeoplePerHour ** – Great for short - term writing gigs.  
+- ** Freelancer.com ** – Bid on projects and win contracts.
 
 ## ✍️ 2. Websites That Pay Writers  
-These sites **pay per article**, usually $25–$500:
+These sites ** pay per article **, usually $25–$500:
 
-- **Medium (via Partner Program)**  
-- **Listverse** – Pays $100 for accepted listicles.  
-- **iWriter** – Beginner-friendly, work your way up.  
-- **Textbroker** – Rating system; better quality = higher pay.  
-- **ProBlogger Job Board** – For serious, higher-paying writing gigs.  
-- **Contently** – Portfolio-based, used by top companies.
+- ** Medium(via Partner Program) **  
+- ** Listverse ** – Pays $100 for accepted listicles.  
+- ** iWriter ** – Beginner - friendly, work your way up.  
+- ** Textbroker ** – Rating system; better quality = higher pay.  
+- ** ProBlogger Job Board ** – For serious, higher - paying writing gigs.  
+- ** Contently ** – Portfolio - based, used by top companies.
 
-## 📣 3. Facebook Groups & LinkedIn  
-- Join groups like "Freelance Writers" or "Content Writers Needed."  
-- Post samples and offer your services.  
+## 📣 3. Facebook Groups & LinkedIn
+  - Join groups like "Freelance Writers" or "Content Writers Needed."
+    - Post samples and offer your services.  
 - Message startups or blog owners directly.
 
 ---
 
 # 🛠️ Tools You’ll Need
 
-- **Google Docs** – To write and share your work.  
-- **Grammarly** – Helps polish your grammar and spelling.  
-- **Hemingway App** – Improves readability.  
-- **QuillBot** – For rewriting or paraphrasing.  
-- **KeywordTool.io** – For SEO keyword research (optional).  
-- **Canva** – Design simple blog graphics or thumbnails.
+  - ** Google Docs ** – To write and share your work.  
+- ** Grammarly ** – Helps polish your grammar and spelling.  
+- ** Hemingway App ** – Improves readability.  
+- ** QuillBot ** – For rewriting or paraphrasing.  
+- ** KeywordTool.io ** – For SEO keyword research(optional).  
+- ** Canva ** – Design simple blog graphics or thumbnails.
 
 ---
 
-# 🧾 How Much Can You Earn?
+# 🧾 How Much Can You Earn ?
 
-Here’s a rough idea:
+  Here’s a rough idea:
 
-| Level | Rate per 500 words | Monthly Income (est.) |
-|-------|---------------------|------------------------|
-| Beginner | $5–$15 | $100–$500  
-| Intermediate | $20–$50 | $500–$2,000  
-| Expert | $75–$200+ | $2,000–$5,000+
+| Level | Rate per 500 words | Monthly Income(est.) |
+| -------| ---------------------| ------------------------|
+| Beginner | $5–$15 | $100–$500
+  | Intermediate | $20–$50 | $500–$2,000
+    | Expert | $75–$200 + | $2,000–$5,000 +
 
-**Pro tip:** The more niche knowledge (like tech, finance, or health) you bring, the more you can charge.
+** Pro tip:** The more niche knowledge(like tech, finance, or health) you bring, the more you can charge.
 
 ---
 
-# 🧠 How to Start (Step-by-Step)
+# 🧠 How to Start(Step - by - Step)
 
 ## ✅ Step 1: Pick a Niche  
 Start with topics you know or love:
 - Education
-- Tech
-- Personal development
-- Fitness
-- Finance
-- AI
+  - Tech
+  - Personal development
+    - Fitness
+    - Finance
+    - AI
 
 It’s easier to write when you're familiar with the topic.
 
 ## ✅ Step 2: Write 2–3 Sample Articles  
 Even if nobody's paying yet, create samples:
-- Write blog-style articles (500–800 words)
-- Save them in Google Docs or publish on **Medium.com**
+  - Write blog - style articles(500–800 words)
+    - Save them in Google Docs or publish on ** Medium.com **
 
 ## ✅ Step 3: Create a Portfolio  
 A basic portfolio includes:
 - Your name & photo
-- 3–5 writing samples
-- A short bio (who you are + what you offer)
+  - 3–5 writing samples
+    - A short bio(who you are + what you offer)
 
-Use **Notion**, **Google Sites**, or **Journo Portfolio** (free tools).
+Use ** Notion **, ** Google Sites **, or ** Journo Portfolio ** (free tools).
 
-## ✅ Step 4: Apply to Jobs  
-- Join freelancing platforms  
-- Send cold emails to websites  
-- Bid on jobs daily
+## ✅ Step 4: Apply to Jobs
+  - Join freelancing platforms
+    - Send cold emails to websites
+      - Bid on jobs daily
 
 Use this sample pitch:
-> “Hi, I’m [Your Name], a student and content writer specializing in tech and productivity. I’d love to contribute to your blog. I’ve attached a few samples. Let me know if I can help!”
+> “Hi, I’m[Your Name], a student and content writer specializing in tech and productivity.I’d love to contribute to your blog.I’ve attached a few samples.Let me know if I can help!”
 
 ---
 
-# 🧠 What Makes a Good Article?
+# 🧠 What Makes a Good Article ?
 
-Follow this structure:
+  Follow this structure:
 
-1. **Headline** – Clear and engaging  
-2. **Intro** – Hook the reader  
-3. **Subheadings** – Break content into parts  
-4. **Short Paragraphs** – 2–4 lines max  
-5. **Examples & Bullet Points**  
-6. **Conclusion** – Sum up + call to action
+1. ** Headline ** – Clear and engaging
+2. ** Intro ** – Hook the reader
+3. ** Subheadings ** – Break content into parts
+4. ** Short Paragraphs ** – 2–4 lines max
+5. ** Examples & Bullet Points **
+  6. ** Conclusion ** – Sum up + call to action
 
 And always check spelling + grammar.
 
@@ -4202,17 +4162,17 @@ And always check spelling + grammar.
 
 # 🔥 Bonus Ways to Make Money from Writing
 
-1. **Start a Blog** – Use Blogger or WordPress and monetize with ads.  
-2. **Self-publish eBooks** – Sell on Amazon Kindle.  
-3. **Write for Medium** – Join their Partner Program.  
-4. **Offer Copywriting Services** – Write landing pages, sales emails, etc.  
-5. **Build a Newsletter** – Grow an audience and offer paid content.
+1. ** Start a Blog ** – Use Blogger or WordPress and monetize with ads.  
+2. ** Self - publish eBooks ** – Sell on Amazon Kindle.  
+3. ** Write for Medium ** – Join their Partner Program.  
+4. ** Offer Copywriting Services ** – Write landing pages, sales emails, etc.  
+5. ** Build a Newsletter ** – Grow an audience and offer paid content.
 
 ---
 
 # ❌ Mistakes to Avoid
 
-- Don’t copy content (plagiarism kills your career).  
+  - Don’t copy content(plagiarism kills your career).  
 - Don’t write without proofreading.  
 - Don’t take on too many clients early on.  
 - Don’t sell yourself short—your time is valuable.  
@@ -4222,29 +4182,17 @@ And always check spelling + grammar.
 
 # 📌 Final Thoughts: Start Small, Stay Consistent
 
-You **can absolutely make money writing articles**, even as a total beginner.
+You ** can absolutely make money writing articles **, even as a total beginner.
 
 Start with one platform, one niche, and a couple of samples.  
 Once you get your first client or article published—you’re in the game.
 
 The internet runs on content, and writers are always in demand.
 
-If you stay consistent and keep improving, this skill can bring long-term income, flexible hours, and even turn into a full-time career.
+If you stay consistent and keep improving, this skill can bring long - term income, flexible hours, and even turn into a full - time career.
 
 Start typing your way to financial freedom! 🖊️💻💸
 `
-},
-    {
-  id: "How-to-Make-Money-Flipping-Websites",
-  title: "How to Make Money Flipping Websites: A Beginner’s Guide to Buying, Improving, and Selling Websites for Profit",
-  date: "2025-06-08",
-  tags: ["website flipping", "online business", "side hustle", "make money online", "digital entrepreneurship"],
-  keywords: "how to flip websites, website flipping guide, buying and selling websites, improve website value, website investment, website resale, online business ideas, make money flipping sites, website flipping 2025, website flipping tips",
-  description: "Learn how to make money flipping websites by buying undervalued sites, improving them, and selling for a profit. This beginner’s guide covers everything you need to start flipping websites successfully in 2025.",
-  banner: "https://cdn.pixabay.com/photo/2018/01/03/14/07/web-3055039_1280.jpg",
-  content: `
-Website flipping is an exciting and potentially lucrative online business strategy where you **buy undervalued websites**, improve them, and then sell them at a higher price. Think of it as real estate investing—but digital!
-=======
   },
   {
     id: "How-to-Make-Money-Flipping-Websites",
@@ -4253,47 +4201,46 @@ Website flipping is an exciting and potentially lucrative online business strate
     tags: ["website flipping", "online business", "side hustle", "make money online", "digital entrepreneurship"],
     keywords: "how to flip websites, website flipping guide, buying and selling websites, improve website value, website investment, website resale, online business ideas, make money flipping sites, website flipping 2025, website flipping tips",
     description: "Learn how to make money flipping websites by buying undervalued sites, improving them, and selling for a profit. This beginner’s guide covers everything you need to start flipping websites successfully in 2025.",
-    banner: "https://barbarafriedbergpersonalfinance.com/wp-content/uploads/2018/03/flipping-websites_2.jpg",
+    banner: "https://cdn.pixabay.com/photo/2018/01/03/14/07/web-3055039_1280.jpg",
     content: `
-Website flipping is an exciting and potentially lucrative online business strategy where you **buy undervalued websites**, improve them, and then sell them at a higher price. Think of it as real estate investing, but digital!
->>>>>>> dfabaf24ba6e83fb9f6e13766dc6962d5fd56da8
+Website flipping is an exciting and potentially lucrative online business strategy where you ** buy undervalued websites **, improve them, and then sell them at a higher price.Think of it as real estate investing—but digital!
 
-If you’re looking for a side hustle or a full-time online income, flipping websites can be a smart choice. Here’s a detailed guide to get you started.
+If you’re looking for a side hustle or a full - time online income, flipping websites can be a smart choice.Here’s a detailed guide to get you started.
 
 ---
 
-# What is Website Flipping?
+# What is Website Flipping ?
 
-Website flipping means purchasing a website that’s either underperforming or undervalued, making improvements to increase its traffic, revenue, or overall quality, then selling it for a profit.
+  Website flipping means purchasing a website that’s either underperforming or undervalued, making improvements to increase its traffic, revenue, or overall quality, then selling it for a profit.
 
 Similar to flipping houses, the goal is to buy low, add value, and sell high.
 
 ---
 
-# Why Flip Websites?
+# Why Flip Websites ?
 
-- Low upfront cost compared to physical real estate  
-- Flexible: work from anywhere  
-- High profit potential  
-- Scalable business model  
-- Great for people with digital marketing or development skills  
+  - Low upfront cost compared to physical real estate
+    - Flexible: work from anywhere
+      - High profit potential
+        - Scalable business model
+          - Great for people with digital marketing or development skills
 
 ---
 
 # Step 1: Find Websites to Buy
 
 You can find websites to flip on marketplaces like:
-- Flippa (most popular)  
-- Empire Flippers  
-- Motion Invest  
-- WebsiteBroker  
-- FE International (for bigger deals)
+- Flippa(most popular)
+  - Empire Flippers
+    - Motion Invest
+      - WebsiteBroker
+      - FE International(for bigger deals)
 
 Look for websites that:
-- Have existing traffic and some revenue  
-- Are undervalued due to poor design, SEO, or monetization  
-- Belong to niches you understand or have interest in  
-- Have room for growth (better content, better marketing, better UX)
+  - Have existing traffic and some revenue
+    - Are undervalued due to poor design, SEO, or monetization
+      - Belong to niches you understand or have interest in
+        - Have room for growth(better content, better marketing, better UX)
 
 ---
 
@@ -4301,12 +4248,12 @@ Look for websites that:
 
 Before buying, assess a website’s true worth by checking:
 
-- **Traffic quality and quantity** (Google Analytics data)  
-- **Revenue sources** (ads, affiliate sales, products)  
-- **SEO metrics** (backlinks, rankings)  
-- **Content quality**  
-- **Technical health** (site speed, mobile friendliness)  
-- **Potential risks** (Google penalties, outdated content)  
+- ** Traffic quality and quantity ** (Google Analytics data)  
+- ** Revenue sources ** (ads, affiliate sales, products)  
+- ** SEO metrics ** (backlinks, rankings)
+  - ** Content quality **  
+- ** Technical health ** (site speed, mobile friendliness)  
+- ** Potential risks ** (Google penalties, outdated content)  
 
 Use tools like SimilarWeb, Ahrefs, or SEMrush for detailed analysis.
 
@@ -4322,85 +4269,85 @@ Once you find a good deal, negotiate the price and complete the purchase through
 
 This is where you add value! Some ways to improve a website:
 
-- **Enhance SEO:** Fix broken links, optimize keywords, add fresh content  
-- **Redesign UX/UI:** Make the site more user-friendly and mobile optimized  
-- **Increase traffic:** Use social media, guest posting, or paid ads  
-- **Boost monetization:** Add affiliate programs, display ads, or create products  
-- **Fix technical issues:** Improve loading speed, security, and mobile responsiveness  
+- ** Enhance SEO:** Fix broken links, optimize keywords, add fresh content
+  - ** Redesign UX / UI:** Make the site more user - friendly and mobile optimized
+    - ** Increase traffic:** Use social media, guest posting, or paid ads
+      - ** Boost monetization:** Add affiliate programs, display ads, or create products
+        - ** Fix technical issues:** Improve loading speed, security, and mobile responsiveness
 
 ---
 
 # Step 5: Monitor Growth and Maintain
 
-Keep track of your improvements with analytics tools. Maintain regular content updates and marketing efforts to keep traffic and revenue growing.
+Keep track of your improvements with analytics tools.Maintain regular content updates and marketing efforts to keep traffic and revenue growing.
 
 ---
 
 # Step 6: Sell the Website
 
-When the website’s value increases (better traffic, higher revenue), list it on marketplaces again for resale.
+When the website’s value increases(better traffic, higher revenue), list it on marketplaces again for resale.
 
-Prepare:
-- Detailed reports showing growth  
-- Clear explanation of traffic and revenue sources  
-- Transfer process guide for new owners  
+  Prepare:
+  - Detailed reports showing growth
+    - Clear explanation of traffic and revenue sources
+      - Transfer process guide for new owners  
 
 ---
 
 # Tips for Success in Website Flipping
 
-- Start small, learn the ropes before big investments  
-- Focus on niches you know well  
-- Be patient, flipping can take weeks or months  
-- Network with other flippers for insights  
-- Keep learning SEO, content marketing, and site development skills  
+    - Start small, learn the ropes before big investments
+      - Focus on niches you know well
+        - Be patient, flipping can take weeks or months
+          - Network with other flippers for insights
+            - Keep learning SEO, content marketing, and site development skills
 
 ---
 
 # Pros and Cons of Website Flipping
 
-**Pros:**  
-- High profit margins  
-- Work from anywhere  
-- Flexible schedule  
-- Diverse skills development  
+  ** Pros:**
+    - High profit margins
+      - Work from anywhere
+        - Flexible schedule
+          - Diverse skills development
 
-**Cons:**  
-- Requires upfront capital  
-- Risk of buying bad websites  
-- Time investment to improve sites  
-- Market fluctuations in website demand  
+            ** Cons:**
+              - Requires upfront capital
+                - Risk of buying bad websites
+                  - Time investment to improve sites
+                    - Market fluctuations in website demand
 
 ---
 
-# How Much Can You Make Flipping Websites?
+# How Much Can You Make Flipping Websites ?
 
-Profits vary widely depending on skill and niche, but beginner flippers often make $500–$2,000 per flip. Experienced flippers can earn $10,000+ per sale by targeting high-traffic or high-revenue websites.
+  Profits vary widely depending on skill and niche, but beginner flippers often make $500–$2,000 per flip.Experienced flippers can earn $10,000 + per sale by targeting high - traffic or high - revenue websites.
 
 ---
 
 # Tools & Resources for Website Flippers
 
-- **Flippa & Empire Flippers**, Marketplaces  
-- **Google Analytics & Search Console**, Traffic analysis  
-- **Ahrefs & SEMrush**, SEO and backlink research  
-- **Canva & Adobe XD**, Design improvements  
-- **WordPress & Elementor**, Website building & redesign  
-- **Ubersuggest**, Keyword research  
-- **Zapier**, Automation to save time  
+  - ** Flippa & Empire Flippers **, Marketplaces
+  - ** Google Analytics & Search Console **, Traffic analysis
+    - ** Ahrefs & SEMrush **, SEO and backlink research
+      - ** Canva & Adobe XD **, Design improvements
+        - ** WordPress & Elementor **, Website building & redesign
+          - ** Ubersuggest **, Keyword research
+            - ** Zapier **, Automation to save time
 
 ---
 
-# Final Thoughts: Is Website Flipping for You?
+# Final Thoughts: Is Website Flipping for You ?
 
-If you enjoy digital marketing, SEO, content creation, or web development, flipping websites can be both a profitable business and a learning journey.
+  If you enjoy digital marketing, SEO, content creation, or web development, flipping websites can be both a profitable business and a learning journey.
 
-Start small, be patient, and improve your skills step-by-step. With persistence, website flipping can become a lucrative side hustle or full-time career.
+Start small, be patient, and improve your skills step - by - step.With persistence, website flipping can become a lucrative side hustle or full - time career.
 
 ---
 
-Ready to start flipping websites for profit? Explore marketplaces like Flippa today and find your first site to grow!
-  `
+  Ready to start flipping websites for profit ? Explore marketplaces like Flippa today and find your first site to grow!
+    `
   },
   {
     id: "How-to-Earn-with-Airbnb-in-2025",
@@ -4413,132 +4360,132 @@ Ready to start flipping websites for profit? Explore marketplaces like Flippa to
     content: `
 If you’ve ever used Airbnb to book a place during vacation, you probably noticed how people are making real money by simply renting out space.
 
-But did you know **you can earn on Airbnb without even owning property?**
+But did you know ** you can earn on Airbnb without even owning property ?**
 
-Let’s break it down. Whether you have a spare room or zero real estate, there’s a way for you to start earning with Airbnb in 2025.
+  Let’s break it down.Whether you have a spare room or zero real estate, there’s a way for you to start earning with Airbnb in 2025.
 
 ---
 
-# What is Airbnb?
+# What is Airbnb ?
 
-Airbnb is a platform that lets people rent out homes, rooms, or unique spaces to travelers. It’s like Uber for housing, except instead of driving, you host.
+  Airbnb is a platform that lets people rent out homes, rooms, or unique spaces to travelers.It’s like Uber for housing, except instead of driving, you host.
 
 You can list:
 - A spare bedroom
-- A guest house
-- A cabin or tiny home
-- Your entire home (when you're away)
-- Even a couch or shared space
+  - A guest house
+    - A cabin or tiny home
+      - Your entire home(when you're away)
+        - Even a couch or shared space
 
-And yes, some people turn this into **full-time income or a side hustle**, earning thousands per month.
+And yes, some people turn this into ** full - time income or a side hustle **, earning thousands per month.
 
 ---
 
 # 1. Rent Out a Spare Room
 
-This is the most common and beginner-friendly way to start earning.
+This is the most common and beginner - friendly way to start earning.
 
 If you live in a city, tourist area, or even a small town with local events or schools nearby, someone is probably searching for a place to stay.
 
-**Steps:**
-1. Create a host account on Airbnb
-2. Take good pictures of the space (natural light, clean, welcoming)
+** Steps:**
+  1. Create a host account on Airbnb
+2. Take good pictures of the space(natural light, clean, welcoming)
 3. Set a competitive price
 4. Be a responsive and kind host
 
-**Income potential:**  
-$20–$100+ per night depending on location and amenities.
+  ** Income potential:**
+    $20–$100 + per night depending on location and amenities.
 
-✅ *Low risk*  
-✅ *Flexible, you choose when to host*
+✅ * Low risk *  
+✅ * Flexible, you choose when to host *
+
+  ---
+
+# 2. Rent Your Whole Place(When You’re Away)
+
+Going away for a week or even a weekend ? Don’t let your home sit empty.
+
+  List it on Airbnb during your vacation or work trip.
+
+  You’re already paying rent or mortgage, this helps ** offset the cost **.
+
+** Example:**
+  If you go away for 7 days and rent your apartment at $60 / night, that’s ** $420 passive income ** while you relax elsewhere.
 
 ---
 
-# 2. Rent Your Whole Place (When You’re Away)
+# 3. Airbnb Arbitrage(Earn Without Owning Property)
 
-Going away for a week or even a weekend? Don’t let your home sit empty.
+This is a next - level strategy but very powerful.
 
-List it on Airbnb during your vacation or work trip.
+** What is Airbnb Arbitrage ?**
+  You rent a property from a landlord on a long - term lease, then re - rent it short - term on Airbnb.
 
-You’re already paying rent or mortgage, this helps **offset the cost**.
+    Yes, it’s legal, ** IF ** the landlord agrees.
 
-**Example:**  
-If you go away for 7 days and rent your apartment at $60/night, that’s **$420 passive income** while you relax elsewhere.
-
----
-
-# 3. Airbnb Arbitrage (Earn Without Owning Property)
-
-This is a next-level strategy but very powerful.
-
-**What is Airbnb Arbitrage?**  
-You rent a property from a landlord on a long-term lease, then re-rent it short-term on Airbnb.
-
-Yes, it’s legal, **IF** the landlord agrees.
-
-**Steps:**
-1. Find a rental in a good area (high Airbnb demand)
-2. Ask the landlord for permission (offer guaranteed rent, cleaning, responsible guests)
-3. Set up the place nicely (furniture, Wi-Fi, basics)
+** Steps:**
+  1. Find a rental in a good area(high Airbnb demand)
+2. Ask the landlord for permission(offer guaranteed rent, cleaning, responsible guests)
+3. Set up the place nicely(furniture, Wi - Fi, basics)
 4. List it on Airbnb and manage bookings
 
 You earn the difference between what you pay the landlord and what you charge on Airbnb.
 
-**Example:**  
-You rent a 1-bedroom for $800/month.  
-You list it for $80/night and book 20 nights = $1,600.  
-Your profit: $800/month.
+** Example:**
+  You rent a 1 - bedroom for $800 / month.  
+You list it for $80 / night and book 20 nights = $1, 600.  
+Your profit: $800 / month.
 
 ✅ No property ownership  
 ✅ Scalable, you can manage multiple listings
 
 ---
 
-# 4. Co-Hosting (Manage Other People’s Listings)
+# 4. Co - Hosting(Manage Other People’s Listings)
 
-Want to earn money from Airbnb but don’t want guests in your home?
+Want to earn money from Airbnb but don’t want guests in your home ?
 
-**Become a co-host.** You manage the listing, communication, cleaning, and pricing for someone else, and you split the income.
+** Become a co - host.** You manage the listing, communication, cleaning, and pricing for someone else, and you split the income.
 
-Airbnb even has an option to invite a co-host directly inside the platform.
+Airbnb even has an option to invite a co - host directly inside the platform.
 
-Typical split: 20–30% of the earnings.
+Typical split: 20–30 % of the earnings.
 
 Great if you:
-- Have hospitality or customer service skills
-- Are organized and responsive
-- Live in an area with lots of rentals
+  - Have hospitality or customer service skills
+    - Are organized and responsive
+      - Live in an area with lots of rentals
 
 ---
 
 # 5. List Unique or Creative Spaces
 
-People love staying somewhere memorable. If you have (or can create) a unique space, it can bring in higher income.
+People love staying somewhere memorable.If you have(or can create) a unique space, it can bring in higher income.
 
-Ideas:
+  Ideas:
 - Treehouses
-- Tents or yurts
-- Tiny homes
-- Boats or RVs
-- Converted vans or buses
-- Backyard cabins
+  - Tents or yurts
+    - Tiny homes
+      - Boats or RVs
+        - Converted vans or buses
+          - Backyard cabins
 
-Even if it’s basic, **good photos, a cozy vibe, and location** can turn it into a steady earner.
+Even if it’s basic, ** good photos, a cozy vibe, and location ** can turn it into a steady earner.
 
 ---
 
 # 6. Use Airbnb Experiences
 
-Airbnb isn’t just about rooms, you can also offer **experiences**.
+Airbnb isn’t just about rooms, you can also offer ** experiences **.
 
 This means:
 - Virtual tours
-- Local cooking classes
-- City tours
-- Art or photography workshops
-- Guided hikes
+  - Local cooking classes
+    - City tours
+      - Art or photography workshops
+        - Guided hikes
 
-No space to rent? No problem. Just offer your knowledge or passion as a service.
+No space to rent ? No problem.Just offer your knowledge or passion as a service.
 
 ✅ No overhead  
 ✅ High ratings = more bookings  
@@ -4550,120 +4497,119 @@ No space to rent? No problem. Just offer your knowledge or passion as a service.
 
 Once you learn the ropes, you can scale up using tools:
 
-- **Smart pricing** (Airbnb’s built-in tool or PriceLabs)
-- **Automated messages** (use Hospitable or Hostaway)
-- **Cleaners on demand** (local services or TurnoverBnB)
-- **Keyless entry** (via smart locks)
+- ** Smart pricing ** (Airbnb’s built -in tool or PriceLabs)
+- ** Automated messages ** (use Hospitable or Hostaway)
+- ** Cleaners on demand ** (local services or TurnoverBnB)
+- ** Keyless entry ** (via smart locks)
 
-Some hosts manage **5–10+ properties remotely** with the right systems.
+Some hosts manage ** 5–10 + properties remotely ** with the right systems.
 
 ---
 
-# How Much Can You Realistically Earn?
+# How Much Can You Realistically Earn ?
 
-Earnings vary based on:
+  Earnings vary based on:
 - Location
-- Type of property
-- Season/demand
-- Reviews and ratings
-- Quality of service
+  - Type of property
+    - Season / demand
+    - Reviews and ratings
+      - Quality of service
 
 Here’s a rough monthly income chart:
 
-| Setup                        | Estimated Income/month |
-|-----------------------------|------------------------|
-| Spare room in small town    | $300–$800              |
-| 1-bed apartment in city     | $1,200–$2,500          |
-| Full house in tourist area  | $3,000+                |
-| Co-hosting 2 properties     | $800–$1,600            |
-| Airbnb arbitrage (1 unit)   | $600–$1,200 profit     |
-| Unique cabin/treehouse      | $100/night or more     |
+| Setup | Estimated Income / month |
+| -----------------------------| ------------------------|
+| Spare room in small town | $300–$800 |
+| 1 - bed apartment in city | $1, 200–$2, 500 |
+| Full house in tourist area | $3,000 +                |
+| Co - hosting 2 properties | $800–$1, 600 |
+| Airbnb arbitrage(1 unit) | $600–$1, 200 profit |
+| Unique cabin / treehouse | $100 / night or more |
 
----
+  ---
 
 # Tips for Airbnb Success
 
 ✅ Take GREAT photos  
 ✅ Be super responsive to guests  
 ✅ Keep the place clean and stocked  
-✅ Price competitively (use Airbnb’s Smart Pricing)  
-✅ Encourage 5-star reviews (deliver a great experience)
+✅ Price competitively(use Airbnb’s Smart Pricing)  
+✅ Encourage 5 - star reviews(deliver a great experience)
 
-**Bonus tip:** Create a welcome guide with local tips, Wi-Fi password, and emergency numbers. Guests love it!
+  ** Bonus tip:** Create a welcome guide with local tips, Wi - Fi password, and emergency numbers.Guests love it!
 
 ---
 
 # Pros and Cons
 
-**Pros:**
-- Passive or semi-passive income
-- Work from anywhere (with automation)
+  ** Pros:**
+    - Passive or semi - passive income
+      - Work from anywhere(with automation)
 - No college degree needed
-- Multiple strategies for every budget
+  - Multiple strategies for every budget
 
-**Cons:**
-- Guest complaints or damage (Airbnb has protection)
-- Cleaning/maintenance work
-- Legal limitations in some cities
-- Competition in big markets
+    ** Cons:**
+      - Guest complaints or damage(Airbnb has protection)
+        - Cleaning / maintenance work
+          - Legal limitations in some cities
+            - Competition in big markets
 
 ---
 
 # Final Thoughts: Start Small, Earn Big
 
-Airbnb isn’t just a place to book a stay, it’s a gateway to **real income**.
+Airbnb isn’t just a place to book a stay, it’s a gateway to ** real income **.
 
 Even if you:
-- Don’t own property  
-- Are a student  
-- Have limited space  
+  - Don’t own property
+    - Are a student
+      - Have limited space  
 
-You can still find a way to earn, from co-hosting to unique experiences to Airbnb arbitrage.
+You can still find a way to earn, from co - hosting to unique experiences to Airbnb arbitrage.
 
-Start with what you have. Make your space shine. Deliver great service. And watch the bookings roll in.
+Start with what you have.Make your space shine.Deliver great service.And watch the bookings roll in.
 
-**No fancy business degree required, just hustle and hospitality.**
+** No fancy business degree required, just hustle and hospitality.**
 
-🏠💼💰 Ready to list your first space? Now’s the time.
+🏠💼💰 Ready to list your first space ? Now’s the time.
 
 `
-<<<<<<< HEAD
-},
-{
-  id: "How-to-Earn-Money-with-eBay",
-  title: "How to Earn Money with eBay: A Complete Guide to Starting and Scaling an eBay Business",
-  date: "2025-06-10",
-  tags: ["eBay", "eCommerce", "make money online", "side hustle", "online selling"],
-  keywords: "how to earn with eBay, make money on eBay, eBay selling guide, selling products online, eBay tips for beginners, online reselling business, flipping items on eBay, eBay dropshipping, part-time eBay seller, eBay profits",
-  description: "Learn how to earn money with eBay in 2025. This guide covers how to start, what to sell, how to grow, and tips for maximizing profits on the world’s largest online marketplace.",
-  banner: "https://cdn.pixabay.com/photo/2013/10/01/10/29/ebay-189064_1280.pngg",
-  content: `
-eBay is one of the oldest and most trusted platforms for online selling—and it’s still a powerful way to earn money in 2025. Whether you want to declutter your home, flip items for profit, or build a full-time e-commerce business, eBay offers a flexible and beginner-friendly way to make money.
+  },
+  {
+    id: "How-to-Earn-Money-with-eBay",
+    title: "How to Earn Money with eBay: A Complete Guide to Starting and Scaling an eBay Business",
+    date: "2025-06-10",
+    tags: ["eBay", "eCommerce", "make money online", "side hustle", "online selling"],
+    keywords: "how to earn with eBay, make money on eBay, eBay selling guide, selling products online, eBay tips for beginners, online reselling business, flipping items on eBay, eBay dropshipping, part-time eBay seller, eBay profits",
+    description: "Learn how to earn money with eBay in 2025. This guide covers how to start, what to sell, how to grow, and tips for maximizing profits on the world’s largest online marketplace.",
+    banner: "https://cdn.pixabay.com/photo/2013/10/01/10/29/ebay-189064_1280.pngg",
+    content: `
+eBay is one of the oldest and most trusted platforms for online selling—and it’s still a powerful way to earn money in 2025. Whether you want to declutter your home, flip items for profit, or build a full - time e - commerce business, eBay offers a flexible and beginner - friendly way to make money.
 
 In this complete guide, you'll learn how to start earning on eBay, what to sell, tips for success, and how to grow your profits long-term.
 
 ---
 
-# Why Sell on eBay?
+# Why Sell on eBay ?
 
-eBay has over 1.5 billion listings and more than 135 million active buyers worldwide. It's a massive marketplace that gives you access to customers globally—without needing your own website or expensive setup.
+  eBay has over 1.5 billion listings and more than 135 million active buyers worldwide.It's a massive marketplace that gives you access to customers globally—without needing your own website or expensive setup.
 
-**Benefits of earning with eBay:**
-- Easy to start (you only need a phone or computer)
-- No coding or tech knowledge required
-- Sell new or used items
-- Low upfront investment
-- Huge buyer base
-- Flexible—you can work part-time or full-time
+    ** Benefits of earning with eBay:**
+      - Easy to start(you only need a phone or computer)
+        - No coding or tech knowledge required
+          - Sell new or used items
+            - Low upfront investment
+              - Huge buyer base
+                - Flexible—you can work part - time or full - time
 
 ---
 
 # Step 1: Create an eBay Seller Account
 
-To get started, visit [ebay.com](https://www.ebay.com/) and create an account. Then:
+To get started, visit[ebay.com](https://www.ebay.com/) and create an account. Then:
 
-1. Switch to a seller account (personal or business)
-2. Link your bank account and payment method (eBay uses direct deposit)
+  1. Switch to a seller account(personal or business)
+2. Link your bank account and payment method(eBay uses direct deposit)
 3. Set up your shipping preferences and location
 4. Customize your profile with a photo and description
 
@@ -4673,41 +4619,41 @@ Now you're ready to sell!
 
 # Step 2: Decide What to Sell
 
-You can sell almost anything on eBay, but some products perform better than others. Here are profitable categories:
+You can sell almost anything on eBay, but some products perform better than others.Here are profitable categories:
 
 ### 🔹 Items Around the House
-- Old electronics (phones, tablets, cameras)
-- Used clothing or shoes
-- Books, DVDs, games
-- Collectibles and vintage items
-- Kitchen appliances or tools
+  - Old electronics(phones, tablets, cameras)
+    - Used clothing or shoes
+      - Books, DVDs, games
+      - Collectibles and vintage items
+        - Kitchen appliances or tools
 
 ### 🔹 Thrifted & Flipped Items
 Buy low from thrift stores, garage sales, Facebook Marketplace, or auctions—and resell for profit.
 
-Examples:
-- Vintage clothing
-- Designer brands
-- Antique decor
-- Rare toys or cards
+  Examples:
+  - Vintage clothing
+    - Designer brands
+      - Antique decor
+        - Rare toys or cards
 
 ### 🔹 New Retail Products
-- Wholesale items
-- Dropshipping products
-- Private label products (custom-branded)
+  - Wholesale items
+    - Dropshipping products
+      - Private label products(custom - branded)
 
 Popular items:
 - Tech accessories
-- Health & beauty products
-- Home & garden tools
-- Car parts
-- DIY craft kits
+  - Health & beauty products
+    - Home & garden tools
+      - Car parts
+        - DIY craft kits
 
 ### 🔹 Seasonal Items
-- Holiday decorations
-- Halloween costumes
-- School supplies
-- Summer/beach gear
+  - Holiday decorations
+    - Halloween costumes
+      - School supplies
+        - Summer / beach gear
 
 Always check the “Sold Listings” filter on eBay to see what’s already selling well.
 
@@ -4715,22 +4661,22 @@ Always check the “Sold Listings” filter on eBay to see what’s already sell
 
 # Step 3: Create a Great Listing
 
-A well-optimized listing can make the difference between no sales and consistent income.
+A well - optimized listing can make the difference between no sales and consistent income.
 
 ### 🖼️ Photos
-- Use clear, high-quality images (include front, back, and close-ups)
-- Take photos in natural light
-- Show any flaws or defects honestly
+  - Use clear, high - quality images(include front, back, and close - ups)
+    - Take photos in natural light
+      - Show any flaws or defects honestly
 
 ### 📝 Title & Description
-- Include relevant keywords in the title
-- Be specific (brand, size, condition, color)
-- Use bullet points in the description for clarity
+  - Include relevant keywords in the title
+    - Be specific(brand, size, condition, color)
+      - Use bullet points in the description for clarity
 
 ### ✅ Pricing
-- Check similar sold listings to price competitively
-- Offer free shipping if possible (buyers love it)
-- Use auctions for rare items; fixed-price for common ones
+  - Check similar sold listings to price competitively
+    - Offer free shipping if possible(buyers love it)
+      - Use auctions for rare items; fixed - price for common ones
 
 ---
 
@@ -4739,10 +4685,10 @@ A well-optimized listing can make the difference between no sales and consistent
 Buyers expect fast shipping and honest communication.
 
 - Ship within 1–2 days of purchase
-- Use tracking numbers
-- Package items safely
-- Respond to messages politely
-- Always leave feedback
+  - Use tracking numbers
+    - Package items safely
+      - Respond to messages politely
+        - Always leave feedback
 
 A high seller rating builds trust and increases future sales.
 
@@ -4753,59 +4699,59 @@ A high seller rating builds trust and increases future sales.
 Once you've made a few sales, it's time to scale:
 
 ### 📦 Source More Inventory
-- Wholesale suppliers (Alibaba, SaleHoo, Faire)
-- Liquidation pallets
-- Estate sales
-- Online auctions
+  - Wholesale suppliers(Alibaba, SaleHoo, Faire)
+    - Liquidation pallets
+      - Estate sales
+        - Online auctions
 
 ### 📊 Optimize Your Listings
-- Use eBay's Terapeak research tool to track trends
-- Add keywords that match buyer searches
-- Refresh slow-moving listings with better photos or prices
+  - Use eBay's Terapeak research tool to track trends
+    - Add keywords that match buyer searches
+      - Refresh slow - moving listings with better photos or prices
 
 ### 📈 Upgrade Your Account
-- Open a dedicated business account
-- Use eBay’s "Promoted Listings" feature for visibility
-- Offer bundles or multi-buy discounts
-- Set up an eBay Store for branding
+  - Open a dedicated business account
+    - Use eBay’s "Promoted Listings" feature for visibility
+      - Offer bundles or multi - buy discounts
+        - Set up an eBay Store for branding
 
 ---
 
 # Pro Tips to Make More Money on eBay
 
-- **Niche Down**: Focus on one category (e.g., vintage shoes or gaming accessories) to become an expert and dominate that space.
-- **Bulk Listings**: List multiple items at once using templates.
-- **Cross-list**: Also sell your items on Facebook Marketplace, Mercari, or Poshmark.
-- **Use Analytics**: Track your best-performing products and focus on those.
-- **Negotiate**: Buy low, sell high. Learn how to negotiate on your sourcing platforms.
+  - ** Niche Down **: Focus on one category(e.g., vintage shoes or gaming accessories) to become an expert and dominate that space.
+- ** Bulk Listings **: List multiple items at once using templates.
+- ** Cross - list **: Also sell your items on Facebook Marketplace, Mercari, or Poshmark.
+- ** Use Analytics **: Track your best - performing products and focus on those.
+- ** Negotiate **: Buy low, sell high.Learn how to negotiate on your sourcing platforms.
 
 ---
 
-# How Much Can You Earn?
+# How Much Can You Earn ?
 
-It depends on your effort, product choice, and pricing strategy. Here's a general idea:
+  It depends on your effort, product choice, and pricing strategy.Here's a general idea:
 
-| Seller Type         | Estimated Earnings |
-|---------------------|--------------------|
-| Casual Seller       | $100–$500/month    |
-| Part-time Flipper   | $500–$2,000/month  |
-| Full-time Seller    | $3,000–$10,000+/month |
+    | Seller Type | Estimated Earnings |
+| ---------------------| --------------------|
+| Casual Seller | $100–$500 / month |
+| Part - time Flipper | $500–$2,000 / month |
+| Full - time Seller | $3,000–$10,000 +/month |
 
 Some eBay power sellers earn six figures annually by flipping items or running niche stores.
 
 ---
 
-# Is eBay Dropshipping Still Worth It?
+# Is eBay Dropshipping Still Worth It ?
 
-Yes, but it’s trickier now. eBay allows dropshipping only if:
-- You source from a wholesale supplier
-- You can fulfill orders quickly and reliably
+  Yes, but it’s trickier now.eBay allows dropshipping only if:
+    - You source from a wholesale supplier
+      - You can fulfill orders quickly and reliably
 
-Avoid retail arbitrage dropshipping (like from Amazon or Walmart)—eBay may suspend your account.
+Avoid retail arbitrage dropshipping(like from Amazon or Walmart)—eBay may suspend your account.
 
 Use tools like:
 - AutoDS or DSM Tool for dropshipping automation
-- Oberlo, Spocket, or SaleHoo for legit suppliers
+  - Oberlo, Spocket, or SaleHoo for legit suppliers
 
 Dropshipping has low upfront costs but lower profit margins.
 
@@ -4815,34 +4761,31 @@ Dropshipping has low upfront costs but lower profit margins.
 
 ### ✅ Pros:
 - Easy to start
-- Huge buyer base
-- Sell used or new items
-- Great for decluttering or flipping
-- International exposure
+  - Huge buyer base
+    - Sell used or new items
+      - Great for decluttering or flipping
+        - International exposure
 
 ### ❌ Cons:
 - Competition is high
-- Fees can eat into profits (listing + final value + payment)
-- Requires time to list and ship items
-- Returns or bad reviews can hurt your account
+  - Fees can eat into profits(listing + final value + payment)
+    - Requires time to list and ship items
+      - Returns or bad reviews can hurt your account
 
 ---
 
 # Final Thoughts: Start Earning on eBay Today
 
-eBay is still a fantastic platform to make real money, whether as a side hustle or a full-time business. You can start by selling unused items at home, then scale into flipping, wholesaling, or even dropshipping.
+eBay is still a fantastic platform to make real money, whether as a side hustle or a full - time business.You can start by selling unused items at home, then scale into flipping, wholesaling, or even dropshipping.
 
 Just remember:
 - Research what sells
-- Create great listings
-- Provide fast shipping and service
-- Reinvest profits to grow
+  - Create great listings
+    - Provide fast shipping and service
+      - Reinvest profits to grow
 
 So if you’re ready to turn clutter or smart finds into cash, start selling on eBay today!
 
-`
-},
-=======
+  `
   },
->>>>>>> dfabaf24ba6e83fb9f6e13766dc6962d5fd56da8
 ];
