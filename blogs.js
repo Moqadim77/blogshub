@@ -1,5 +1,110 @@
 const blogs = [
   {
+    id: "Israel-strikes-Iran-nuclear-sites-2025",
+    title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
+    date: "2025-06-13",
+    tags: ["Israel", "Iran", "nuclear", "military strategy", "Middle East", "geopolitics"],
+    keywords: "Israel Iran strike nuclear sites, Operation Rising Lion, Iran nuclear conflict, Israel Iran June 2025 news, global oil prices Iran strike, Middle East escalation, Iran retaliation scenarios",
+    description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
+    banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
+    content: `
+In mid‑June 2025, Israel initiated **Operation Rising Lion**, a coordinated air and cyber strike against Iran’s nuclear infrastructure and IRGC leadership.
+
+---
+
+# Why Now?
+
+- Israel viewed Iran’s expanding uranium enrichment (up to 60%) and advanced centrifuges as an **imminent existential threat** :contentReference[oaicite:1]{index=1}.
+- The timing followed weakened Iranian defenses due to prior Israeli strikes and its own internal unrest under Supreme Leader Khamenei :contentReference[oaicite:2]{index=2}.
+
+---
+
+# What Happened?
+
+- Israeli jets and drones hit Natanz, Tabriz, and other sites; senior IRGC commanders—including Hossein Salami and Mohammad Bagheri—and nuclear scientists were killed :contentReference[oaicite:3]{index=3}.
+- Evidence of deep cyber infiltration, targeted assassinations, and air dominance :contentReference[oaicite:4]{index=4}.
+
+---
+
+# Risks & Regional Fallout
+
+1. **Iranian retaliation**: Iran retains missile and proxy capabilities—attacks on U.S. bases, oil infrastructure, the Strait of Hormuz are credible :contentReference[oaicite:5]{index=5}.
+2. **Oil price shock**: Markets reacted swiftly—oil rose ~6% on fears of supply disruptions :contentReference[oaicite:6]{index=6}.
+3. **Nuclear escalation**: Iran may accelerate its nuclear efforts or rebuild its enrichment program :contentReference[oaicite:7]{index=7}.
+4. **Regional proliferation**: Saudi Arabia and Turkey may reconsider nuclear options :contentReference[oaicite:8]{index=8}.
+
+---
+
+# Global & Diplomatic Stakes
+
+- The U.S. remains officially uninvolved but is supplying intelligence support :contentReference[oaicite:9]{index=9}.
+- Europe likely to push for diplomacy, fearing escalation and broader war :contentReference[oaicite:10]{index=10}.
+- Global powers—including Russia and China—are watching closely; UN emergency sessions could follow.
+
+---
+
+**Bottom line**: Israel’s strike aims to delay Iran’s nuclear capabilities—but the move significantly increases regional tensions, raises oil prices, and risks expanding into a broader Middle Eastern war.  
+`
+  },
+  {
+    id: "Iran-response-and-regional-escalation-2025",
+    title: "How Iran Might Respond and What It Means for Regional Escalation",
+    date: "2025-06-13",
+    tags: ["Iran", "Israel", "retaliation", "missiles", "regional security", "proxies"],
+    keywords: "Iran retaliation scenarios, Iran missile response Israel strike, Iran proxies strike Israel, regional escalation Iran Israel 2025, Iran Gulf conflict, proxy warfare Iran Israel",
+    description: "After the Israeli strike on Iran’s nuclear and military targets, this article explores Tehran’s potential responses—from missile launches to proxy attacks—and how regional escalation could unfold.",
+    banner: "https://images.wsj.net/im-877783/social",
+    content: `
+Days after Israel's strike on Iran, the world is anticipating **how Tehran might strike back—and where the conflict could spiral**.
+
+---
+
+# 1. Direct Ballistic or Missile Retaliation
+
+Iran still possesses large stocks of ballistic and short-range missiles, capable of targeting U.S. bases or Israel :contentReference[oaicite:11]{index=11}. Potential threats include airbase attacks or strikes on strategic infrastructure.
+
+---
+
+# 2. Proxy Warfare
+
+- Iranian-allied militias in Iraq, Lebanon (Hezbollah), Yemen (Houthis), and Syria could launch **asymmetric attacks** on American and Israeli targets :contentReference[oaicite:12]{index=12}.
+- Proxy missile and drone strikes across the region can stretch Israel’s defenses thin.
+
+---
+
+# 3. Economic and Energy Leverage
+
+- Iran might threaten shipping lanes—especially the Strait of Hormuz—or Gulf-based oil infrastructure, directly affecting global markets :contentReference[oaicite:13]{index=13}.
+
+---
+
+# 4. Cyber and Covert Attacks
+
+- Building on Israel's methods, Iran may launch **cyber-attacks or targeted assassinations** against Israeli and U.S. military or intelligence assets.
+
+---
+
+# Risk of Broader Escalation
+
+- International spillover: Attacks on U.S. bases could draw American military response.
+- Regional actors: Saudi Arabia, UAE, and Turkey are monitoring carefully; support or restraint remains unclear.
+- Diplomatic flashpoints: U.N. sessions, renewed Iran nuclear talks—already stalled—will likely be overshadowed :contentReference[oaicite:14]{index=14}.
+
+---
+
+## Summary Table
+
+| Potential Response         | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| Ballistic missile strikes | From Iran to Israel or U.S. bases                                          |
+| Proxy attacks             | Militias in Iraq, Lebanon, Yemen escalate conflict                         |
+| Energy disruption         | Targeting shipping lanes and oil terminals                                 |
+| Covert operations         | Cyber intrusions and assassinations                                         |
+
+> **Why it matters:** Each response increases the likelihood of a broader regional conflict—or a prolonged low-intensity war that entangles global powers.  
+`
+  },
+  {
     id: "How-to-Use-AI-to-Earn-with-Shopify",
     title: "How to Use AI to Earn with Shopify",
     date: "2025-06-05",
