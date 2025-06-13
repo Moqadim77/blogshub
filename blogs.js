@@ -4,48 +4,156 @@ const blogs = [
     title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
     date: "2025-06-13",
     tags: ["Israel", "Iran", "nuclear", "military strategy", "Middle East", "geopolitics"],
-    keywords: "Israel Iran strike nuclear sites, Operation Rising Lion, Iran nuclear conflict, Israel Iran June 2025 news, global oil prices Iran strike, Middle East escalation, Iran retaliation scenarios",
+    keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack",
     description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
     banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
     content: `
-In mid‑June 2025, Israel initiated **Operation Rising Lion**, a coordinated air and cyber strike against Iran’s nuclear infrastructure and IRGC leadership.
+Israel shocked the world on **June 13, 2025** by launching its most extensive military assault on Iran in decades, targeting nuclear and missile sites in what it named **Operation Rising Lion**. In response, Iran retaliated with a massive drone and ballistic missile barrage. The US and global powers quickly stepped in diplomatically and defensively. Here's your all-in-one guide to understanding this critical moment.
 
 ---
 
-# Why Now?
+## 1️⃣ Timeline: What Happened & When
 
-- Israel viewed Iran’s expanding uranium enrichment (up to 60%) and advanced centrifuges as an **imminent existential threat** :contentReference[oaicite:1]{index=1}.
-- The timing followed weakened Iranian defenses due to prior Israeli strikes and its own internal unrest under Supreme Leader Khamenei :contentReference[oaicite:2]{index=2}.
-
----
-
-# What Happened?
-
-- Israeli jets and drones hit Natanz, Tabriz, and other sites; senior IRGC commanders—including Hossein Salami and Mohammad Bagheri—and nuclear scientists were killed :contentReference[oaicite:3]{index=3}.
-- Evidence of deep cyber infiltration, targeted assassinations, and air dominance :contentReference[oaicite:4]{index=4}.
+### ✅ June 11–12: Preparations
+- In the days before the attack, reports indicated Israel was fully prepared to strike key Iranian sites. The US reduced embassy personnel in the region, signaling growing tension :contentReference[oaicite:1]{index=1}.
+- Prime Minister Netanyahu placed a note referencing “a great lion” from the Bible in Jerusalem’s Western Wall — a symbolic signal of the impending military action :contentReference[oaicite:2]{index=2}.
 
 ---
 
-# Risks & Regional Fallout
+### ✅ June 13 (Morning, Israel local time)
+- Israel launched **Operation Rising Lion**, deploying over **200 warplanes and drones** to strike around **100 targets** in Iran. Hit sites included nuclear enrichment facilities (Natanz, Fordow, Isfahan), missile and air-defense infrastructure, and command centers :contentReference[oaicite:3]{index=3}.
+- Preceding drone strikes by Mossad disabled key radar systems to ease the air campaign :contentReference[oaicite:4]{index=4}.
+  
+---
 
-1. **Iranian retaliation**: Iran retains missile and proxy capabilities—attacks on U.S. bases, oil infrastructure, the Strait of Hormuz are credible :contentReference[oaicite:5]{index=5}.
-2. **Oil price shock**: Markets reacted swiftly—oil rose ~6% on fears of supply disruptions :contentReference[oaicite:6]{index=6}.
-3. **Nuclear escalation**: Iran may accelerate its nuclear efforts or rebuild its enrichment program :contentReference[oaicite:7]{index=7}.
-4. **Regional proliferation**: Saudi Arabia and Turkey may reconsider nuclear options :contentReference[oaicite:8]{index=8}.
+### ✅ Afternoon–Evening: Iran’s Response
+- Iran launched a multi-wave attack using over **100 ballistic missiles and 150+ drones**, targeting cities across Israel including Tel Aviv and Jerusalem :contentReference[oaicite:5]{index=5}.
+- Defensive systems—Iron Dome, Patriot, Arrow‑2/3—successfully intercepted nearly all projectiles. Sirens and alerts disrupted civilian life but prevented significant damage :contentReference[oaicite:6]{index=6}.
+- The US assisted Israel in intercepting incoming threats and deployed additional assets to protect regional US military bases :contentReference[oaicite:7]{index=7}.
 
 ---
 
-# Global & Diplomatic Stakes
+## 2️⃣ What Was Hit—Targets & Casualties
 
-- The U.S. remains officially uninvolved but is supplying intelligence support :contentReference[oaicite:9]{index=9}.
-- Europe likely to push for diplomacy, fearing escalation and broader war :contentReference[oaicite:10]{index=10}.
-- Global powers—including Russia and China—are watching closely; UN emergency sessions could follow.
+### 🔧 Military & Nuclear Infrastructure
+- **Air-defense radars**, S‑300 missile batteries, missile production sites, and centrifuge and enrichment complexes at Natanz, Fordow, Isfahan, and Khondab were damaged or destroyed :contentReference[oaicite:8]{index=8}.
+
+### 🧨 Top Leadership Targets
+- Multiple high-ranking Iranian commanders were killed, including IRGC commander Hossein Salami and Armed Forces Chief Mohammad Bagheri.
+- Prominent nuclear scientists, including Fereydoon Abbasi and Mohammad Mehdi Tehranchi, were also killed :contentReference[oaicite:9]{index=9}.
+
+### 🏘️ Civilian & Infrastructure Impact
+- Exposure of civilian casualties in Tehran and other cities — at least **78 killed and 329 injured**, including children, according to Iranian reports :contentReference[oaicite:10]{index=10}.
+- Preliminary confirmation from the IAEA showed no radiation leak despite the nuclear sites being attacked :contentReference[oaicite:11]{index=11}.
 
 ---
 
-**Bottom line**: Israel’s strike aims to delay Iran’s nuclear capabilities—but the move significantly increases regional tensions, raises oil prices, and risks expanding into a broader Middle Eastern war.  
+## 3️⃣ Immediate Response: Iran, US, Allies
+
+### 🇮🇷 Iran’s Reaction
+- Ayatollah Khamenei called the attack “satanic,” labeling it a declaration of war and promising “harsh revenge” :contentReference[oaicite:12]{index=12}.
+- The Foreign Ministry accused the US of involvement and demanded global condemnation :contentReference[oaicite:13]{index=13}.
+
+### 🇺🇸 United States' Role
+- Assisted air defense intercepts and relocated key military assets nearby :contentReference[oaicite:14]{index=14}.
+- President Trump clarified US did not conduct strikes but warned Iran against deeper escalation :contentReference[oaicite:15]{index=15}.
+
+### 🌐 Global Diplomacy
+- The UN held an emergency session; Western governments called for de-escalation :contentReference[oaicite:16]{index=16}.
+- Russia sharply condemned the attack as “unprovoked and unacceptable” and warned of serious consequences :contentReference[oaicite:17]{index=17}.
+
+---
+
+## 4️⃣ Why This Attack Matters
+
+### 🧭 A Shift Toward Direct Conflict
+This was the largest direct airstrike by Israel on Iran since the Iran–Iraq War. It signals a move from proxy engagements to overt military confrontation :contentReference[oaicite:18]{index=18}.
+
+### 🔬 Nuclear Implications
+Israel claims to delay Iran’s path to a nuclear weapon. Despite IAEA finding no radiation leak, Iran has vowed to accelerate enrichment :contentReference[oaicite:19]{index=19}.
+
+### 💣 Military Advantage
+Taking out radars and missile systems opens space for future air operations and alters Iran’s deterrence capability :contentReference[oaicite:20]{index=20}.
+
+### 🌏 Regional Risk Increases
+Heightened tension increases the likelihood of proxy attacks by Hezbollah, Houthis, or militias targeting US or allied interests :contentReference[oaicite:21]{index=21}.
+
+### 📈 Economic & Global Impact
+Oil prices spiked over 7%, airline routes were diverted, and markets saw heightened volatility :contentReference[oaicite:22]{index=22}.
+
+---
+
+## 5️⃣ What to Watch Next: Key Indicators
+
+| Area              | What to Monitor |
+|-------------------|------------------|
+| **Iranian Retaliation** | Additional missile/drone waves targeting Israel or US bases. |
+| **Diplomacy**          | Updates from UN Security Council and direct US–Iran channels. |
+| **Proxy Warfare**      | Attacks by Hezbollah or Houthis in Syria, Lebanon, or Yemen. |
+| **Oil & Markets**      | Fluctuations in oil, gold prices, and global market indexes. |
+| **Domestic Unrest**    | Public reaction in Iran; potential for unrest or regime shifts. |
+
+---
+
+## 6️⃣ Pros & Cons of Operation Rising Lion
+
+**✅ Pros (Israel's View)**  
+- Immediate disruption to Iran’s military and nuclear programs  
+- Decapitated IRGC leadership  
+- Proved capability for deep-strike, altering Iran’s strategic calculations
+
+**⚠️ Cons (Risks)**  
+- Potential for massive regional retaliation  
+- Civilian casualties harm Israel’s global standing  
+- Opens door for Iran to accelerate nuclear race  
+- Economic instability in oil markets, rising gas prices
+
+---
+
+## 7️⃣ Beginner Takeaways
+
+- This event crossed a threshold—this is direct war, not proxy warfare.
+- The US played a supporting but non-combatant role.
+- Global powers are trying to contain a spiral, yet responses are mixed.
+- The outcome could reshape the Middle East’s geopolitical map and global security.
+
+---
+
+## 8️⃣ Frequently Asked Questions
+
+### ❓ Was the Natanz site badly damaged?
+Yes—Natanz and Fordow were hit, with no radiation leak but irreversible infrastructural damage :contentReference[oaicite:23]{index=23}.
+
+---
+
+### ❓ Did the US take part in the strikes?
+No—the US helped to intercept Iran’s retaliation but did not execute airstrikes :contentReference[oaicite:24]{index=24}.
+
+---
+
+### ❓ Will this lead to full-scale war?
+Unclear—both sides showed restraint. Israel indicated ongoing operations while Iran vowed “harsh” responses. Watch for more missile/drones, proxy actions, and global diplomatic moves.
+
+---
+
+### ❓ How are global markets reacting?
+Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More disruption possible if escalation continues :contentReference[oaicite:25]{index=25}.
+
+---
+
+## 9️⃣ Final Takeaway
+
+**Operation Rising Lion** on June 13, 2025, marks a watershed moment. Israel’s deep strike into Iran showcases unprecedented strategic boldness. Iran’s retaliation, mostly foiled, demonstrates defense capability. The region is at a delicate crossroads—skirting the edge between strategic deterrence and all-out war. Global eyes are on how both sides and international actors maneuver next.
+
+---
+
+## 🔗 Related Reads  
+- [Top Websites to Earn Money from Typing Jobs](/blog/Top-Websites-to-Earn-Money-from-Typing-Jobs)  
+- [How to Make Money with SEO Services](/blog/How-to-Make-Money-with-SEO-Services)  
+*(Check these out if you're tracking personal finance during global uncertainty.)*
+
 `
-  },
+},
   {
     id: "Iran-response-and-regional-escalation-2025",
     title: "How Iran Might Respond and What It Means for Regional Escalation",
@@ -3823,7 +3931,7 @@ Start slow, stay focused—and type your way to financial freedom.
     tags: ["online coaching", "make money online", "digital business", "side hustle", "entrepreneurship"],
     keywords: "how to earn money online coaching, start online coaching business, make money coaching, online coaching tips, coaching platforms, online coaching marketing, coaching business growth, best coaching niches, coaching tools, coaching income",
     description: "Discover how to earn money with online coaching by sharing your skills and expertise. Learn how to start, market, and grow a successful coaching business in 2025.",
-    banner: "https://cdn.pixabay.com/photo/2017/08/06/10/24/online-2589101_1280.jpg",
+    banner: "https://images.squarespace-cdn.com/content/v1/57e50bc4d1758e426f43ec5d/1554254456302-79WRTT9PRYEHYDJG8F2W/Complete+Coaching.jpg",
     content: `
 Online coaching has exploded in popularity as more people seek personalized help to improve their skills, health, career, or life.If you have expertise in a specific area and love helping others, online coaching can be a highly rewarding and profitable business.
 
@@ -4201,7 +4309,7 @@ Start typing your way to financial freedom! 🖊️💻💸
     tags: ["website flipping", "online business", "side hustle", "make money online", "digital entrepreneurship"],
     keywords: "how to flip websites, website flipping guide, buying and selling websites, improve website value, website investment, website resale, online business ideas, make money flipping sites, website flipping 2025, website flipping tips",
     description: "Learn how to make money flipping websites by buying undervalued sites, improving them, and selling for a profit. This beginner’s guide covers everything you need to start flipping websites successfully in 2025.",
-    banner: "https://cdn.pixabay.com/photo/2018/01/03/14/07/web-3055039_1280.jpg",
+    banner: "https://ballenbrands.com/wp-content/uploads/2022/05/website-flipping-2.jpg",
     content: `
 Website flipping is an exciting and potentially lucrative online business strategy where you ** buy undervalued websites **, improve them, and then sell them at a higher price.Think of it as real estate investing—but digital!
 
@@ -4582,7 +4690,7 @@ Start with what you have.Make your space shine.Deliver great service.And watch t
     tags: ["eBay", "eCommerce", "make money online", "side hustle", "online selling"],
     keywords: "how to earn with eBay, make money on eBay, eBay selling guide, selling products online, eBay tips for beginners, online reselling business, flipping items on eBay, eBay dropshipping, part-time eBay seller, eBay profits",
     description: "Learn how to earn money with eBay in 2025. This guide covers how to start, what to sell, how to grow, and tips for maximizing profits on the world’s largest online marketplace.",
-    banner: "https://cdn.pixabay.com/photo/2013/10/01/10/29/ebay-189064_1280.pngg",
+    banner: "https://pngimg.com/uploads/ebay/ebay_PNG14.png",
     content: `
 eBay is one of the oldest and most trusted platforms for online selling—and it’s still a powerful way to earn money in 2025. Whether you want to declutter your home, flip items for profit, or build a full - time e - commerce business, eBay offers a flexible and beginner - friendly way to make money.
 
