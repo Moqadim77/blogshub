@@ -5035,7 +5035,7 @@ So if you’re ready to turn clutter or smart finds into cash, start selling on 
   "description": "Two Minnesota lawmakers were shot in a shocking attack believed to be politically motivated. Here's what happened, who's involved, and what it means for state and national politics.",
   "banner": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/lawmskers-shot.jpg?ve=1&tl=1",
   "content": `
-A terrifying incident shook Minnesota in the early hours of June 14, 2025, when two Democratic lawmakers and their spouses were ambushed in what officials are calling a politically motivated attack. One lawmaker tragically lost her life, while another continues to recover after surgery. Here’s a clear breakdown of what happened, who was involved, and what this means for Minnesota—and America.
+A terrifying incident shook Minnesota in the early hours of June 14, 2025, when two Democratic lawmakers and their spouses were ambushed in what officials are calling a politically motivated attack. One lawmaker tragically lost her life, while another continues to recover after surgery. Here’s a clear breakdown of what happened, who was involved, and what this means for Minnesota, and America.
 
 ## Who Was Targeted?
 
@@ -5049,11 +5049,11 @@ State Senator John Hoffman, who has represented District 34 since 2013, was also
 
 The attacks happened just hours apart. Around 2:00 a.m., gunfire was reported at the Hoffman residence. Police arrived quickly, and the couple was rushed to a nearby hospital.
 
-Roughly 90 minutes later, officers responded to another shooting—this time at the home of Melissa Hortman. When they arrived, they encountered a person dressed like a police officer in a vehicle equipped with fake emergency lights. The suspect opened fire on officers and fled the scene.
+Roughly 90 minutes later, officers responded to another shooting, this time at the home of Melissa Hortman. When they arrived, they encountered a person dressed like a police officer in a vehicle equipped with fake emergency lights. The suspect opened fire on officers and fled the scene.
 
 ## What We Know About the Suspect
 
-While the shooter hasn’t been publicly identified yet, authorities say the suspect was impersonating law enforcement—wearing body armor and driving a fake police SUV. Investigators found a disturbing manifesto and a list of targeted officials in the suspect’s vehicle, pointing to a premeditated attack.
+While the shooter hasn’t been publicly identified yet, authorities say the suspect was impersonating law enforcement, wearing body armor and driving a fake police SUV. Investigators found a disturbing manifesto and a list of targeted officials in the suspect’s vehicle, pointing to a premeditated attack.
 
 A statewide manhunt is underway, led by the Minnesota Bureau of Criminal Apprehension and supported by the FBI and local agencies. Shelter-in-place orders have been issued in parts of Hennepin County, and all lawmakers have been placed under protective watch.
 
@@ -5070,9 +5070,9 @@ Senator Klobuchar called the attack “an assault on our democracy,” adding th
 
 ## Why This Matters
 
-This attack is more than just a tragic news story—it’s a serious warning about the rise of political violence in the U.S. Elected officials, regardless of party, are becoming targets for extremists. The use of fake police gear and the impersonation of officers only heightens concerns about public trust and safety.
+This attack is more than just a tragic news story, it’s a serious warning about the rise of political violence in the U.S. Elected officials, regardless of party, are becoming targets for extremists. The use of fake police gear and the impersonation of officers only heightens concerns about public trust and safety.
 
-Melissa Hortman and John Hoffman were not just politicians—they were pillars of their communities. Hortman, in particular, was known for working across party lines and pushing for unity during divisive times.
+Melissa Hortman and John Hoffman were not just politicians, they were pillars of their communities. Hortman, in particular, was known for working across party lines and pushing for unity during divisive times.
 
 ## What Happens Next?
 
@@ -5090,7 +5090,7 @@ Melissa Hortman’s death is a painful loss for Minnesota. She was not just a po
 
 ## Final Thoughts
 
-The events of June 14 mark a heartbreaking moment in Minnesota’s history. But they also serve as a call to defend the foundations of democracy—dialogue, respect, and peaceful debate. Violence has no place in politics.
+The events of June 14 mark a heartbreaking moment in Minnesota’s history. But they also serve as a call to defend the foundations of democracy, dialogue, respect, and peaceful debate. Violence has no place in politics.
 
 As we await updates, our focus must stay on unity, healing, and making sure this never happens again.
 
