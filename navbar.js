@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
       </div>
 
       <!-- Dropdown Menu -->
-      <div id="menu" class="absolute md:mt-3 top-full left-0 w-full text-black bg-white hidden flex-col flex md:flex-row md:static md:items-center md:justify-center">
+      <div id="menu" class="absolute md:mt-3 top-full left-0 w-full text-black bg-white hidden mt-14 md:mt-0 flex-col flex md:flex-row md:static md:items-center md:justify-center">
         <a href="index.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">Home</a>
         <a href="blogs.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">Blogs</a>
         <a href="about.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">About</a>
