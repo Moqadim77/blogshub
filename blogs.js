@@ -5,8 +5,7 @@ const blogs = [
     category: "News",
     date: "2025-06-13",
     tags: ["Israel", "Iran", "nuclear", "military strategy", "Middle East", "geopolitics"],
-    keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack", 
- 
+    keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack",
     description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
     banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
     content: `
@@ -155,7 +154,7 @@ Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More
 - [How to Make Money with SEO Services](/blog/How-to-Make-Money-with-SEO-Services)  
 *(Check these out if you're tracking personal finance during global uncertainty.)*
 `
-},
+  },
   {
     id: "Iran-response-and-regional-escalation-2025",
     title: "How Iran Might Respond and What It Means for Regional Escalation",
@@ -323,7 +322,7 @@ Iran’s response to Israel’s Operation Rising Lion wasn’t just about reveng
 The world is watching,and holding its breath.
 
 `
-},
+  },
   {
     id: "How-to-Use-AI-to-Earn-with-Shopify",
     title: "How to Use AI to Earn with Shopify",
@@ -1058,6 +1057,7 @@ Whether you're doing it part-time for extra cash or turning it into a full-time 
   {
     id: "How-to-Monetize-YouTube-with-AI",
     title: "How to Monetize YouTube with AI – Even If You're Just Starting Out",
+    category: "Earning",
     date: "2025-06-05",
     tags: ["YouTube", "AI", "content creation", "video editing", "monetization"],
     keywords: "how to monetize YouTube channel, make money on YouTube with AI, AI YouTube automation, faceless YouTube channel, beginner YouTube monetization tips, AI tools for YouTubers, how to start YouTube channel with AI, YouTube cash cow channel, create YouTube videos without camera, YouTube AI content creation",
@@ -5014,4 +5014,5 @@ So if you’re ready to turn clutter or smart finds into cash, start selling on 
 
   `
   },
+
 ];
