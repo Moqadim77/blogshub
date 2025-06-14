@@ -62,7 +62,7 @@
             const selectedCategory = param.get("category")?.toLowerCase() || "all";
 
             document.getElementById('header-placeholder').innerHTML = `
-    <nav class="bg-white border-b shadow-sm px-4 py-2 sticky top-0 z-50 overflow-x-auto whitespace-nowrap scrollbar-hide">
+    <nav class="bg-white h-14 flex items-center border-b shadow-sm px-4 sticky top-0 z-50 overflow-x-auto whitespace-nowrap scrollbar-hide">
         ${categories.map(cat => {
                 const isActive = selectedCategory === cat.toLowerCase();
                 return `
