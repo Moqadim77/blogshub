@@ -9,6 +9,8 @@
     <meta name="keywords"
         content="blog, blogshub, blogging sites, blogshub.online, tech, sports, health, entertainment, lifestyle, responsive, SEO" />
     <meta name="author" content="BlogsHub Team" />
+    <link rel="stylesheet" href="style.css" />
+
     <title>BlogsHub</title>
     <link rel="icon" type="image/x-icon" href="./favicon.ico">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8833008865372719"
@@ -48,17 +50,29 @@
     <div id="header-placeholder"></div>
 
     <script>
+        const categories = [
+            "All", "News", "Earning", "Business", "Tech", "Health", "Finance", "Crypto", "Education", "Jobs & Career", "Social Media", "Digital Marketing", "Self Improvement", "Motivation", "Fitness", "Weight Loss", "Food", "Recipes", "Travel", "Lifestyle", "Fashion", "Entertainment", "Movies", "Gaming", "Sports", "Parenting", "Home Decor", "Relationships", "AI", "Productivity", "Freelancing", "Blogging", "Reviews", "Apps", "Programming", "Cybersecurity"
+        ];
+
         const path = window.location.pathname;
         const param = new URLSearchParams(window.location.search);
         const isHomepage = (path === '/' || path.endsWith('index.html')) && !param.has('post');
 
         if (isHomepage) {
+            const selectedCategory = param.get("category")?.toLowerCase() || "all";
+
             document.getElementById('header-placeholder').innerHTML = `
-            <header class="bg-blue-70 py-10 px-4 text-center">
-                <h1 class="text-4xl font-extrabold text-whit">BLOGSHUB</h1>
-                <p class="text-whit mt-2 text-lg">Deep dives, thoughtful reads, and a clean reading experience.</p>
-            </header>
-            `;
+    <nav class="bg-white border-b shadow-sm px-4 py-2 sticky top-0 z-50 overflow-x-auto whitespace-nowrap scrollbar-hide">
+        ${categories.map(cat => {
+                const isActive = selectedCategory === cat.toLowerCase();
+                return `
+                <a href="?category=${encodeURIComponent(cat.toLowerCase())}"
+                   class="inline-block px-4 py-2 font-semibold rounded-full mx-1 
+                          ${isActive ? 'bg-blue-100 text-blue-700' : 'text-gray-700 hover:text-blue-600'}">
+                    ${cat}
+                </a>`;
+            }).join('')}
+    </nav>`;
         }
     </script>
 
@@ -204,25 +218,33 @@
             }
 
         } else {
-            document.title = "All Posts | BlogsHub";
+            const categoryParam = params.get("category");
+            const selectedCategory = categoryParam?.toLowerCase() || "all";
+
+            const filteredBlogs = selectedCategory === "all"
+                ? blogs
+                : blogs.filter(blog => blog.category?.toLowerCase() === selectedCategory);
+
+            document.title = `${selectedCategory.charAt(0).toUpperCase() + selectedCategory.slice(1)} | BlogsHub`;
             setMetaTag("robots", "index, follow");
 
             contentDiv.innerHTML = `
-                <div class="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-                    ${blogs.map(blog => `
-                    <article class="bg-white sm:rounded-lg transition">
-                        <img src="${blog.banner}" alt="Banner for ${blog.title}"
-                            class="w-full h-48 object-cover sm:rounded-lg mb-4" />
-                        <h2 class="text-2xl font-bold mb-2 px-3 sm:px-0">
-                            <a href="?post=${blog.id}" class="hover:underline text-blue-900">${blog.title}</a>
-                        </h2>
-                        <p class="text-gray-700 line-clamp-2 px-3 sm:px-0">${blog.description?.slice(0, 120) || blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
-                        <a href="?post=${blog.id}" class="inline-block mt-2 text-blue-700 px-3 sm:px-0 rounded-full py-1 font-semibold text-xl hover:underline">Read more →</a>
-                    </article>
-                    `).join("")}
-                </div>
-            `;
+        <div class="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            ${filteredBlogs.map(blog => `
+            <article class="bg-white sm:rounded-lg transition">
+                <img src="${blog.banner}" alt="Banner for ${blog.title}"
+                    class="w-full h-48 object-cover sm:rounded-lg mb-4" />
+                <h2 class="text-2xl font-bold mb-2 px-3 sm:px-0">
+                    <a href="?post=${blog.id}" class="hover:underline text-blue-900">${blog.title}</a>
+                </h2>
+                <p class="text-gray-700 line-clamp-2 px-3 sm:px-0">${blog.description?.slice(0, 120) || blog.content.replace(/<[^>]+>/g, '').slice(0, 150)}…</p>
+                <a href="?post=${blog.id}" class="inline-block mt-2 text-blue-700 px-3 sm:px-0 rounded-full py-1 font-semibold text-xl hover:underline">Read more →</a>
+            </article>
+            `).join("") || "<p class='col-span-full text-center text-gray-500'>No blogs found in this category.</p>"}
+        </div>
+    `;
         }
+
     </script>
 
     <div class="pt-10 pb-16 bg-blue-100 px-4 border-t border-b border-gray-100">
