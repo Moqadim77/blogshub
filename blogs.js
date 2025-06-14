@@ -2,9 +2,11 @@ const blogs = [
   {
     id: "Israel-strikes-Iran-nuclear-sites-2025",
     title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
+    category: "News",
     date: "2025-06-13",
     tags: ["Israel", "Iran", "nuclear", "military strategy", "Middle East", "geopolitics"],
-    keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack",
+    keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack", 
+ 
     description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
     banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
     content: `
@@ -157,6 +159,7 @@ Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More
   {
     id: "Iran-response-and-regional-escalation-2025",
     title: "How Iran Might Respond and What It Means for Regional Escalation",
+    category: "News",
     date: "2025-06-13",
     tags: ["Iran", "Israel", "retaliation", "missiles", "regional security", "proxies"],
     keywords: "Iran retaliation scenarios, Iran missile response Israel strike, Iran proxies strike Israel, regional escalation Iran Israel 2025, Iran Gulf conflict, proxy warfare Iran Israel",
@@ -324,6 +327,7 @@ The world is watching,and holding its breath.
   {
     id: "How-to-Use-AI-to-Earn-with-Shopify",
     title: "How to Use AI to Earn with Shopify",
+    category: "Earning",
     date: "2025-06-05",
     tags: ["AI", "Shopify", "ecommerce", "side hustle"],
     keywords: "AI for Shopify, earn with AI, Shopify automation, ecommerce with AI, dropshipping AI, AI tools for store owners, make money with Shopify",
@@ -431,6 +435,7 @@ AI is the secret weapon for modern ecommerce. Use it wisely, and Shopify could b
   {
     id: "Understanding-the-Use-of-AI-in-Everyday-Life-and-Business",
     title: "Understanding the Use of AI: How It's Changing Everyday Life and Business",
+    category: "Earning",
     date: "2025-05-29",
     tags: ["AI", "technology", "future skills"],
     keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
@@ -534,6 +539,7 @@ Remember: AI is powerful, but the person using it is still the most important pa
   {
     id: "A-Beginner-Guide-to-Affiliate-Marketing-What-It-Is-and-How-to-Start",
     title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
+    category: "Earning",
     date: "2025-05-29",
     tags: ["affiliate marketing", "online income", "marketing"],
     keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
@@ -641,6 +647,7 @@ Affiliate marketing won’t make you rich overnight, but it *can* grow into a re
   {
     id: "Graphic-Designing-A-Beginner-Guide-to-Creating-Visual-Magic",
     title: "Graphic Designing: A Beginner’s Guide to Creating Visual Magic",
+    category: "Earning",
     date: "2025-05-29",
     tags: ["graphic design", "creative skills", "designing"],
     keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
@@ -748,6 +755,7 @@ So go ahead, open up Canva or Photoshop, and start experimenting. Every great de
   {
     id: "A-Beginner-Guide-to-Dropshipping-How-It-Works-and-How-to-Start",
     title: "A Beginner’s Guide to Dropshipping: How It Works and How to Start",
+    category: "Earning",
     date: "2025-05-29",
     tags: ["dropshipping", "ecommerce", "online business"],
     keywords: "dropshipping for beginners, how dropshipping works, start dropshipping, ecommerce business, dropshipping suppliers, online store setup, dropshipping marketing, dropshipping tools",
@@ -852,6 +860,7 @@ Start small. Focus on one product, one store, and one marketing strategy. Be con
   {
     id: "How-to-Use-AI-to-Build-a-Website",
     title: "How to Use AI to Build a Website (Even If You Can’t Code)",
+    category: "Earning",
     date: "2025-06-05",
     tags: ["AI", "website", "productivity", "no-code tools"],
     keywords: "build website with AI, AI website builder, no-code AI website, create website without coding, best AI website tools, design with AI, ChatGPT web design",
@@ -948,7 +957,7 @@ The internet is your storefront, use AI to open it, no coding required.
   {
     id: "A-Beginner-Guide-to-Freelancing-How-to-Start-and-Succeed",
     title: "A Beginner’s Guide to Freelancing: How to Start and Succeed",
-    date: "2025-05-29",
+    category: "Earning",
     tags: ["freelancing", "remote work", "online income"],
     keywords: "freelancing for beginners, how to start freelancing, freelance jobs, remote work tips, online income ideas, freelance platforms, freelancing tools, work from anywhere",
     description: "Discover how to start and succeed in freelancing with this beginner’s guide. Learn essential tips, tools, where to find clients, common mistakes to avoid, and how to build a flexible online income.",
