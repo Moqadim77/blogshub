@@ -1384,6 +1384,7 @@ Whether you're doing it part-time for extra cash or turning it into a full-time 
     {
   id: "best-workouts-lose-belly-fat-fast",
   title: "Best Workouts to Lose Belly Fat Fast (Beginner Friendly Guide)",
+  category:"Fitness",
   date: "2025-06-14",
   tags: ["Fitness", "Weight Loss", "Belly Fat", "Workout Plans"],
   keywords: [
