@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
       </div>
 
       <!-- Dropdown Menu -->
-      <div id="menu" class="absolute md:mt-3 top-full left-0 w-full text-black bg-white hidden mt-14 md:mt-0 flex-col flex md:flex-row md:static md:items-center md:justify-center">
+      <div id="menu" class="absolute md:mt-3 top-full left-0 w-full text-black bg-white hidden z-50 md:z-0 flex-col flex md:flex-row md:static md:items-center md:justify-center">
         <a href="index.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">Home</a>
         <a href="blogs.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">Blogs</a>
         <a href="about.html" class="block px-6 py-2 hover:bg-gray-700 hover:text-white">About</a>
@@ -55,7 +55,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const searchInput = document.getElementById("navbar-search-input");
     const suggestionsDiv = document.getElementById("search-suggestions");
 
-    // Pre-fill input if URL has ?q
     const params = new URLSearchParams(window.location.search);
     const searchQuery = params.get("q")?.trim() || "";
     if (searchQuery && searchInput) {
@@ -71,8 +70,8 @@ document.addEventListener("DOMContentLoaded", function () {
         const q = query.toLowerCase();
         return (
             blog.title.toLowerCase().includes(q) ||
-            blog.description?.toLowerCase().includes(q) ||
-            blog.keywords?.toLowerCase().includes(q) ||
+            (blog.description && blog.description.toLowerCase().includes(q)) ||
+            // (blog.keywords && blog.keywords.toLowerCase().includes(q)) 
             (blog.tags && blog.tags.some(tag => tag.toLowerCase().includes(q)))
         );
     }
@@ -85,6 +84,7 @@ document.addEventListener("DOMContentLoaded", function () {
             return;
         }
 
+        // Filter based on updated input
         const matched = blogs.filter(blog => matchBlog(blog, trimmedQuery)).slice(0, 10);
 
         if (matched.length === 0) {
@@ -102,7 +102,12 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     searchInput.addEventListener("input", e => {
-        const value = e.target.value;
+        const value = e.target.value.trim();
+        if (value.length === 0) {
+            suggestionsDiv.classList.add("hidden");
+            suggestionsDiv.innerHTML = "";
+            return;
+        }
         showSuggestions(value);
     });
 
