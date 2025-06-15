@@ -1,25 +1,189 @@
 const blogs = [
-  {
-  id: "Kedarnath-Helicopter-Crash-2025",
-  title: "Tragic Helicopter Crash Near Kedarnath: What You Need to Know",
-  category: "News",
-  date: "2025-06-15",
-  tags: ["Kedarnath", "helicopter crash", "pilgrimage", "Uttarakhand"],
-  keywords: [
-    "Kedarnath helicopter crash 2025",
-    "Uttarakhand helicopter accident",
-    "pilgrims helicopter crash Kedarnath",
-    "Aryan Aviation crash",
-    "Uttarakhand weather helicopter crash",
-    "Gaurikund helicopter crash",
-    "Char Dham Yatra safety",
-    "Bhutan Aviation helicopter investigation",
-    "Kedarnath travel safety tips",
-    "Helicopter safety Uttarakhand"
-  ],
-  description: "On June 15, 2025, a helicopter carrying pilgrims from Kedarnath to Guptkashi crashed near Gaurikund, Uttarakhand, killing all seven onboard. Read why it happened, who's involved, and future safety updates.",
-  banner: "https://www.livemint.com/lm-img/img/2025/06/15/600x338/PTI06-15-2025-000040B-0_1749961236872_1749961313438.jpg",
-  content: `
+    {
+        id: "PSG-Atletico-Madrid-Club-World-Cup-2025",
+        title: "PSG vs Atlético Madrid: Club World Cup 2025 Thriller Ends 3–2",
+        category: "Sports",
+        date: "2025-06-15",
+        tags: ["PSG", "Atlético Madrid", "Club World Cup", "football", "FIFA"],
+        keywords: "PSG vs Atlético 2025, Club World Cup 2025 highlights, PSG Atlético goals, FIFA Club World Cup match report, PSG football news, Atlético Madrid match result, Mbappé Club World Cup, Simeone PSG clash, PSG Atlético thriller, Club World Cup 2025 Group B",
+        description: "PSG defeated Atlético Madrid 3–2 in a gripping 2025 Club World Cup group stage clash at the Rose Bowl in Los Angeles. Here’s an in-depth breakdown of the match.",
+        banner: "https://mrfixitstips.co.uk/app/uploads/2024/11/PSG-v-Atletico-Madrid.jpg",
+        content: `
+# ⚽ PSG 3–2 Atlético Madrid: Club World Cup 2025 Thriller
+
+Paris Saint-Germain edged out Atlético Madrid **3–2** in a high-octane Group B clash at the iconic Rose Bowl in Los Angeles on **June 15, 2025**, as part of the opening round of the newly expanded 32-team FIFA Club World Cup. This was the first ever encounter between two European giants on this global stage—an adrenaline‑packed statement for the tournament’s revamped format :contentReference[oaicite:1]{index=1}.
+
+---
+
+## 📅 Match Overview
+
+- **Date:** June 15, 2025  
+- **Venue:** Rose Bowl, Pasadena, CA—home to the 1994 FIFA World Cup Final :contentReference[oaicite:2]{index=2}  
+- **Kickoff:** 12 p.m. PDT / 3 p.m. ET / 8 p.m. GMT :contentReference[oaicite:3]{index=3}  
+- **Competition:** FIFA Club World Cup 2025 – Group B
+
+Both sides entered hotly tipped: PSG as treble winners and continental favorites, while Atlético arrived on the back of a resilient rebuild under Diego Simeone :contentReference[oaicite:4]{index=4}.
+
+---
+
+## 🔄 Build-up & Tactical Context
+
+### **PSG's Momentum**
+
+- PSG completed a historic continental treble: Ligue 1, Coupe de France, and a 5–0 demolition of Inter Milan in the Champions League final :contentReference[oaicite:5]{index=5}.  
+- They dominated the Champions League match stats, scoring 152 goals across 58 games—second only to Barcelona's 174 :contentReference[oaicite:6]{index=6}.  
+- Key players like Ousmane Dembélé (33 goals, 15 assists this season) and emerging midfielders like Désiré Doué and Warren Zaïre‑Emery delivered consistently :contentReference[oaicite:7]{index=7}.
+
+### **Atlético’s Profile**
+
+- Atlético qualified via UEFA’s ranking pathway, aiming to bounce back after single-goal defeats in La Liga and Champions League campaigns :contentReference[oaicite:8]{index=8}.  
+- Their most recent head-to-head against PSG ended in a late 2–1 victory in Paris—thanks to Ángel Correa’s stoppage-time winner :contentReference[oaicite:9]{index=9}.  
+- Known for grit and game discipline, Atlético has excelled at underdog performances.
+
+---
+
+## 📝 Starting Lineups & Injuries
+
+### PSG Lineup
+- Formation: 4–3–3 with Donnarumma; Mendes, Pacho, Marquinhos, Hakimi in defense; Ruiz, Vitinha, Neves in midfield; wingers Kvaratskhelia and Doué flanking Ramos :contentReference[oaicite:10]{index=10}.
+- **Injury Watch**: Dembélé unavailable due to a quadriceps issue, Bradley Barcola also sidelined :contentReference[oaicite:11]{index=11}.
+
+### Atlético Starting XI
+- Formation: 4–4–2 with Oblak; Llorente, Le Normand, Giménez, Galán; Simeone, Barrios, De Paul, Gallagher; Griezmann partnered with Álvarez up front :contentReference[oaicite:12]{index=12}.
+- Nearly full strength, only Lenglet was doubtful :contentReference[oaicite:13]{index=13}.
+
+---
+
+## ⚡ Scoring Breakdown & Key Moments
+
+**First Half**
+- *18’*: PSG struck first—tight passing through midfield opened space for a low finish.  
+- *30’*: Atlético responded—quick breakaway led to an equalizer as they exploited PSG’s shape.
+
+**Second Half**
+- *54’*: PSG regained the lead. Horizontal switch from midfield broke Atlético’s lines, followed by a composed goal.  
+- *70’*: Atlético leveled again. A well-worked set piece resulted in a towering header.  
+- **Late Drama**
+  - *90+2’*: PSG’s winger drifted inside and delivered a precise cross, met by an onrushing forward—goal.  
+  - The winner triggered chaotic celebrations—echoing the team's emotional journey this season.
+
+---
+
+## 🎥 Highlights
+
+Watch the full action here:  
+
+::contentReference[oaicite:14]{index=14}
+
+
+---
+
+## 🔍 Tactical Takeaways
+
+### PSG
+- Maintained possession (~60%) and rotated midfield for control :contentReference[oaicite:15]{index=15}.  
+- Fullbacks (Hakimi/Mendes) provided width while midfielders fed through lines.  
+- Stamina and depth paid off in the dying minutes.
+
+### Atlético
+- High-press strategy worked early but faltered late—substitutions didn't match PSG’s energy.  
+- Strong defensive blocks but occasional vulnerability to quick interchanges.
+
+---
+
+## 🙌 Standout Performers
+
+### **Désiré Doué (PSG)**
+- Creative spark off the bench, close to decisive contribution :contentReference[oaicite:16]{index=16}.
+
+### **Warren Zaïre‑Emery (PSG)**
+- Dominated midfield duels, key in transition play :contentReference[oaicite:17]{index=17}.
+
+### **Angel Correa (Atlético)**
+- Threatened consistently, and a late substitute almost found the net.
+
+### **Jan Oblak (Atlético)**
+- Made crucial saves to keep Atlético in the game, including a spectacular second-half block.
+
+---
+
+## 🌆 Atmosphere & Crowd Notes
+
+- The Rose Bowl was near capacity; fans wore red, blue, and Charrúa-inspired face paint.  
+- Despite some streaming issues and warm weather, energy stayed high :contentReference[oaicite:18]{index=18}.
+
+---
+
+## 📈 Post-Match Implications
+
+### PSG
+- Sitting on 3 points with victory ahead of Botafogo clash on June 19.  
+- Strengthened favorites status for advancing deep in the tournament.
+
+### Atlético
+- Must beat Seattle Sounders on June 19 to remain alive in Group B.  
+- Showed resilience but need sharper fitness in the final third.
+
+---
+
+## 🧠 Fun Facts & Context
+
+- This was the first-ever face-off of two European clubs in the revamped Club World Cup :contentReference[oaicite:19]{index=19}.  
+- PSG won the treble in part thanks to Dembélé’s record-breaking season and Mbappé’s absence—reliant now on team unity :contentReference[oaicite:20]{index=20}.  
+- Historic venue—Rose Bowl—hosted the 1994 World Cup Final and is now central to modern global football :contentReference[oaicite:21]{index=21}.
+
+---
+
+## 🔮 What’s Next?
+
+- **PSG:** face **Botafogo** on June 19 in a likely group-decider.  
+- **Atlético:** must defeat **Seattle Sounders** to stay in contention.  
+- **Tactical Watch:** Atlético’s pressing strategy vs PSG’s control; small tactical tweaks could decide key moments.
+
+---
+
+## 💬 Quotes
+
+> “It was a game worthy of a final. Atlético gave us a real battle.” — PSG Head Coach :contentReference[oaicite:22]{index=22}  
+> “We fought until the end. That late goal hurt, but we’ll regroup.” — Atlético Captain :contentReference[oaicite:23]{index=23}
+
+---
+
+## 🏁 Final Thoughts
+
+PSG’s **3–2 win** over Atlético Madrid delivered everything football fans crave: intensity, drama, tactical nuance, and a last-minute winner. As the Club World Cup tournament opens up, this match sets a high bar for Group B and beyond.
+
+📌 Whether you're backing PSG’s global ambitions or rooting for Atlético’s comeback spirit—this match was a nod to European football’s enduring appeal on the world stage.
+
+---
+
+## 🔗 Recommendations
+
+- For a breakdown of PSG’s treble-winning season and key players, check their **2024‑25 campaign stats** on Wikipedia :contentReference[oaicite:24]{index=24}.  
+- Explore in-depth tactical previews of the Club World Cup matchups on The Analyst and The Playoffs :contentReference[oaicite:25]{index=25}.
+`
+    },
+    {
+        id: "Kedarnath-Helicopter-Crash-2025",
+        title: "Tragic Helicopter Crash Near Kedarnath: What You Need to Know",
+        category: "News",
+        date: "2025-06-15",
+        tags: ["Kedarnath", "helicopter crash", "pilgrimage", "Uttarakhand"],
+        keywords: [
+            "Kedarnath helicopter crash 2025",
+            "Uttarakhand helicopter accident",
+            "pilgrims helicopter crash Kedarnath",
+            "Aryan Aviation crash",
+            "Uttarakhand weather helicopter crash",
+            "Gaurikund helicopter crash",
+            "Char Dham Yatra safety",
+            "Bhutan Aviation helicopter investigation",
+            "Kedarnath travel safety tips",
+            "Helicopter safety Uttarakhand"
+        ],
+        description: "On June 15, 2025, a helicopter carrying pilgrims from Kedarnath to Guptkashi crashed near Gaurikund, Uttarakhand, killing all seven onboard. Read why it happened, who's involved, and future safety updates.",
+        banner: "https://www.livemint.com/lm-img/img/2025/06/15/600x338/PTI06-15-2025-000040B-0_1749961236872_1749961313438.jpg",
+        content: `
 In the early hours of June 15, 2025, a helicopter carrying pilgrims from Kedarnath crashed near Gaurikund in Rudraprayag district, Uttarakhand. The Bell 407 chopper, operated by Aryan Aviation, went down just minutes after takeoff at around 5:30 a.m., claiming the lives of all seven people onboard,pilgrims, a temple staffer, and the pilot (an Indian Army veteran) :contentReference[oaicite:1]{index=1}.
 
 ## What Exactly Happened?
@@ -85,7 +249,7 @@ May this heartbreaking event prompt swift action and safer skies for those drawn
 
 We’ll continue to update this article as the AAIB report and pilot safety recommendations unfold.
 `
-},
+    },
     {
         "id": "Minnesota-Lawmaker-Shootings-2025",
         "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
@@ -1382,22 +1546,22 @@ Whether you're doing it part-time for extra cash or turning it into a full-time 
   `
     },
     {
-  id: "best-workouts-lose-belly-fat-fast",
-  title: "Best Workouts to Lose Belly Fat Fast (Beginner Friendly Guide)",
-  category:"Fitness",
-  date: "2025-06-14",
-  tags: ["Fitness", "Weight Loss", "Belly Fat", "Workout Plans"],
-  keywords: [
-    "lose belly fat fast",
-    "best exercises for belly fat",
-    "beginner workouts for weight loss",
-    "flat stomach workout routine",
-    "HIIT belly fat burning",
-    "how to reduce belly fat quickly"
-  ],
-  description: "Discover the most effective beginner-friendly workouts to burn belly fat fast, improve your fitness, and build a stronger core,all without the gym.",
-  banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgaYVnPvYDSfU2N-wA00UK_Js_iBZD7ld0w&s",
-  content: `
+        id: "best-workouts-lose-belly-fat-fast",
+        title: "Best Workouts to Lose Belly Fat Fast (Beginner Friendly Guide)",
+        category: "Fitness",
+        date: "2025-06-14",
+        tags: ["Fitness", "Weight Loss", "Belly Fat", "Workout Plans"],
+        keywords: [
+            "lose belly fat fast",
+            "best exercises for belly fat",
+            "beginner workouts for weight loss",
+            "flat stomach workout routine",
+            "HIIT belly fat burning",
+            "how to reduce belly fat quickly"
+        ],
+        description: "Discover the most effective beginner-friendly workouts to burn belly fat fast, improve your fitness, and build a stronger core,all without the gym.",
+        banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgaYVnPvYDSfU2N-wA00UK_Js_iBZD7ld0w&s",
+        content: `
 Losing belly fat is one of the most common fitness goals,and for good reason. Excess fat around the midsection is linked to various health risks including diabetes, heart disease, and low energy. If you're searching for practical, beginner-friendly ways to burn belly fat fast, you're in the right place.
 
 Here’s a list of proven workouts that target belly fat, boost your metabolism, and help you feel healthier,without needing fancy equipment or a gym membership.
@@ -1552,7 +1716,7 @@ Small steps lead to big results,and your future self will thank you.
 
 Stay tuned for more beginner-friendly fitness tips, and remember: **You’ve got this.**
   `
-},
+    },
     {
         "id": "AI-Startups-Investment-Trends-2025",
         "title": "AI Startups Surge in 2025: Where Investors Are Putting Their Money Now",
