@@ -1,4 +1,90 @@
 const blogs = [
+  {
+  id: "Kedarnath-Helicopter-Crash-2025",
+  title: "Tragic Helicopter Crash Near Kedarnath: What You Need to Know",
+  date: "2025-06-15",
+  tags: ["Kedarnath", "helicopter crash", "pilgrimage", "Uttarakhand"],
+  keywords: [
+    "Kedarnath helicopter crash 2025",
+    "Uttarakhand helicopter accident",
+    "pilgrims helicopter crash Kedarnath",
+    "Aryan Aviation crash",
+    "Uttarakhand weather helicopter crash",
+    "Gaurikund helicopter crash",
+    "Char Dham Yatra safety",
+    "Bhutan Aviation helicopter investigation",
+    "Kedarnath travel safety tips",
+    "Helicopter safety Uttarakhand"
+  ],
+  description: "On June 15, 2025, a helicopter carrying pilgrims from Kedarnath to Guptkashi crashed near Gaurikund, Uttarakhand, killing all seven onboard. Read why it happened, who's involved, and future safety updates.",
+  banner: "https://www.livemint.com/lm-img/img/2025/06/15/600x338/PTI06-15-2025-000040B-0_1749961236872_1749961313438.jpg",
+  content: `
+In the early hours of June 15, 2025, a helicopter carrying pilgrims from Kedarnath crashed near Gaurikund in Rudraprayag district, Uttarakhand. The Bell 407 chopper, operated by Aryan Aviation, went down just minutes after takeoff at around 5:30 a.m., claiming the lives of all seven people onboard,pilgrims, a temple staffer, and the pilot (an Indian Army veteran) :contentReference[oaicite:1]{index=1}.
+
+## What Exactly Happened?
+
+- The helicopter was flying from Kedarnath temple to Guptkashi,a short 10-minute route used by pilgrims during the Char Dham Yatra :contentReference[oaicite:2]{index=2}.
+- It crashed in a remote, forested slope near Gaurikund at an elevation of over 3,000 meters :contentReference[oaicite:3]{index=3}.
+- A fire broke out at the crash site, and rescue teams from the NDRF and SDRF were dispatched immediately :contentReference[oaicite:4]{index=4}.
+
+## Who Were the Victims?
+
+Among the deceased were:
+
+- The pilot, **Capt. Rajveer Singh Chauhan**, a retired Indian Army officer with extensive high-altitude flying experience :contentReference[oaicite:5]{index=5}.
+- A family from **Maharashtra’s Yavatmal district**,a father, mother, and their two‑year‑old daughter,who had travelled for the pilgrimage :contentReference[oaicite:6]{index=6}.
+- Members of the local **Badrinath‑Kedarnath Temple Committee** and two other pilgrims from Uttar Pradesh and Gujarat :contentReference[oaicite:7]{index=7}.
+
+## What Caused the Crash?
+
+Initial reports suggest **adverse weather** and **poor visibility** were key factors :contentReference[oaicite:8]{index=8}. Dense fog and sudden weather changes in Uttarakhand’s high-altitude terrain often challenge pilots :contentReference[oaicite:9]{index=9}.
+
+## A Troubling Pattern
+
+This wasn’t an isolated incident. Over the past two months, Uttarakhand has seen multiple helicopter emergencies:
+
+- May 8: A fatal crash in Uttarkashi killed six people.
+- June 7: A technical glitch forced an emergency landing near Kedarnath,no casualties.
+- Today’s crash marks the **fifth incident** since the Char Dham Yatra began on April 30 :contentReference[oaicite:10]{index=10}.
+
+## Immediate Response & Action
+
+- Uttarakhand’s **Chief Minister Pushkar Singh Dhami** has halted helicopter services to Kedarnath Valley until at least Monday and initiated a high‑level safety review :contentReference[oaicite:11]{index=11}.
+- The **Aircraft Accident Investigation Bureau (AAIB)** will conduct an official investigation :contentReference[oaicite:12]{index=12}.
+- The **Directorate General of Civil Aviation (DGCA)** is reviewing pilot experience credentials and flight protocols :contentReference[oaicite:13]{index=13}.
+
+## What This Means for Pilgrims
+
+1. **Helicopters on hold** – Services suspended while investigations proceed.
+2. **Safer travel policies** – Only experienced pilots will be cleared to fly.
+3. **Trekking alternatives** – Pilgrims are advised to consider road and foot routes, especially to Gaurikund :contentReference[oaicite:14]{index=14}.
+4. **Weather caution** – Tours may be delayed or cancelled depending on visibility and conditions.
+
+## Broader Implications
+
+This crash serves as a wake‑up call:
+
+- **Air safety protocols** tailored to high-altitude terrain need strengthening.
+- **Helicopter operators** must adhere to strict SOPs and maintain transparency.
+- Pilgrims and tourists are urged to stay informed and not rush travel plans.
+
+## What’s Next?
+
+- **Helicopter operations** will remain suspended until safety audits are complete.
+- **Families** of victims may receive compensation under civil aviation law.
+- **Authorities** are expected to issue new rules,possibly mandating more pilot training, radar upgrades, and weather monitoring systems.
+
+## Final Thoughts
+
+This tragedy underscores the vulnerability of high-altitude aviation during pilgrimages. While helicopters offer convenience, they must never compromise on safety. Uttarakhand’s spiritual journey demands both reverence and caution.
+
+For pilgrims planning future visits: cross-check weather reports, ask about pilot experience, and stay flexible with your mode of travel.
+
+May this heartbreaking event prompt swift action and safer skies for those drawn to this sacred region.
+
+We’ll continue to update this article as the AAIB report and pilot safety recommendations unfold.
+`
+},
     {
         "id": "Minnesota-Lawmaker-Shootings-2025",
         "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
