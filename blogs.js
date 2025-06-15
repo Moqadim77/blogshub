@@ -5573,18 +5573,7 @@ So if you’re ready to turn clutter or smart finds into cash, start selling on 
     category: "News",
     "date": "2025-06-14",
     "tags": ["Minnesota", "political violence", "shooting", "breaking news"],
-    "keywords": [
-      "Minnesota lawmaker shot",
-      "Melissa Hortman shooting",
-      "John Hoffman shooting",
-      "Minnesota political violence",
-      "Brooklyn Park shooting",
-      "Champlin shooting",
-      "Minnesota governor statement",
-      "fake police officer shooter",
-      "Minnesota manhunt 2025",
-      "US political attack"
-    ],
+    "keywords":"Minnesota lawmaker shot, Melissa Hortman shooting, John Hoffman shooting, Minnesota political violence, Brooklyn Park shooting, Champlin shooting, Minnesota governor statement, fake police officer shooter, Minnesota manhunt 2025, US political attack",
     "description": "Two Minnesota lawmakers were shot in a shocking attack believed to be politically motivated. Here's what happened, who's involved, and what it means for state and national politics.",
     "banner": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/lawmskers-shot.jpg?ve=1&tl=1",
     "content": `
@@ -5665,18 +5654,7 @@ Stay tuned for further developments. We'll continue to update this article as mo
       "automated investing",
       "financial literacy"
     ],
-    "keywords": [
-      "AI personal finance 2025",
-      "automated budgeting tools",
-      "robo-advisors 2025",
-      "smart financial planning",
-      "machine learning in banking",
-      "AI debt management",
-      "how AI helps save money",
-      "digital finance trends",
-      "fintech for beginners",
-      "financial AI assistants"
-    ],
+    "keywords": "AI personal finance 2025, automated budgeting tools, robo-advisors 2025, smart financial planning, machine learning in banking, AI debt management, how AI helps save money, digital finance trends, fintech for beginners, financial AI assistants",
     "description": "Artificial Intelligence is reshaping how people manage money in 2025. From smart budgeting apps to robo-advisors and debt tracking, here's how AI is transforming personal finance and what it means for your wallet.",
     "banner": "https://pro-assets.morningconsult.com/wp-uploads/2023/11/231113_AI-in-Financial-Services-FI.jpg",
     "content": `
