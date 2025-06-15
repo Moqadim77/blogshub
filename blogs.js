@@ -1,25 +1,25 @@
 const blogs = [
-  {
-    "id": "Minnesota-Lawmaker-Shootings-2025",
-    "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
-    category: "News",
-    "date": "2025-06-14",
-    "tags": ["Minnesota", "political violence", "shooting", "breaking news"],
-    "keywords": [
-      "Minnesota lawmaker shot",
-      "Melissa Hortman shooting",
-      "John Hoffman shooting",
-      "Minnesota political violence",
-      "Brooklyn Park shooting",
-      "Champlin shooting",
-      "Minnesota governor statement",
-      "fake police officer shooter",
-      "Minnesota manhunt 2025",
-      "US political attack"
-    ],
-    "description": "Two Minnesota lawmakers were shot in a shocking attack believed to be politically motivated. Here's what happened, who's involved, and what it means for state and national politics.",
-    "banner": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/lawmskers-shot.jpg?ve=1&tl=1",
-    "content": `
+    {
+        "id": "Minnesota-Lawmaker-Shootings-2025",
+        "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
+        category: "News",
+        "date": "2025-06-14",
+        "tags": ["Minnesota", "political violence", "shooting", "breaking news"],
+        "keywords": [
+            "Minnesota lawmaker shot",
+            "Melissa Hortman shooting",
+            "John Hoffman shooting",
+            "Minnesota political violence",
+            "Brooklyn Park shooting",
+            "Champlin shooting",
+            "Minnesota governor statement",
+            "fake police officer shooter",
+            "Minnesota manhunt 2025",
+            "US political attack"
+        ],
+        "description": "Two Minnesota lawmakers were shot in a shocking attack believed to be politically motivated. Here's what happened, who's involved, and what it means for state and national politics.",
+        "banner": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/lawmskers-shot.jpg?ve=1&tl=1",
+        "content": `
 A terrifying incident shook Minnesota in the early hours of June 14, 2025, when two Democratic lawmakers and their spouses were ambushed in what officials are calling a politically motivated attack. One lawmaker tragically lost her life, while another continues to recover after surgery. Here’s a clear breakdown of what happened, who was involved, and what this means for Minnesota, and America.
 
 ## Who Was Targeted?
@@ -81,17 +81,17 @@ As we await updates, our focus must stay on unity, healing, and making sure this
 
 Stay tuned for further developments. We'll continue to update this article as more details emerge.
   `
-  },
-  {
-    id: "Israel-strikes-Iran-nuclear-sites-2025",
-    title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
-    category: "News",
-    date: "2025-06-13",
-    tags: ["Israel", "Iran", "nuclear", "military strategy", "Middle East", "geopolitics"],
-    keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack",
-    description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
-    banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
-    content: `
+    },
+    {
+        id: "Israel-strikes-Iran-nuclear-sites-2025",
+        title: "Israel’s Pre‑Emptive Strike on Iran’s Nuclear Sites: Strategy, Risks, and Global Impact",
+        category: "News",
+        date: "2025-06-13",
+        tags: ["Israel", "Iran", "nuclear", "military strategy", "Middle East", "geopolitics"],
+        keywords: "latest Israel attack on Iran, Operation Rising Lion, Israel Iran conflict 2025, Iran retaliation missiles, Middle East escalation, military strike Iran, Iran structure killed Israel, Iran nuclear site attack",
+        description: "On June 12‑13, 2025, Israel launched coordinated airstrikes targeting Iran’s nuclear facilities and military leadership. We analyze strategic motives, risks, and potential ramifications.",
+        banner: "https://thedailyguardian.com/wp-content/uploads/2025/06/US-on-High-Alert-as-Israel-Prepares-Strike-on-Irans-Nuclear-Facilities.webp",
+        content: `
 
 Israel shocked the world on **June 13, 2025** by launching its most extensive military assault on Iran in decades, targeting nuclear and missile sites in what it named **Operation Rising Lion**. In response, Iran retaliated with a massive drone and ballistic missile barrage. The US and global powers quickly stepped in diplomatically and defensively. Here's your all-in-one guide to understanding this critical moment.
 
@@ -237,17 +237,17 @@ Oil jumped 7%+ and markets saw brief volatility. Airlines rerouted flights. More
 - [How to Make Money with SEO Services](/blog/How-to-Make-Money-with-SEO-Services)  
 *(Check these out if you're tracking personal finance during global uncertainty.)*
 `
-  },
-  {
-    id: "Iran-response-and-regional-escalation-2025",
-    title: "How Iran Might Respond and What It Means for Regional Escalation",
-    category: "News",
-    date: "2025-06-13",
-    tags: ["Iran", "Israel", "retaliation", "missiles", "regional security", "proxies"],
-    keywords: "Iran retaliation scenarios, Iran missile response Israel strike, Iran proxies strike Israel, regional escalation Iran Israel 2025, Iran Gulf conflict, proxy warfare Iran Israel",
-    description: "After the Israeli strike on Iran’s nuclear and military targets, this article explores Tehran’s potential responses,from missile launches to proxy attacks,and how regional escalation could unfold.",
-    banner: "https://images.wsj.net/im-877783/social",
-    content: `
+    },
+    {
+        id: "Iran-response-and-regional-escalation-2025",
+        title: "How Iran Might Respond and What It Means for Regional Escalation",
+        category: "News",
+        date: "2025-06-13",
+        tags: ["Iran", "Israel", "retaliation", "missiles", "regional security", "proxies"],
+        keywords: "Iran retaliation scenarios, Iran missile response Israel strike, Iran proxies strike Israel, regional escalation Iran Israel 2025, Iran Gulf conflict, proxy warfare Iran Israel",
+        description: "After the Israeli strike on Iran’s nuclear and military targets, this article explores Tehran’s potential responses,from missile launches to proxy attacks,and how regional escalation could unfold.",
+        banner: "https://images.wsj.net/im-877783/social",
+        content: `
 Following Israel's surprise military assault on Iran’s nuclear and defense facilities on **June 13, 2025**, tensions in the Middle East have escalated to dangerous new levels. Iran’s retaliation was swift and significant, but the bigger question now is: **what comes next?** Could this spark a regional war? Will proxy forces join in? Will the US and global powers step in militarily or diplomatically?
 
 Let’s explore in detail Iran’s response so far, the potential for broader regional escalation, and what the world might expect next.
@@ -405,17 +405,17 @@ Iran’s response to Israel’s Operation Rising Lion wasn’t just about reveng
 The world is watching,and holding its breath.
 
 `
-  },
-  {
-    id: "How-to-Use-AI-to-Earn-with-Shopify",
-    title: "How to Use AI to Earn with Shopify",
-    category: "Earning",
-    date: "2025-06-05",
-    tags: ["AI", "Shopify", "ecommerce", "side hustle"],
-    keywords: "AI for Shopify, earn with AI, Shopify automation, ecommerce with AI, dropshipping AI, AI tools for store owners, make money with Shopify",
-    description: "Learn how to use artificial intelligence to start or grow a Shopify store in 2025. Discover the best AI tools for product research, store automation, customer service, content creation, and more.",
-    banner: "https://bestfulfill.com/wp-content/uploads/2021/11/can-you-really-make-money-on-shopify-1-1024x576.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Use-AI-to-Earn-with-Shopify",
+        title: "How to Use AI to Earn with Shopify",
+        category: "Earning",
+        date: "2025-06-05",
+        tags: ["AI", "Shopify", "ecommerce", "side hustle"],
+        keywords: "AI for Shopify, earn with AI, Shopify automation, ecommerce with AI, dropshipping AI, AI tools for store owners, make money with Shopify",
+        description: "Learn how to use artificial intelligence to start or grow a Shopify store in 2025. Discover the best AI tools for product research, store automation, customer service, content creation, and more.",
+        banner: "https://bestfulfill.com/wp-content/uploads/2021/11/can-you-really-make-money-on-shopify-1-1024x576.jpg",
+        content: `
 Want to launch a Shopify store, but don’t know where to start, or how to stand out? Good news: AI is your new business partner.
 
 Artificial Intelligence can now do the heavy lifting for everything from product research to writing product descriptions. Whether you're just starting out or looking to scale your store, AI tools can save time, boost profits, and help you run your business like a pro.
@@ -513,17 +513,17 @@ Start simple:
 AI is the secret weapon for modern ecommerce. Use it wisely, and Shopify could be your next side hustle, or your main gig.
 
 `
-  },
-  {
-    id: "Understanding-the-Use-of-AI-in-Everyday-Life-and-Business",
-    title: "Understanding the Use of AI: How It's Changing Everyday Life and Business",
-    category: "Earning",
-    date: "2025-05-29",
-    tags: ["AI", "technology", "future skills"],
-    keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
-    description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries, from marketing to healthcare.",
-    banner: "https://ric.edu.pk/wp-content/uploads/2025/01/Artificial-Intelligence-1.jpg",
-    content: `
+    },
+    {
+        id: "Understanding-the-Use-of-AI-in-Everyday-Life-and-Business",
+        title: "Understanding the Use of AI: How It's Changing Everyday Life and Business",
+        category: "Earning",
+        date: "2025-05-29",
+        tags: ["AI", "technology", "future skills"],
+        keywords: "AI in daily life, AI for business, artificial intelligence 2025, how to use AI, benefits of AI, AI tools, future of AI, AI productivity tools",
+        description: "Discover how artificial intelligence is transforming everyday life and business in 2025. Learn how AI tools are boosting productivity, saving time, and reshaping industries, from marketing to healthcare.",
+        banner: "https://ric.edu.pk/wp-content/uploads/2025/01/Artificial-Intelligence-1.jpg",
+        content: `
 AI (Artificial Intelligence) might sound like something from a sci-fi movie, but it’s very real, and already part of your daily life. From smart assistants to personalized Netflix recommendations, AI is shaping how we live, work, and think.
 
 But what exactly is AI? And how can you use it in your personal or professional life? Let’s break it down.
@@ -617,17 +617,17 @@ Start small. Use a few tools. See how they help you save time or unlock new crea
 
 Remember: AI is powerful, but the person using it is still the most important part. Be smart, stay curious, and keep learning.
   `
-  },
-  {
-    id: "A-Beginner-Guide-to-Affiliate-Marketing-What-It-Is-and-How-to-Start",
-    title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
-    category: "Earning",
-    date: "2025-05-29",
-    tags: ["affiliate marketing", "online income", "marketing"],
-    keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
-    description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in, all without needing your own product.",
-    banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
-    content: `
+    },
+    {
+        id: "A-Beginner-Guide-to-Affiliate-Marketing-What-It-Is-and-How-to-Start",
+        title: "A Beginner’s Guide to Affiliate Marketing: What It Is and How to Start",
+        category: "Earning",
+        date: "2025-05-29",
+        tags: ["affiliate marketing", "online income", "marketing"],
+        keywords: "affiliate marketing for beginners, how to start affiliate marketing, passive income online, affiliate programs 2025, beginner guide to affiliate income, online business ideas, make money with affiliate marketing",
+        description: "Learn the basics of affiliate marketing in this beginner-friendly guide. Discover how to start, what platforms to use, and how to earn passive income by promoting products you believe in, all without needing your own product.",
+        banner: "https://www.vcommission.com/wp-content/uploads/2022/01/7-Reasons-You-Need-Affiliate-Marketing-to-Grow-Your-Business.jpg",
+        content: `
 Affiliate marketing is one of the most talked-about ways to make money online. You’ve probably heard someone on YouTube or Instagram say, “I made passive income while I slept!”, and chances are, they were talking about affiliate marketing.
 
 But what exactly is it? Is it really that easy? And can you actually make money with it, even if you're a complete beginner?
@@ -725,17 +725,17 @@ Start simple. Pick one product, one platform, and one strategy. Learn, test, imp
 
 Affiliate marketing won’t make you rich overnight, but it *can* grow into a reliable side hustle or even full-time income stream if you stay focused and committed.
   `
-  },
-  {
-    id: "Graphic-Designing-A-Beginner-Guide-to-Creating-Visual-Magic",
-    title: "Graphic Designing: A Beginner’s Guide to Creating Visual Magic",
-    category: "Earning",
-    date: "2025-05-29",
-    tags: ["graphic design", "creative skills", "designing"],
-    keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
-    description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design, no degree needed.",
-    banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
-    content: `
+    },
+    {
+        id: "Graphic-Designing-A-Beginner-Guide-to-Creating-Visual-Magic",
+        title: "Graphic Designing: A Beginner’s Guide to Creating Visual Magic",
+        category: "Earning",
+        date: "2025-05-29",
+        tags: ["graphic design", "creative skills", "designing"],
+        keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
+        description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design, no degree needed.",
+        banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
+        content: `
 Ever wondered who designs those eye-catching posters, website banners, social media ads, or even the packaging of your favorite snacks? That’s the work of **graphic designers**, the visual storytellers of the digital world.
 
 Whether you want to freelance, work for a company, or just learn a cool creative skill, graphic design is one of the most in-demand and rewarding skills in today’s online world.
@@ -833,37 +833,37 @@ Whether you’re a total beginner or someone looking to switch careers, graphic 
 
 So go ahead, open up Canva or Photoshop, and start experimenting. Every great designer started with a blank canvas, yours is waiting.
   `
-  },
-  {
-    "id": "Mental-Health-Burnout-Work-2025",
-    "title": "The Burnout Epidemic: How Chronic Stress at Work Is Impacting Mental Health in 2025",
-    "category": "Health",
-    "date": "2025-06-14",
-    "tags": [
-      "mental health",
-      "burnout",
-      "workplace stress",
-      "2025 health trends",
-      "chronic fatigue",
-      "anxiety",
-      "employee wellness",
-      "occupational health"
-    ],
-    "keywords": [
-      "burnout 2025",
-      "work stress mental health",
-      "signs of burnout",
-      "employee anxiety",
-      "mental health awareness",
-      "occupational burnout solutions",
-      "health effects of stress",
-      "stress management at work",
-      "corporate wellness trends",
-      "burnout recovery tips"
-    ],
-    "description": "Burnout is rising sharply in 2025. Chronic stress, digital overload, and work-life imbalance are causing serious mental health issues. Here's how to identify, manage, and prevent burnout in the modern workplace.",
-    "banner": "https://irishpharmacist.ie/wp-content/uploads/2023/04/IP_apr_23_mental_health.jpg",
-    "content": `
+    },
+    {
+        "id": "Mental-Health-Burnout-Work-2025",
+        "title": "The Burnout Epidemic: How Chronic Stress at Work Is Impacting Mental Health in 2025",
+        "category": "Health",
+        "date": "2025-06-14",
+        "tags": [
+            "mental health",
+            "burnout",
+            "workplace stress",
+            "2025 health trends",
+            "chronic fatigue",
+            "anxiety",
+            "employee wellness",
+            "occupational health"
+        ],
+        "keywords": [
+            "burnout 2025",
+            "work stress mental health",
+            "signs of burnout",
+            "employee anxiety",
+            "mental health awareness",
+            "occupational burnout solutions",
+            "health effects of stress",
+            "stress management at work",
+            "corporate wellness trends",
+            "burnout recovery tips"
+        ],
+        "description": "Burnout is rising sharply in 2025. Chronic stress, digital overload, and work-life imbalance are causing serious mental health issues. Here's how to identify, manage, and prevent burnout in the modern workplace.",
+        "banner": "https://irishpharmacist.ie/wp-content/uploads/2023/04/IP_apr_23_mental_health.jpg",
+        "content": `
 Burnout has reached epidemic levels in 2025. From high-pressure tech jobs to remote workers juggling multiple roles, mental exhaustion is becoming the norm, not the exception. As the boundaries between work and life blur, chronic stress is quietly turning into a public health crisis.
 
 This article explores the causes, signs, consequences, and solutions to burnout, and what businesses, individuals, and governments are doing (and not doing) to tackle it.
@@ -990,17 +990,17 @@ Whether you’re a leader, employee, freelancer, or student, your mental health 
 
 Take a breath. Take a break. And take burnout seriously.
 `
-  },
-  {
-    id: "A-Beginner-Guide-to-Dropshipping-How-It-Works-and-How-to-Start",
-    title: "A Beginner’s Guide to Dropshipping: How It Works and How to Start",
-    category: "Earning",
-    date: "2025-05-29",
-    tags: ["dropshipping", "ecommerce", "online business"],
-    keywords: "dropshipping for beginners, how dropshipping works, start dropshipping, ecommerce business, dropshipping suppliers, online store setup, dropshipping marketing, dropshipping tools",
-    description: "Learn how dropshipping works and how to start your own online store with minimal upfront costs. This beginner’s guide covers essential steps, tools, marketing strategies, and common mistakes to help you build a successful dropshipping business.",
-    banner: "https://online.csp.edu/wp-content/uploads/2020/07/What-is-Drop-Shipping.png",
-    content: `
+    },
+    {
+        id: "A-Beginner-Guide-to-Dropshipping-How-It-Works-and-How-to-Start",
+        title: "A Beginner’s Guide to Dropshipping: How It Works and How to Start",
+        category: "Earning",
+        date: "2025-05-29",
+        tags: ["dropshipping", "ecommerce", "online business"],
+        keywords: "dropshipping for beginners, how dropshipping works, start dropshipping, ecommerce business, dropshipping suppliers, online store setup, dropshipping marketing, dropshipping tools",
+        description: "Learn how dropshipping works and how to start your own online store with minimal upfront costs. This beginner’s guide covers essential steps, tools, marketing strategies, and common mistakes to help you build a successful dropshipping business.",
+        banner: "https://online.csp.edu/wp-content/uploads/2020/07/What-is-Drop-Shipping.png",
+        content: `
 You’ve probably heard stories of people running online stores and making sales while lounging on a beach. In many cases, they’re using a business model called **dropshipping**.
 
 It sounds like magic, selling products without touching inventory or shipping boxes, but is it really that easy? And can beginners get started without a big budget?
@@ -1095,17 +1095,17 @@ If you’re:
 
 Start small. Focus on one product, one store, and one marketing strategy. Be consistent, keep learning, and you’ll have a solid shot at building a real online business.
   `
-  },
-  {
-    id: "How-to-Use-AI-to-Build-a-Website",
-    title: "How to Use AI to Build a Website (Even If You Can’t Code)",
-    category: "Earning",
-    date: "2025-06-05",
-    tags: ["AI", "website", "productivity", "no-code tools"],
-    keywords: "build website with AI, AI website builder, no-code AI website, create website without coding, best AI website tools, design with AI, ChatGPT web design",
-    description: "Learn how to build a website using AI, even if you don’t know how to code. Discover the top AI tools for website creation, design, copywriting, and SEO optimization in 2025.",
-    banner: "https://miro.medium.com/v2/resize:fit:1400/1*O2cB1LBTdHp22-eRukNKog.png",
-    content: `
+    },
+    {
+        id: "How-to-Use-AI-to-Build-a-Website",
+        title: "How to Use AI to Build a Website (Even If You Can’t Code)",
+        category: "Earning",
+        date: "2025-06-05",
+        tags: ["AI", "website", "productivity", "no-code tools"],
+        keywords: "build website with AI, AI website builder, no-code AI website, create website without coding, best AI website tools, design with AI, ChatGPT web design",
+        description: "Learn how to build a website using AI, even if you don’t know how to code. Discover the top AI tools for website creation, design, copywriting, and SEO optimization in 2025.",
+        banner: "https://miro.medium.com/v2/resize:fit:1400/1*O2cB1LBTdHp22-eRukNKog.png",
+        content: `
 Think building a website requires learning code or hiring a web developer? Not anymore.
 
 With AI tools, **anyone** can create a professional-looking website in just a few hours. Whether it’s for a business, portfolio, blog, or online store, AI helps you handle everything from layout and design to writing and SEO.
@@ -1192,16 +1192,16 @@ Here’s your quick-start:
 
 The internet is your storefront, use AI to open it, no coding required.
 `
-  },
-  {
-    id: "A-Beginner-Guide-to-Freelancing-How-to-Start-and-Succeed",
-    title: "A Beginner’s Guide to Freelancing: How to Start and Succeed",
-    category: "Earning",
-    tags: ["freelancing", "remote work", "online income"],
-    keywords: "freelancing for beginners, how to start freelancing, freelance jobs, remote work tips, online income ideas, freelance platforms, freelancing tools, work from anywhere",
-    description: "Discover how to start and succeed in freelancing with this beginner’s guide. Learn essential tips, tools, where to find clients, common mistakes to avoid, and how to build a flexible online income.",
-    banner: "https://tos.com.bd/images/freelancing-outsourcing-platform.jpg",
-    content: `
+    },
+    {
+        id: "A-Beginner-Guide-to-Freelancing-How-to-Start-and-Succeed",
+        title: "A Beginner’s Guide to Freelancing: How to Start and Succeed",
+        category: "Earning",
+        tags: ["freelancing", "remote work", "online income"],
+        keywords: "freelancing for beginners, how to start freelancing, freelance jobs, remote work tips, online income ideas, freelance platforms, freelancing tools, work from anywhere",
+        description: "Discover how to start and succeed in freelancing with this beginner’s guide. Learn essential tips, tools, where to find clients, common mistakes to avoid, and how to build a flexible online income.",
+        banner: "https://tos.com.bd/images/freelancing-outsourcing-platform.jpg",
+        content: `
 You've probably seen people on social media saying they "work from anywhere" or are their own boss. Many of them are doing something called **freelancing**, working for clients or companies independently rather than being a full-time employee.
 
 It’s one of the fastest-growing ways to make money online, and the best part? You don’t need a degree or a fancy office to get started.
@@ -1293,32 +1293,32 @@ Start by picking one service. Offer it to one client. Then another. Then raise y
 
 Whether you're doing it part-time for extra cash or turning it into a full-time career, freelancing can open doors to a flexible and rewarding lifestyle.
   `
-  },
-  {
-    "id": "AI-Startups-Investment-Trends-2025",
-    "title": "AI Startups Surge in 2025: Where Investors Are Putting Their Money Now",
-    "category": "Business",
-    "date": "2025-06-14",
-    "tags": ["AI", "startups", "investment", "venture capital", "business trends", "technology", "innovation", "funding", "scale-ups", "market disruption"],
-    "keywords": [
-      "AI startup funding 2025",
-      "venture capital AI trends",
-      "AI investment boom",
-      "tech startup growth",
-      "Silicon Valley AI",
-      "Generative AI companies",
-      "VC funding trends",
-      "artificial intelligence 2025",
-      "AI unicorn startups",
-      "future of AI business",
-      "enterprise AI platforms",
-      "AI in healthcare",
-      "AI robotics funding",
-      "AI regulation 2025"
-    ],
-    "description": "Artificial Intelligence startups are dominating the 2025 investment landscape. We explore the top trends, hottest companies, and how VC money is shaping the future of business.",
-    "banner": "https://media.licdn.com/dms/image/sync/v2/D4D27AQETfi6L2WBuuA/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1729234843744?e=2147483647&v=beta&t=cGMYXlNXUruyRjk566L_NHs3IEM88tdG7KZCSWAr75o",
-    "content": `
+    },
+    {
+        "id": "AI-Startups-Investment-Trends-2025",
+        "title": "AI Startups Surge in 2025: Where Investors Are Putting Their Money Now",
+        "category": "Business",
+        "date": "2025-06-14",
+        "tags": ["AI", "startups", "investment", "venture capital", "business trends", "technology", "innovation", "funding", "scale-ups", "market disruption"],
+        "keywords": [
+            "AI startup funding 2025",
+            "venture capital AI trends",
+            "AI investment boom",
+            "tech startup growth",
+            "Silicon Valley AI",
+            "Generative AI companies",
+            "VC funding trends",
+            "artificial intelligence 2025",
+            "AI unicorn startups",
+            "future of AI business",
+            "enterprise AI platforms",
+            "AI in healthcare",
+            "AI robotics funding",
+            "AI regulation 2025"
+        ],
+        "description": "Artificial Intelligence startups are dominating the 2025 investment landscape. We explore the top trends, hottest companies, and how VC money is shaping the future of business.",
+        "banner": "https://media.licdn.com/dms/image/sync/v2/D4D27AQETfi6L2WBuuA/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1729234843744?e=2147483647&v=beta&t=cGMYXlNXUruyRjk566L_NHs3IEM88tdG7KZCSWAr75o",
+        "content": `
 The year 2025 is shaping up to be a breakout year for Artificial Intelligence (AI) startups. Venture capital (VC) investments are pouring into sectors ranging from generative language models to enterprise-grade AI infrastructure. As new unicorns emerge and legacy players adjust, the AI startup landscape is evolving at a breathtaking pace. In this deep dive, we’ll explore the key trends, spotlight leading startups, analyze what investors are prioritizing, and assess what lies ahead for founders and markets.
 
 ---
@@ -1460,16 +1460,16 @@ Startups focused on assisting professionals (doctors, lawyers, educators) are ga
 
 Whether you're running a startup in Mumbai, leading R&D in Berlin, or deploying pilots in rural Tanzania, the message is clear: the AI train isn't just rolling, it's accelerating. And those ready to root in deep vertical specificity will be its captain.
   `},
-  {
-    id: "How-to-Monetize-YouTube-with-AI",
-    title: "How to Monetize YouTube with AI – Even If You're Just Starting Out",
-    category: "Earning",
-    date: "2025-06-05",
-    tags: ["YouTube", "AI", "content creation", "video editing", "monetization"],
-    keywords: "how to monetize YouTube channel, make money on YouTube with AI, AI YouTube automation, faceless YouTube channel, beginner YouTube monetization tips, AI tools for YouTubers, how to start YouTube channel with AI, YouTube cash cow channel, create YouTube videos without camera, YouTube AI content creation",
-    description: "Learn how to start and monetize a YouTube channel using AI tools in 2025. From content ideas to editing and voiceovers, discover how AI makes it easier to grow and earn, no camera or editing skills required.",
-    banner: "https://www.tubebuddy.com/wp-content/uploads/2023/09/YouTube-Monetization.png",
-    content: `
+    {
+        id: "How-to-Monetize-YouTube-with-AI",
+        title: "How to Monetize YouTube with AI – Even If You're Just Starting Out",
+        category: "Earning",
+        date: "2025-06-05",
+        tags: ["YouTube", "AI", "content creation", "video editing", "monetization"],
+        keywords: "how to monetize YouTube channel, make money on YouTube with AI, AI YouTube automation, faceless YouTube channel, beginner YouTube monetization tips, AI tools for YouTubers, how to start YouTube channel with AI, YouTube cash cow channel, create YouTube videos without camera, YouTube AI content creation",
+        description: "Learn how to start and monetize a YouTube channel using AI tools in 2025. From content ideas to editing and voiceovers, discover how AI makes it easier to grow and earn, no camera or editing skills required.",
+        banner: "https://www.tubebuddy.com/wp-content/uploads/2023/09/YouTube-Monetization.png",
+        content: `
 Making money on YouTube sounds like a dream job, and thanks to AI, it's more achievable than ever, even if you don't like being on camera or editing videos.
 
 In 2025, **AI can help you create, grow, and monetize a YouTube channel from scratch**, with minimal tech skills and zero filming equipment.
@@ -1662,16 +1662,16 @@ YouTube isn’t just for vloggers anymore, it’s for **strategic creators who k
 
 And AI is the smartest tool of them all.
 `
-  },
-  {
-    id: "Top-10-Most-Popular-AI-Tools-2025",
-    title: "Top 10 Most Popular AI Tools in 2025 (and How to Use Them to Save Time & Make Money)",
-    date: "2025-06-05",
-    tags: ["AI tools", "productivity", "automation", "technology", "2025 trends"],
-    keywords: "best AI tools 2025, top AI tools for productivity, most used AI software, AI tools for business, AI tools to make money, ChatGPT alternatives, AI for content creation, free AI tools 2025, AI tools for students, AI tools for social media",
-    description: "Explore the top 10 most popular AI tools dominating 2025, from ChatGPT to Midjourney. Learn how each tool works, what it's best for, and how you can use it to boost productivity, automate work, or earn online.",
-    banner: "https://cdn.sanity.io/images/poftgen7/production/5ecc4edc3fa12e784fd2940da790d47e213ec225-1200x628.png?rect=1,0,1199,628&w=800&h=419&q=100&fit=max&auto=format",
-    content: `
+    },
+    {
+        id: "Top-10-Most-Popular-AI-Tools-2025",
+        title: "Top 10 Most Popular AI Tools in 2025 (and How to Use Them to Save Time & Make Money)",
+        date: "2025-06-05",
+        tags: ["AI tools", "productivity", "automation", "technology", "2025 trends"],
+        keywords: "best AI tools 2025, top AI tools for productivity, most used AI software, AI tools for business, AI tools to make money, ChatGPT alternatives, AI for content creation, free AI tools 2025, AI tools for students, AI tools for social media",
+        description: "Explore the top 10 most popular AI tools dominating 2025, from ChatGPT to Midjourney. Learn how each tool works, what it's best for, and how you can use it to boost productivity, automate work, or earn online.",
+        banner: "https://cdn.sanity.io/images/poftgen7/production/5ecc4edc3fa12e784fd2940da790d47e213ec225-1200x628.png?rect=1,0,1199,628&w=800&h=419&q=100&fit=max&auto=format",
+        content: `
 AI tools have exploded in popularity, and for good reason.
 
 Whether you're a student, content creator, entrepreneur, or just someone who wants to save time and automate boring tasks, **AI is your secret weapon in 2025**.
@@ -1831,16 +1831,16 @@ With AI by your side, you're not just working smarter, you're leveling up faster
 
 **AI isn't the future, it's your unfair advantage right now.**
 `
-  },
-  {
-    id: "A-Simple-Guide-to-Trading-What-You-Need-to-Know-Before-You-Begin",
-    title: "A Simple Guide to Trading: What You Need to Know Before You Begin",
-    date: "2025-05-11",
-    tags: ["trading guide", "trading"],
-    keywords: "trading guide, beginner trading tips, how to trade stocks, forex trading basics, types of trading, trading strategies, risk management in trading, trading tools, day trading, swing trading",
-    description: "A simple beginner’s guide to trading explaining how it works, different trading styles, essential tools, common mistakes, and tips to start trading wisely and build your skills over time.",
-    banner: "https://hycm.s3.amazonaws.com/public/files/articles/how_to_trade.webp",
-    content: `
+    },
+    {
+        id: "A-Simple-Guide-to-Trading-What-You-Need-to-Know-Before-You-Begin",
+        title: "A Simple Guide to Trading: What You Need to Know Before You Begin",
+        date: "2025-05-11",
+        tags: ["trading guide", "trading"],
+        keywords: "trading guide, beginner trading tips, how to trade stocks, forex trading basics, types of trading, trading strategies, risk management in trading, trading tools, day trading, swing trading",
+        description: "A simple beginner’s guide to trading explaining how it works, different trading styles, essential tools, common mistakes, and tips to start trading wisely and build your skills over time.",
+        banner: "https://hycm.s3.amazonaws.com/public/files/articles/how_to_trade.webp",
+        content: `
 Trading is becoming more popular every day. You may have seen people talking about it on YouTube, Instagram, or TikTok sharing their trades, profits, and even claiming they make money while they sleep. While some of this is true, there’s a lot more to trading than just buying low and selling high. It’s not a get-rich-quick scheme, but with patience and learning, trading can become a useful skill or even a full-time career.
 \n\n
 If you're new to the world of trading, this article will give you a friendly and easy-to-understand overview of what trading is, how it works, and what to expect as a beginner.
@@ -1909,41 +1909,41 @@ Trading isn’t for everyone, and that’s okay. It takes time, patience, and a 
 If you’re someone who enjoys learning, likes to take responsibility for your decisions, and can stay calm under pressure, trading might be a great path for you.
 Start small, stay consistent, and treat trading as a skill not a shortcut. With the right mindset, it can be a rewarding journey.
   `
-  },
-  {
-    "id": "Quantum-Computing-Business-2025",
-    "title": "Quantum Computing Goes Commercial in 2025: Business Implications & Tech Disruption",
-    "category": "Business",
-    "date": "2025-06-14",
-    "tags": [
-      "quantum computing",
-      "tech business",
-      "enterprise IT",
-      "quantum startups",
-      "quantum advantage",
-      "emerging tech",
-      "innovation",
-      "industry disruption",
-      "quantum investment",
-      "QaaS"
-    ],
-    "keywords": [
-      "quantum computing business",
-      "quantum startups 2025",
-      "quantum-as-a-service",
-      "commercial quantum computing",
-      "enterprise quantum adoption",
-      "quantum hardware business",
-      "quantum software platforms",
-      "quantum investment trends",
-      "quantum computing use cases",
-      "industry quantum disruption",
-      "quantum computing regulation",
-      "quantum cyber security"
-    ],
-    "description": "Quantum computing is moving beyond labs in 2025, businesses across industries are exploring real-world applications, investment in quantum startups is surging, and enterprise adoption is accelerating.",
-    "banner": "https://www.innovationnewsnetwork.com/wp-content/uploads/2024/01/shutterstockFuntap_2340550239-1024x576.jpg",
-    "content": `
+    },
+    {
+        "id": "Quantum-Computing-Business-2025",
+        "title": "Quantum Computing Goes Commercial in 2025: Business Implications & Tech Disruption",
+        "category": "Business",
+        "date": "2025-06-14",
+        "tags": [
+            "quantum computing",
+            "tech business",
+            "enterprise IT",
+            "quantum startups",
+            "quantum advantage",
+            "emerging tech",
+            "innovation",
+            "industry disruption",
+            "quantum investment",
+            "QaaS"
+        ],
+        "keywords": [
+            "quantum computing business",
+            "quantum startups 2025",
+            "quantum-as-a-service",
+            "commercial quantum computing",
+            "enterprise quantum adoption",
+            "quantum hardware business",
+            "quantum software platforms",
+            "quantum investment trends",
+            "quantum computing use cases",
+            "industry quantum disruption",
+            "quantum computing regulation",
+            "quantum cyber security"
+        ],
+        "description": "Quantum computing is moving beyond labs in 2025, businesses across industries are exploring real-world applications, investment in quantum startups is surging, and enterprise adoption is accelerating.",
+        "banner": "https://www.innovationnewsnetwork.com/wp-content/uploads/2024/01/shutterstockFuntap_2340550239-1024x576.jpg",
+        "content": `
 Quantum computing has transitioned from an academic curiosity to a business catalyst. In 2025, the shift from theoretical promise to real-world impact is no longer a future forecast, it’s happening now. With government funding, enterprise adoption, and venture capital backing, the quantum computing industry is stepping into the commercial spotlight.
 
 ## What Is Quantum Computing?
@@ -2056,16 +2056,16 @@ Adopting quantum computing isn't just about staying current, it’s about stayin
 
 Stay informed, stay innovative, and stay quantum-ready.
 `
-  },
-  {
-    id: "What-Is-Copywriting-and-Why-Does-It-Matter",
-    title: "What Is Copywriting and Why Does It Matter?",
-    date: "2025-05-27",
-    tags: ["copywriting", "marketing", "freelancing"],
-    keywords: "copywriting, what is copywriting, copywriting tips, marketing copywriting, freelance copywriting, writing to sell, copywriting skills, persuasive writing, copywriting for beginners",
-    description: "Discover what copywriting is, why it matters, and how you can learn this powerful skill to boost sales, improve marketing, and start freelancing with confidence.",
-    banner: "https://www.awai.com/_img/content/what-is-copywriting/title_page_image.png",
-    content: `
+    },
+    {
+        id: "What-Is-Copywriting-and-Why-Does-It-Matter",
+        title: "What Is Copywriting and Why Does It Matter?",
+        date: "2025-05-27",
+        tags: ["copywriting", "marketing", "freelancing"],
+        keywords: "copywriting, what is copywriting, copywriting tips, marketing copywriting, freelance copywriting, writing to sell, copywriting skills, persuasive writing, copywriting for beginners",
+        description: "Discover what copywriting is, why it matters, and how you can learn this powerful skill to boost sales, improve marketing, and start freelancing with confidence.",
+        banner: "https://www.awai.com/_img/content/what-is-copywriting/title_page_image.png",
+        content: `
 Every time you read a catchy ad, a tempting product description, or a website that makes you want to click “buy now,” you’re reading the work of a copywriter. Copywriting is one of the most powerful (and underrated) skills in the digital world today.
 
 Whether you're a business owner, an aspiring freelancer, or someone just curious about online income, learning copywriting can open up incredible opportunities.
@@ -2120,16 +2120,16 @@ Copywriting isn’t just about writing. It’s about selling ideas, solving prob
 
 And the best part? You can learn it from anywhere, even your couch. All you need is a keyboard, curiosity, and the drive to practice.
   `
-  },
-  {
-    id: "Video-Editing-Basics-How-to-Start-Creating-Epic-Content",
-    title: "Video Editing Basics: How to Start Creating Epic Content",
-    date: "2025-05-29",
-    tags: ["video editing", "content creation", "freelancing"],
-    keywords: "video editing basics, how to edit videos, video editing for beginners, best video editing software, freelance video editor, content creation tips, video editing tips, learn video editing, video editing tutorial",
-    description: "Learn the basics of video editing, discover the best beginner-friendly software, and get tips on how to start creating epic content and even make money as a freelance video editor.",
-    banner: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/56KACkKW05xh2bqHsLp4zk/e08b1ea5363f8fb9e850e93b13dd7163/GettyImages-1418210625.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
-    content: `
+    },
+    {
+        id: "Video-Editing-Basics-How-to-Start-Creating-Epic-Content",
+        title: "Video Editing Basics: How to Start Creating Epic Content",
+        date: "2025-05-29",
+        tags: ["video editing", "content creation", "freelancing"],
+        keywords: "video editing basics, how to edit videos, video editing for beginners, best video editing software, freelance video editor, content creation tips, video editing tips, learn video editing, video editing tutorial",
+        description: "Learn the basics of video editing, discover the best beginner-friendly software, and get tips on how to start creating epic content and even make money as a freelance video editor.",
+        banner: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/56KACkKW05xh2bqHsLp4zk/e08b1ea5363f8fb9e850e93b13dd7163/GettyImages-1418210625.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
+        content: `
 Scroll through YouTube, TikTok, or Instagram, and you’ll notice one thing: clean, eye-catching, and engaging videos are everywhere. Behind every viral reel, cinematic vlog, or cool montage is one crucial skill, **video editing**.
 
 Whether you want to be a content creator, freelancer, or just spice up your travel footage, video editing is a super valuable (and fun) skill to learn.
@@ -2232,16 +2232,16 @@ Be patient with yourself. Your first videos won’t be perfect (no one’s are).
 
 So grab your clips, fire up your editor, and start creating. The world’s next great video might be waiting inside your hard drive.
   `
-  },
-  {
-    id: "How-to-Use-AI-to-Earn-on-Instagram",
-    title: "How to Use AI to Earn Money on Instagram (Even with a Small Following)",
-    date: "2025-06-05",
-    tags: ["AI", "Instagram", "social media", "influencer", "side hustle"],
-    keywords: "earn money on Instagram, AI tools for Instagram, Instagram growth hacks, AI content tools, monetize Instagram, Instagram affiliate marketing, AI caption generator, Instagram reels automation",
-    description: "Discover how to earn money on Instagram using AI tools in 2025, even if you don’t have a massive following. From content creation to monetization, see how AI can boost your growth and income.",
-    banner: "https://media.lendingkart.com/wp-content/uploads/2022/09/how-to-make-money-on-instagram.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Use-AI-to-Earn-on-Instagram",
+        title: "How to Use AI to Earn Money on Instagram (Even with a Small Following)",
+        date: "2025-06-05",
+        tags: ["AI", "Instagram", "social media", "influencer", "side hustle"],
+        keywords: "earn money on Instagram, AI tools for Instagram, Instagram growth hacks, AI content tools, monetize Instagram, Instagram affiliate marketing, AI caption generator, Instagram reels automation",
+        description: "Discover how to earn money on Instagram using AI tools in 2025, even if you don’t have a massive following. From content creation to monetization, see how AI can boost your growth and income.",
+        banner: "https://media.lendingkart.com/wp-content/uploads/2022/09/how-to-make-money-on-instagram.jpg",
+        content: `
 Instagram isn’t just for selfies and vacation pics, it’s a full-blown money-making machine. And with AI in your toolkit, making money on Instagram is faster and easier than ever.
 
 Whether you’re a creator, business owner, or total beginner, here’s how to earn money on Instagram using AI in 2025.
@@ -2348,16 +2348,16 @@ Remember: You don’t need to go viral, you just need to stay visible and valuab
 
 Let AI be your social media sidekick, and watch the income grow, one post at a time.
 `
-  },
-  {
-    id: "How-to-Earn-with-Upwork",
-    title: "How to Earn with Upwork: A Beginner’s Guide to Making Money Freelancing Online",
-    date: "2025-06-05",
-    tags: ["Upwork", "freelancing", "remote jobs", "online income", "side hustle"],
-    keywords: "how to earn on Upwork, make money freelancing, Upwork for beginners, Upwork profile tips, Upwork proposal tips, Upwork gigs, remote jobs 2025, online work, freelance platforms, Upwork income guide",
-    description: "Want to make money freelancing? Upwork is one of the top platforms for remote jobs. This beginner-friendly guide explains how to earn with Upwork, from setting up your profile to getting clients and growing your income.",
-    banner: "https://letsreachsuccess.com/wp-content/uploads/2017/08/success-on-upwork-make-money-freelancer.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Earn-with-Upwork",
+        title: "How to Earn with Upwork: A Beginner’s Guide to Making Money Freelancing Online",
+        date: "2025-06-05",
+        tags: ["Upwork", "freelancing", "remote jobs", "online income", "side hustle"],
+        keywords: "how to earn on Upwork, make money freelancing, Upwork for beginners, Upwork profile tips, Upwork proposal tips, Upwork gigs, remote jobs 2025, online work, freelance platforms, Upwork income guide",
+        description: "Want to make money freelancing? Upwork is one of the top platforms for remote jobs. This beginner-friendly guide explains how to earn with Upwork, from setting up your profile to getting clients and growing your income.",
+        banner: "https://letsreachsuccess.com/wp-content/uploads/2017/08/success-on-upwork-make-money-freelancer.jpg",
+        content: `
 Freelancing is booming in 2025, and **Upwork** is one of the best platforms to start earning online with your skills.
 
 Whether you’re a designer, writer, marketer, developer, or virtual assistant, Upwork gives you access to **thousands of remote jobs** posted by real clients every day.
@@ -2556,16 +2556,16 @@ It won’t happen overnight, but if you stick with it, **Upwork can turn into a 
 
 Ready to land your first client on Upwork? Start today, and a few months from now, you’ll be grateful you did.
   `
-  },
-  {
-    id: "Best-Side-Hustles-for-Students-to-Make-Money-2025",
-    title: "Best Side Hustles for Students to Make Money (Without Losing Focus)",
-    date: "2025-06-05",
-    tags: ["side hustles", "students", "make money", "online jobs", "freelance"],
-    keywords: "best side hustles for students, make money as a student, easy online jobs for students, student money tips, earn money online for teens, part-time jobs for college students, freelancing for beginners, passive income for students, study and earn, budget student income",
-    description: "Looking for the best side hustles for students in 2025? Discover easy and flexible ways to earn money while studying, from freelancing to AI tools, content creation, and more.",
-    banner: "https://sidehustles.com/wp-content/uploads/creative-side-hustles-college-students.jpg",
-    content: `
+    },
+    {
+        id: "Best-Side-Hustles-for-Students-to-Make-Money-2025",
+        title: "Best Side Hustles for Students to Make Money (Without Losing Focus)",
+        date: "2025-06-05",
+        tags: ["side hustles", "students", "make money", "online jobs", "freelance"],
+        keywords: "best side hustles for students, make money as a student, easy online jobs for students, student money tips, earn money online for teens, part-time jobs for college students, freelancing for beginners, passive income for students, study and earn, budget student income",
+        description: "Looking for the best side hustles for students in 2025? Discover easy and flexible ways to earn money while studying, from freelancing to AI tools, content creation, and more.",
+        banner: "https://sidehustles.com/wp-content/uploads/creative-side-hustles-college-students.jpg",
+        content: `
 Being a student doesn’t mean you're stuck being broke.
 
 In 2025, side hustles are smarter, faster, and more flexible than ever, especially with AI tools, remote gigs, and the creator economy booming.
@@ -2791,16 +2791,16 @@ And who knows? One of these side hustles might just turn into your future career
 
 📚💸 Stay smart. Stay hustling.
 `
-  },
-  {
-    id: "How-to-Use-AI-to-Earn-with-Amazon",
-    title: "How to Use AI to Earn with Amazon",
-    date: "2025-06-05",
-    tags: ["AI", "Amazon", "ecommerce", "side hustle"],
-    keywords: "AI for Amazon, sell on Amazon with AI, FBA AI tools, Amazon listing optimization, AI product research Amazon, Amazon automation, make money on Amazon",
-    description: "Discover how to use AI tools to make money on Amazon in 2025. From finding profitable products to writing listings, managing ads, and automating customer support, AI can boost your sales and save you time.",
-    banner: "https://atc-edu.org/wp-content/uploads/2024/11/amazonfba.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Use-AI-to-Earn-with-Amazon",
+        title: "How to Use AI to Earn with Amazon",
+        date: "2025-06-05",
+        tags: ["AI", "Amazon", "ecommerce", "side hustle"],
+        keywords: "AI for Amazon, sell on Amazon with AI, FBA AI tools, Amazon listing optimization, AI product research Amazon, Amazon automation, make money on Amazon",
+        description: "Discover how to use AI tools to make money on Amazon in 2025. From finding profitable products to writing listings, managing ads, and automating customer support, AI can boost your sales and save you time.",
+        banner: "https://atc-edu.org/wp-content/uploads/2024/11/amazonfba.jpg",
+        content: `
 Amazon is the world’s biggest online marketplace, and AI can help you tap into it like never before.
 
 Whether you're running a side hustle or building a serious Amazon FBA (Fulfillment by Amazon) business, artificial intelligence can help you work smarter, not harder.
@@ -2897,16 +2897,16 @@ Start small:
 With AI, you're not just selling on Amazon, you're selling smarter.
 
 `
-  },
-  {
-    id: "How-to-Get-Started-with-App-Development-in-2025",
-    title: "How to Get Started with App Development in 2025 (Beginner's Guide)",
-    date: "2025-06-05",
-    tags: ["app development", "coding", "mobile apps", "tech skills", "career growth"],
-    keywords: "how to develop an app, app development for beginners, learn app development 2025, how to build an app, mobile development, no-code app builder, Android app development, iOS development, app coding, app development roadmap",
-    description: "Want to build your own app? Learn the step-by-step process of app development in 2025, tools, platforms, coding vs. no-code options, and how to turn your idea into a real app.",
-    banner: "https://jaarvis.com.au/wp-content/uploads/sites/3/2023/03/APP-Guide.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Get-Started-with-App-Development-in-2025",
+        title: "How to Get Started with App Development in 2025 (Beginner's Guide)",
+        date: "2025-06-05",
+        tags: ["app development", "coding", "mobile apps", "tech skills", "career growth"],
+        keywords: "how to develop an app, app development for beginners, learn app development 2025, how to build an app, mobile development, no-code app builder, Android app development, iOS development, app coding, app development roadmap",
+        description: "Want to build your own app? Learn the step-by-step process of app development in 2025, tools, platforms, coding vs. no-code options, and how to turn your idea into a real app.",
+        banner: "https://jaarvis.com.au/wp-content/uploads/sites/3/2023/03/APP-Guide.jpg",
+        content: `
 Ever had an idea for an app but didn't know where to start?
 
 Whether it's a fitness tracker, a study planner, or the next viral game, 2025 is the best time to dive into **app development**. The tools are easier, no-code platforms are booming, and there's huge demand for apps in every niche.
@@ -3137,16 +3137,16 @@ The world needs your ideas. Let’s build them.
 
 📱🚀
 `
-  },
-  {
-    id: "Web-Development-A-Beginner-Guide-to-Building-the-Internet",
-    title: "Web Development: A Beginner’s Guide to Building the Internet",
-    date: "2025-05-29",
-    tags: ["web development", "coding", "tech skills"],
-    keywords: "web development basics, beginner web development, learn coding, frontend development, backend development, full-stack developer, web development tools, how to build websites, coding for beginners",
-    description: "Discover the essentials of web development for beginners. Learn frontend and backend basics, coding languages, tools, and where to find jobs to start building your own websites and web apps.",
-    banner: "https://startupreviewer.com/wp-content/uploads/2022/01/Web-Development-Technologies.jpg",
-    content: `
+    },
+    {
+        id: "Web-Development-A-Beginner-Guide-to-Building-the-Internet",
+        title: "Web Development: A Beginner’s Guide to Building the Internet",
+        date: "2025-05-29",
+        tags: ["web development", "coding", "tech skills"],
+        keywords: "web development basics, beginner web development, learn coding, frontend development, backend development, full-stack developer, web development tools, how to build websites, coding for beginners",
+        description: "Discover the essentials of web development for beginners. Learn frontend and backend basics, coding languages, tools, and where to find jobs to start building your own websites and web apps.",
+        banner: "https://startupreviewer.com/wp-content/uploads/2022/01/Web-Development-Technologies.jpg",
+        content: `
 Ever visited a website and thought, “How do people even build these things?” That’s where **web development** comes in.
 
 From the layout of an online store to the buttons on a blog, web developers are the people who build and maintain the websites and web apps we use every day. And the best part? You don’t need a computer science degree to start learning it.
@@ -3245,16 +3245,16 @@ Start small. Build a page. Then a project. Then a portfolio. Keep going, and you
 
 The internet is built by people like you, curious, creative, and committed. Time to join the builders.
   `
-  },
-  {
-    id: "TikTok-Monetization-How-to-Make-Money-Creating-Short-Videos",
-    title: "TikTok Monetization: How to Make Money Creating Short Videos",
-    date: "2025-05-29",
-    tags: ["tiktok", "monetization", "creator economy"],
-    keywords: "TikTok monetization, how to make money on TikTok, TikTok creator fund, TikTok brand deals, TikTok affiliate marketing, TikTok shop, grow TikTok audience, TikTok tips for creators",
-    description: "Learn how to make money on TikTok with proven strategies like the Creator Fund, brand deals, affiliate marketing, and selling products. Discover tips to grow your audience and turn your TikTok hobby into a profitable hustle.",
-    banner: "https://podorder.io/wp-content/uploads/2021/10/make-money-on-Tik-Tok.jpg",
-    content: `
+    },
+    {
+        id: "TikTok-Monetization-How-to-Make-Money-Creating-Short-Videos",
+        title: "TikTok Monetization: How to Make Money Creating Short Videos",
+        date: "2025-05-29",
+        tags: ["tiktok", "monetization", "creator economy"],
+        keywords: "TikTok monetization, how to make money on TikTok, TikTok creator fund, TikTok brand deals, TikTok affiliate marketing, TikTok shop, grow TikTok audience, TikTok tips for creators",
+        description: "Learn how to make money on TikTok with proven strategies like the Creator Fund, brand deals, affiliate marketing, and selling products. Discover tips to grow your audience and turn your TikTok hobby into a profitable hustle.",
+        banner: "https://podorder.io/wp-content/uploads/2021/10/make-money-on-Tik-Tok.jpg",
+        content: `
 TikTok isn't just a fun app for dancing and lip-syncing anymore, it's a powerful platform where **anyone can build an audience and start earning real money**. If you’ve ever thought, “Can I actually make money from TikTok?” the answer is yes, but it takes strategy, consistency, and some creativity.
 
 In this guide, we’ll break down the main ways TikTokers are getting paid, even without millions of followers.
@@ -3340,16 +3340,16 @@ Yes, you can, but like any platform, success takes time, effort, and a willingne
 
 Start small, be consistent, and focus on value, not just views. With the right strategy, **TikTok can go from a hobby to a hustle.**
   `
-  },
-  {
-    id: "How-to-Make-Money-with-Fiverr-in-2025",
-    title: "How to Make Money with Fiverr in 2025: Beginner's Guide to Earning Online by Selling Skills",
-    date: "2025-06-05",
-    tags: ["Fiverr", "freelancing", "online income", "side hustle", "digital skills"],
-    keywords: "how to make money with Fiverr, Fiverr gigs that pay, earn online Fiverr, Fiverr side hustle, beginner Fiverr guide, best Fiverr services, freelancing tips 2025, Fiverr profile setup, Fiverr gig ideas, Fiverr money making tips",
-    description: "Fiverr is a top platform to earn money online by offering freelance services, even if you’re just starting out. Learn how to make money with Fiverr in 2025, what skills to sell, and how to grow your freelancing business from scratch.",
-    banner: "https://www.savethestudent.org/uploads/man-smiling-laptop-5-pound-fiverr-logo4.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Make-Money-with-Fiverr-in-2025",
+        title: "How to Make Money with Fiverr in 2025: Beginner's Guide to Earning Online by Selling Skills",
+        date: "2025-06-05",
+        tags: ["Fiverr", "freelancing", "online income", "side hustle", "digital skills"],
+        keywords: "how to make money with Fiverr, Fiverr gigs that pay, earn online Fiverr, Fiverr side hustle, beginner Fiverr guide, best Fiverr services, freelancing tips 2025, Fiverr profile setup, Fiverr gig ideas, Fiverr money making tips",
+        description: "Fiverr is a top platform to earn money online by offering freelance services, even if you’re just starting out. Learn how to make money with Fiverr in 2025, what skills to sell, and how to grow your freelancing business from scratch.",
+        banner: "https://www.savethestudent.org/uploads/man-smiling-laptop-5-pound-fiverr-logo4.jpg",
+        content: `
 If you're looking to make money online with **zero investment**, Fiverr is one of the easiest and most beginner-friendly platforms to start with.
 
 Whether you're a designer, writer, student, or someone with a useful skill, you can offer **freelance services (called gigs)** and earn from the comfort of your home.
@@ -3547,16 +3547,16 @@ Here’s your success roadmap:
 
 💻✨ Ready to earn your first $5 on Fiverr? That’s how it starts. The rest is up to you.
   `
-  },
-  {
-    id: "How-to-Make-Money-with-SEO-Services",
-    title: "How to Make Money with SEO Services: Beginner’s Guide (2025)",
-    date: "2025-06-10",
-    tags: ["SEO", "digital marketing", "freelancing", "online business"],
-    keywords: "how to make money with SEO, SEO services for beginners, start SEO freelancing, SEO agency 2025, earn online with SEO, search engine optimization, make money from SEO skills, beginner SEO guide, SEO business ideas, passive income SEO",
-    description: "Learn how to make money with SEO services in 2025. This beginner-friendly guide covers everything,from learning SEO skills to landing clients, offering services, and scaling a profitable freelancing or agency business.",
-    banner: "https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/647cf030c6d707eb3eea55f9_SEO%20Ranking.webp",
-    content: `
+    },
+    {
+        id: "How-to-Make-Money-with-SEO-Services",
+        title: "How to Make Money with SEO Services: Beginner’s Guide (2025)",
+        date: "2025-06-10",
+        tags: ["SEO", "digital marketing", "freelancing", "online business"],
+        keywords: "how to make money with SEO, SEO services for beginners, start SEO freelancing, SEO agency 2025, earn online with SEO, search engine optimization, make money from SEO skills, beginner SEO guide, SEO business ideas, passive income SEO",
+        description: "Learn how to make money with SEO services in 2025. This beginner-friendly guide covers everything,from learning SEO skills to landing clients, offering services, and scaling a profitable freelancing or agency business.",
+        banner: "https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/647cf030c6d707eb3eea55f9_SEO%20Ranking.webp",
+        content: `
 
 SEO (Search Engine Optimization) is one of the most in-demand skills in the digital world,and guess what? You don’t need a marketing degree to earn money with it.
 
@@ -3757,16 +3757,16 @@ In 2025 and beyond, **businesses that want visibility online will always need SE
 ---
 Start learning today. Practice on your own site. Then, turn that knowledge into income,one optimized page at a time.
 `
-  },
-  {
-    id: "How-to-Make-Money-Without-Investment-in-2025",
-    title: "How to Make Money Without Investment in 2025 (No Money? No Problem!)",
-    date: "2025-06-05",
-    tags: ["money", "side hustle", "passive income", "students", "online work"],
-    keywords: "how to make money without investment, no investment side hustles, free ways to earn online, make money from home 2025, zero investment business ideas, earn money as a student, passive income without money, freelancing without investment, make money online free, how to earn without spending",
-    description: "You don’t need money to start making money. Discover 12+ powerful ways to earn online in 2025 without any upfront investment, perfect for students, beginners, and anyone starting from scratch.",
-    banner: "https://digest.myhq.in/wp-content/uploads/2023/05/71Z_2201.w009.n001.101B.p14.101-scaled.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Make-Money-Without-Investment-in-2025",
+        title: "How to Make Money Without Investment in 2025 (No Money? No Problem!)",
+        date: "2025-06-05",
+        tags: ["money", "side hustle", "passive income", "students", "online work"],
+        keywords: "how to make money without investment, no investment side hustles, free ways to earn online, make money from home 2025, zero investment business ideas, earn money as a student, passive income without money, freelancing without investment, make money online free, how to earn without spending",
+        description: "You don’t need money to start making money. Discover 12+ powerful ways to earn online in 2025 without any upfront investment, perfect for students, beginners, and anyone starting from scratch.",
+        banner: "https://digest.myhq.in/wp-content/uploads/2023/05/71Z_2201.w009.n001.101B.p14.101-scaled.jpg",
+        content: `
 Ever felt stuck because you want to earn but don't have money to start?
 
 Here’s the truth: ** You can start earning online in 2025 with ZERO investment.** All you need is a phone/ laptop, internet, and your time.
@@ -4033,16 +4033,16 @@ Pick one method from this list.Stick with it for 30 days.You’ll learn, grow, a
 
     So stop waiting, start building your income today! 💰📱💻
 `
-  },
-  {
-    id: "How-to-Make-Money-with-Real-Estate",
-    title: "How to Make Money with Real Estate: Beginner’s Guide (2025)",
-    date: "2025-06-10",
-    tags: ["real estate", "investing", "passive income", "beginner guide"],
-    keywords: "how to make money with real estate, real estate investing for beginners, passive income property, earn money with rentals, house flipping, Airbnb rental tips, beginner real estate guide, real estate 2025, best ways to invest in property, real estate income ideas",
-    description: "Discover how beginners can start making money through real estate. Learn about rental income, house flipping, REITs, Airbnb hosting, and smart strategies for success in property investing,no experience needed.",
-    banner: "https://profit.pakistantoday.com.pk/wp-content/uploads/2020/07/iStock-912235266-scaled.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Make-Money-with-Real-Estate",
+        title: "How to Make Money with Real Estate: Beginner’s Guide (2025)",
+        date: "2025-06-10",
+        tags: ["real estate", "investing", "passive income", "beginner guide"],
+        keywords: "how to make money with real estate, real estate investing for beginners, passive income property, earn money with rentals, house flipping, Airbnb rental tips, beginner real estate guide, real estate 2025, best ways to invest in property, real estate income ideas",
+        description: "Discover how beginners can start making money through real estate. Learn about rental income, house flipping, REITs, Airbnb hosting, and smart strategies for success in property investing,no experience needed.",
+        banner: "https://profit.pakistantoday.com.pk/wp-content/uploads/2020/07/iStock-912235266-scaled.jpg",
+        content: `
 
 Real estate is one of the oldest and most powerful ways to build wealth,and yes, even beginners can get started in 2025.
 
@@ -4240,16 +4240,16 @@ Or start learning now and save up to buy your first property in the next 1–2 y
 ---
   Start small.Stay smart.And in time, you could turn your first property into a lifetime of income.
 `
-  },
-  {
-    id: "How-to-Use-AI-To-Make-Money-with-Social-Media-Management",
-    title: "How to Use AI to Make Money with Social Media Management",
-    date: "2025-06-05",
-    tags: ["AI", "social media", "freelancing", "side hustle", "content creation"],
-    keywords: "make money social media, AI for social media management, social media manager tools, freelance social media manager, automate social media, content planner AI, get clients for social media",
-    description: "Learn how to make money as a social media manager using AI tools. From finding clients to automating content creation, discover how AI makes it easier to offer high-value services, no agency required.",
-    banner: "https://res.cloudinary.com/jerrick/image/upload/v1663233342/6322ed3eb944b7001e56e97e.png",
-    content: `
+    },
+    {
+        id: "How-to-Use-AI-To-Make-Money-with-Social-Media-Management",
+        title: "How to Use AI to Make Money with Social Media Management",
+        date: "2025-06-05",
+        tags: ["AI", "social media", "freelancing", "side hustle", "content creation"],
+        keywords: "make money social media, AI for social media management, social media manager tools, freelance social media manager, automate social media, content planner AI, get clients for social media",
+        description: "Learn how to make money as a social media manager using AI tools. From finding clients to automating content creation, discover how AI makes it easier to offer high-value services, no agency required.",
+        banner: "https://res.cloudinary.com/jerrick/image/upload/v1663233342/6322ed3eb944b7001e56e97e.png",
+        content: `
 Think social media management is only for agencies or marketing pros ? Think again.
 
 With AI, ** you can become a social media manager, even as a beginner, and earn real income ** managing accounts for creators, brands, and small businesses.
@@ -4353,16 +4353,16 @@ You just need AI, a few smart tools, and the drive to help businesses grow onlin
 
 Use AI to manage content like a pro, deliver results, and turn social media into your next income stream.
 `
-  },
-  {
-    id: "Top-Websites-to-Earn-Money-from-Typing-Jobs",
-    title: "Top Websites to Earn Money from Typing Jobs (2025 Guide for Beginners)",
-    date: "2025-06-10",
-    tags: ["typing jobs", "freelancing", "online work", "earn from home", "data entry"],
-    keywords: "typing jobs online, websites for typing jobs, earn from home, make money typing, freelance data entry, transcription jobs, typing for beginners, part time online jobs, earn by typing 2025, no investment jobs",
-    description: "Discover the best websites where you can earn money by doing typing jobs in 2025. This guide is perfect for beginners looking for legitimate online typing work,no investment needed.",
-    banner: "https://media.licdn.com/dms/image/v2/D5612AQGGRGb5dFTxig/article-cover_image-shrink_720_1280/B56ZYjFudYGcAQ-/0/1744345430393?e=2147483647&v=beta&t=5VlrKDrcisF5ne_jY6PyiDbrhPqqd9rI31KAUjzpAbc",
-    content: `
+    },
+    {
+        id: "Top-Websites-to-Earn-Money-from-Typing-Jobs",
+        title: "Top Websites to Earn Money from Typing Jobs (2025 Guide for Beginners)",
+        date: "2025-06-10",
+        tags: ["typing jobs", "freelancing", "online work", "earn from home", "data entry"],
+        keywords: "typing jobs online, websites for typing jobs, earn from home, make money typing, freelance data entry, transcription jobs, typing for beginners, part time online jobs, earn by typing 2025, no investment jobs",
+        description: "Discover the best websites where you can earn money by doing typing jobs in 2025. This guide is perfect for beginners looking for legitimate online typing work,no investment needed.",
+        banner: "https://media.licdn.com/dms/image/v2/D5612AQGGRGb5dFTxig/article-cover_image-shrink_720_1280/B56ZYjFudYGcAQ-/0/1744345430393?e=2147483647&v=beta&t=5VlrKDrcisF5ne_jY6PyiDbrhPqqd9rI31KAUjzpAbc",
+        content: `
 
 If you're looking for a simple and beginner-friendly way to earn money online, typing jobs might be your best bet. In 2025, thousands of people are making a side income or even a full-time living just by typing!
 
@@ -4594,16 +4594,16 @@ Whether you want side cash or long - term income, ** typing jobs are a great pla
 
 Start slow, stay focused,and type your way to financial freedom.
 `
-  },
-  {
-    id: "How-to-Earn-Money-with-Online-Coaching",
-    title: "How to Earn Money with Online Coaching: Turn Your Expertise into a Profitable Business",
-    date: "2025-06-08",
-    tags: ["online coaching", "make money online", "digital business", "side hustle", "entrepreneurship"],
-    keywords: "how to earn money online coaching, start online coaching business, make money coaching, online coaching tips, coaching platforms, online coaching marketing, coaching business growth, best coaching niches, coaching tools, coaching income",
-    description: "Discover how to earn money with online coaching by sharing your skills and expertise. Learn how to start, market, and grow a successful coaching business in 2025.",
-    banner: "https://images.squarespace-cdn.com/content/v1/57e50bc4d1758e426f43ec5d/1554254456302-79WRTT9PRYEHYDJG8F2W/Complete+Coaching.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Earn-Money-with-Online-Coaching",
+        title: "How to Earn Money with Online Coaching: Turn Your Expertise into a Profitable Business",
+        date: "2025-06-08",
+        tags: ["online coaching", "make money online", "digital business", "side hustle", "entrepreneurship"],
+        keywords: "how to earn money online coaching, start online coaching business, make money coaching, online coaching tips, coaching platforms, online coaching marketing, coaching business growth, best coaching niches, coaching tools, coaching income",
+        description: "Discover how to earn money with online coaching by sharing your skills and expertise. Learn how to start, market, and grow a successful coaching business in 2025.",
+        banner: "https://images.squarespace-cdn.com/content/v1/57e50bc4d1758e426f43ec5d/1554254456302-79WRTT9PRYEHYDJG8F2W/Complete+Coaching.jpg",
+        content: `
 Online coaching has exploded in popularity as more people seek personalized help to improve their skills, health, career, or life.If you have expertise in a specific area and love helping others, online coaching can be a highly rewarding and profitable business.
 
 In this guide, we’ll walk you through everything you need to know about earning money with online coaching, from getting started to scaling your coaching business.
@@ -4773,16 +4773,16 @@ With consistent effort and great coaching, you can build a profitable, flexible 
 
   So, ready to turn your knowledge into income ? Start planning your online coaching business today!
     `
-  },
-  {
-    id: "How-to-Make-Money-by-Writing-Articles",
-    title: "How to Make Money by Writing Articles: A Beginner’s Guide (2025)",
-    date: "2025-06-10",
-    tags: ["writing", "freelancing", "content creation", "beginner guide"],
-    keywords: "how to earn by writing, article writing jobs, freelance writing beginner, get paid to write, writing income 2025, online writing platforms, writing websites for beginners, make money writing articles, best sites for writers, earn money by blogging",
-    description: "Want to earn money by writing articles? This step-by-step guide shows beginners how to get started, where to find paid writing work, how much you can earn, and the best websites to start writing in 2025.",
-    banner: "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/6803a966a86ed7001d763c6b.webp",
-    content: `
+    },
+    {
+        id: "How-to-Make-Money-by-Writing-Articles",
+        title: "How to Make Money by Writing Articles: A Beginner’s Guide (2025)",
+        date: "2025-06-10",
+        tags: ["writing", "freelancing", "content creation", "beginner guide"],
+        keywords: "how to earn by writing, article writing jobs, freelance writing beginner, get paid to write, writing income 2025, online writing platforms, writing websites for beginners, make money writing articles, best sites for writers, earn money by blogging",
+        description: "Want to earn money by writing articles? This step-by-step guide shows beginners how to get started, where to find paid writing work, how much you can earn, and the best websites to start writing in 2025.",
+        banner: "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/6803a966a86ed7001d763c6b.webp",
+        content: `
 
 Writing articles is one of the ** easiest and most flexible ways to make money online **,and no, you don’t need a journalism degree or perfect English.
 
@@ -4972,16 +4972,16 @@ If you stay consistent and keep improving, this skill can bring long - term inco
 
 Start typing your way to financial freedom! 🖊️💻💸
 `
-  },
-  {
-    id: "How-to-Make-Money-Flipping-Websites",
-    title: "How to Make Money Flipping Websites: A Beginner’s Guide to Buying, Improving, and Selling Websites for Profit",
-    date: "2025-06-08",
-    tags: ["website flipping", "online business", "side hustle", "make money online", "digital entrepreneurship"],
-    keywords: "how to flip websites, website flipping guide, buying and selling websites, improve website value, website investment, website resale, online business ideas, make money flipping sites, website flipping 2025, website flipping tips",
-    description: "Learn how to make money flipping websites by buying undervalued sites, improving them, and selling for a profit. This beginner’s guide covers everything you need to start flipping websites successfully in 2025.",
-    banner: "https://ballenbrands.com/wp-content/uploads/2022/05/website-flipping-2.jpg",
-    content: `
+    },
+    {
+        id: "How-to-Make-Money-Flipping-Websites",
+        title: "How to Make Money Flipping Websites: A Beginner’s Guide to Buying, Improving, and Selling Websites for Profit",
+        date: "2025-06-08",
+        tags: ["website flipping", "online business", "side hustle", "make money online", "digital entrepreneurship"],
+        keywords: "how to flip websites, website flipping guide, buying and selling websites, improve website value, website investment, website resale, online business ideas, make money flipping sites, website flipping 2025, website flipping tips",
+        description: "Learn how to make money flipping websites by buying undervalued sites, improving them, and selling for a profit. This beginner’s guide covers everything you need to start flipping websites successfully in 2025.",
+        banner: "https://ballenbrands.com/wp-content/uploads/2022/05/website-flipping-2.jpg",
+        content: `
 Website flipping is an exciting and potentially lucrative online business strategy where you ** buy undervalued websites **, improve them, and then sell them at a higher price.Think of it as real estate investing,but digital!
 
 If you’re looking for a side hustle or a full - time online income, flipping websites can be a smart choice.Here’s a detailed guide to get you started.
@@ -5127,16 +5127,16 @@ Start small, be patient, and improve your skills step - by - step.With persisten
 
   Ready to start flipping websites for profit ? Explore marketplaces like Flippa today and find your first site to grow!
     `
-  },
-  {
-    id: "How-to-Earn-with-Airbnb-in-2025",
-    title: "How to Earn with Airbnb in 2025: A Beginner's Guide to Making Passive Income from Property",
-    date: "2025-06-05",
-    tags: ["Airbnb", "real estate", "passive income", "side hustle", "travel"],
-    keywords: "how to earn with Airbnb, Airbnb income tips, Airbnb for beginners, rent on Airbnb, start Airbnb business, passive income Airbnb, how to host on Airbnb, Airbnb without owning property, Airbnb side hustle, earn money with Airbnb",
-    description: "Airbnb is more than a travel app, it's a business opportunity. Here's how you can earn money in 2025 through Airbnb, even if you don’t own property. Learn about hosting, managing listings, and creative Airbnb strategies.",
-    banner: "https://cdn.prod.website-files.com/6512de98e79c2902cf071a21/67ed0f6394ad929e3694bcb7_Article%20Image%20(3).webp",
-    content: `
+    },
+    {
+        id: "How-to-Earn-with-Airbnb-in-2025",
+        title: "How to Earn with Airbnb in 2025: A Beginner's Guide to Making Passive Income from Property",
+        date: "2025-06-05",
+        tags: ["Airbnb", "real estate", "passive income", "side hustle", "travel"],
+        keywords: "how to earn with Airbnb, Airbnb income tips, Airbnb for beginners, rent on Airbnb, start Airbnb business, passive income Airbnb, how to host on Airbnb, Airbnb without owning property, Airbnb side hustle, earn money with Airbnb",
+        description: "Airbnb is more than a travel app, it's a business opportunity. Here's how you can earn money in 2025 through Airbnb, even if you don’t own property. Learn about hosting, managing listings, and creative Airbnb strategies.",
+        banner: "https://cdn.prod.website-files.com/6512de98e79c2902cf071a21/67ed0f6394ad929e3694bcb7_Article%20Image%20(3).webp",
+        content: `
 If you’ve ever used Airbnb to book a place during vacation, you probably noticed how people are making real money by simply renting out space.
 
 But did you know ** you can earn on Airbnb without even owning property ?**
@@ -5353,16 +5353,16 @@ Start with what you have.Make your space shine.Deliver great service.And watch t
 🏠💼💰 Ready to list your first space ? Now’s the time.
 
 `
-  },
-  {
-    id: "How-to-Earn-Money-with-eBay",
-    title: "How to Earn Money with eBay: A Complete Guide to Starting and Scaling an eBay Business",
-    date: "2025-06-10",
-    tags: ["eBay", "eCommerce", "make money online", "side hustle", "online selling"],
-    keywords: "how to earn with eBay, make money on eBay, eBay selling guide, selling products online, eBay tips for beginners, online reselling business, flipping items on eBay, eBay dropshipping, part-time eBay seller, eBay profits",
-    description: "Learn how to earn money with eBay in 2025. This guide covers how to start, what to sell, how to grow, and tips for maximizing profits on the world’s largest online marketplace.",
-    banner: "https://pngimg.com/uploads/ebay/ebay_PNG14.png",
-    content: `
+    },
+    {
+        id: "How-to-Earn-Money-with-eBay",
+        title: "How to Earn Money with eBay: A Complete Guide to Starting and Scaling an eBay Business",
+        date: "2025-06-10",
+        tags: ["eBay", "eCommerce", "make money online", "side hustle", "online selling"],
+        keywords: "how to earn with eBay, make money on eBay, eBay selling guide, selling products online, eBay tips for beginners, online reselling business, flipping items on eBay, eBay dropshipping, part-time eBay seller, eBay profits",
+        description: "Learn how to earn money with eBay in 2025. This guide covers how to start, what to sell, how to grow, and tips for maximizing profits on the world’s largest online marketplace.",
+        banner: "https://pngimg.com/uploads/ebay/ebay_PNG14.png",
+        content: `
 eBay is one of the oldest and most trusted platforms for online selling,and it’s still a powerful way to earn money in 2025. Whether you want to declutter your home, flip items for profit, or build a full - time e - commerce business, eBay offers a flexible and beginner - friendly way to make money.
 
 In this complete guide, you'll learn how to start earning on eBay, what to sell, tips for success, and how to grow your profits long-term.
@@ -5566,17 +5566,17 @@ Just remember:
 So if you’re ready to turn clutter or smart finds into cash, start selling on eBay today!
 
   `
-  },
-  {
-    "id": "Minnesota-Lawmaker-Shootings-2025",
-    "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
-    category: "News",
-    "date": "2025-06-14",
-    "tags": ["Minnesota", "political violence", "shooting", "breaking news"],
-    "keywords":"Minnesota lawmaker shot, Melissa Hortman shooting, John Hoffman shooting, Minnesota political violence, Brooklyn Park shooting, Champlin shooting, Minnesota governor statement, fake police officer shooter, Minnesota manhunt 2025, US political attack",
-    "description": "Two Minnesota lawmakers were shot in a shocking attack believed to be politically motivated. Here's what happened, who's involved, and what it means for state and national politics.",
-    "banner": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/lawmskers-shot.jpg?ve=1&tl=1",
-    "content": `
+    },
+    {
+        "id": "Minnesota-Lawmaker-Shootings-2025",
+        "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
+        category: "News",
+        "date": "2025-06-14",
+        "tags": ["Minnesota", "political violence", "shooting", "breaking news"],
+        "keywords": "Minnesota lawmaker shot, Melissa Hortman shooting, John Hoffman shooting, Minnesota political violence, Brooklyn Park shooting, Champlin shooting, Minnesota governor statement, fake police officer shooter, Minnesota manhunt 2025, US political attack",
+        "description": "Two Minnesota lawmakers were shot in a shocking attack believed to be politically motivated. Here's what happened, who's involved, and what it means for state and national politics.",
+        "banner": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/lawmskers-shot.jpg?ve=1&tl=1",
+        "content": `
 A terrifying incident shook Minnesota in the early hours of June 14, 2025, when two Democratic lawmakers and their spouses were ambushed in what officials are calling a politically motivated attack. One lawmaker tragically lost her life, while another continues to recover after surgery. Here’s a clear breakdown of what happened, who was involved, and what this means for Minnesota, and America.
 
 ## Who Was Targeted?
@@ -5638,26 +5638,26 @@ As we await updates, our focus must stay on unity, healing, and making sure this
 
 Stay tuned for further developments. We'll continue to update this article as more details emerge.
   `
-  },
-  {
-    "id": "AI-Personal-Finance-Revolution-2025",
-    "title": "How AI Is Revolutionizing Personal Finance in 2025: What You Need to Know",
-    "category": "Finance",
-    "date": "2025-06-14",
-    "tags": [
-      "AI in finance",
-      "personal finance",
-      "financial planning",
-      "fintech",
-      "smart budgeting",
-      "2025 finance trends",
-      "automated investing",
-      "financial literacy"
-    ],
-    "keywords": "AI personal finance 2025, automated budgeting tools, robo-advisors 2025, smart financial planning, machine learning in banking, AI debt management, how AI helps save money, digital finance trends, fintech for beginners, financial AI assistants",
-    "description": "Artificial Intelligence is reshaping how people manage money in 2025. From smart budgeting apps to robo-advisors and debt tracking, here's how AI is transforming personal finance and what it means for your wallet.",
-    "banner": "https://pro-assets.morningconsult.com/wp-uploads/2023/11/231113_AI-in-Financial-Services-FI.jpg",
-    "content": `
+    },
+    {
+        "id": "AI-Personal-Finance-Revolution-2025",
+        "title": "How AI Is Revolutionizing Personal Finance in 2025: What You Need to Know",
+        "category": "Finance",
+        "date": "2025-06-14",
+        "tags": [
+            "AI in finance",
+            "personal finance",
+            "financial planning",
+            "fintech",
+            "smart budgeting",
+            "2025 finance trends",
+            "automated investing",
+            "financial literacy"
+        ],
+        "keywords": "AI personal finance 2025, automated budgeting tools, robo-advisors 2025, smart financial planning, machine learning in banking, AI debt management, how AI helps save money, digital finance trends, fintech for beginners, financial AI assistants",
+        "description": "Artificial Intelligence is reshaping how people manage money in 2025. From smart budgeting apps to robo-advisors and debt tracking, here's how AI is transforming personal finance and what it means for your wallet.",
+        "banner": "https://pro-assets.morningconsult.com/wp-uploads/2023/11/231113_AI-in-Financial-Services-FI.jpg",
+        "content": `
 In 2025, managing your money is no longer just about spreadsheets and manual budgeting. Artificial Intelligence (AI) is now at the heart of how individuals handle everything from daily expenses to long-term investing.
 
 The rise of smart financial tools is empowering people to save more, invest wisely, avoid debt, and gain real control over their finances. This article explores how AI is transforming personal finance in 2025 and what you should be doing to stay ahead.
@@ -5806,6 +5806,6 @@ Money is emotional. Money is personal. With AI, it’s also finally manageable.
 
 Start today. Your future self will thank you.
 `
-  },
+    },
 
 ];
