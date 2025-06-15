@@ -2,6 +2,7 @@ const blogs = [
   {
   id: "Kedarnath-Helicopter-Crash-2025",
   title: "Tragic Helicopter Crash Near Kedarnath: What You Need to Know",
+  category: "News",
   date: "2025-06-15",
   tags: ["Kedarnath", "helicopter crash", "pilgrimage", "Uttarakhand"],
   keywords: [
