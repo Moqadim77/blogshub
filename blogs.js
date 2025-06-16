@@ -1,25 +1,25 @@
 const blogs = [
-  {
-  id: "Kedarnath-Helicopter-Crash-2025",
-  title: "Tragic Helicopter Crash Near Kedarnath: What You Need to Know",
-  category: "News",
-  date: "2025-06-15",
-  tags: ["Kedarnath", "helicopter crash", "pilgrimage", "Uttarakhand"],
-  keywords: [
-    "Kedarnath helicopter crash 2025",
-    "Uttarakhand helicopter accident",
-    "pilgrims helicopter crash Kedarnath",
-    "Aryan Aviation crash",
-    "Uttarakhand weather helicopter crash",
-    "Gaurikund helicopter crash",
-    "Char Dham Yatra safety",
-    "Bhutan Aviation helicopter investigation",
-    "Kedarnath travel safety tips",
-    "Helicopter safety Uttarakhand"
-  ],
-  description: "On June 15, 2025, a helicopter carrying pilgrims from Kedarnath to Guptkashi crashed near Gaurikund, Uttarakhand, killing all seven onboard. Read why it happened, who's involved, and future safety updates.",
-  banner: "https://www.livemint.com/lm-img/img/2025/06/15/600x338/PTI06-15-2025-000040B-0_1749961236872_1749961313438.jpg",
-  content: `
+    {
+        id: "Kedarnath-Helicopter-Crash-2025",
+        title: "Tragic Helicopter Crash Near Kedarnath: What You Need to Know",
+        category: "News",
+        date: "2025-06-15",
+        tags: ["Kedarnath", "helicopter crash", "pilgrimage", "Uttarakhand"],
+        keywords: [
+            "Kedarnath helicopter crash 2025",
+            "Uttarakhand helicopter accident",
+            "pilgrims helicopter crash Kedarnath",
+            "Aryan Aviation crash",
+            "Uttarakhand weather helicopter crash",
+            "Gaurikund helicopter crash",
+            "Char Dham Yatra safety",
+            "Bhutan Aviation helicopter investigation",
+            "Kedarnath travel safety tips",
+            "Helicopter safety Uttarakhand"
+        ],
+        description: "On June 15, 2025, a helicopter carrying pilgrims from Kedarnath to Guptkashi crashed near Gaurikund, Uttarakhand, killing all seven onboard. Read why it happened, who's involved, and future safety updates.",
+        banner: "https://www.livemint.com/lm-img/img/2025/06/15/600x338/PTI06-15-2025-000040B-0_1749961236872_1749961313438.jpg",
+        content: `
 In the early hours of June 15, 2025, a helicopter carrying pilgrims from Kedarnath crashed near Gaurikund in Rudraprayag district, Uttarakhand. The Bell 407 chopper, operated by Aryan Aviation, went down just minutes after takeoff at around 5:30 a.m., claiming the lives of all seven people onboard,pilgrims, a temple staffer, and the pilot (an Indian Army veteran) :contentReference[oaicite:1]{index=1}.
 
 ## What Exactly Happened?
@@ -85,7 +85,7 @@ May this heartbreaking event prompt swift action and safer skies for those drawn
 
 We’ll continue to update this article as the AAIB report and pilot safety recommendations unfold.
 `
-},
+    },
     {
         "id": "Minnesota-Lawmaker-Shootings-2025",
         "title": "Minnesota Lawmakers Shot in Targeted Attack: What We Know So Far",
@@ -1382,22 +1382,22 @@ Whether you're doing it part-time for extra cash or turning it into a full-time 
   `
     },
     {
-  id: "best-workouts-lose-belly-fat-fast",
-  title: "Best Workouts to Lose Belly Fat Fast (Beginner Friendly Guide)",
-  category:"Fitness",
-  date: "2025-06-14",
-  tags: ["Fitness", "Weight Loss", "Belly Fat", "Workout Plans"],
-  keywords: [
-    "lose belly fat fast",
-    "best exercises for belly fat",
-    "beginner workouts for weight loss",
-    "flat stomach workout routine",
-    "HIIT belly fat burning",
-    "how to reduce belly fat quickly"
-  ],
-  description: "Discover the most effective beginner-friendly workouts to burn belly fat fast, improve your fitness, and build a stronger core,all without the gym.",
-  banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgaYVnPvYDSfU2N-wA00UK_Js_iBZD7ld0w&s",
-  content: `
+        id: "best-workouts-lose-belly-fat-fast",
+        title: "Best Workouts to Lose Belly Fat Fast (Beginner Friendly Guide)",
+        category: "Fitness",
+        date: "2025-06-14",
+        tags: ["Fitness", "Weight Loss", "Belly Fat", "Workout Plans"],
+        keywords: [
+            "lose belly fat fast",
+            "best exercises for belly fat",
+            "beginner workouts for weight loss",
+            "flat stomach workout routine",
+            "HIIT belly fat burning",
+            "how to reduce belly fat quickly"
+        ],
+        description: "Discover the most effective beginner-friendly workouts to burn belly fat fast, improve your fitness, and build a stronger core,all without the gym.",
+        banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgaYVnPvYDSfU2N-wA00UK_Js_iBZD7ld0w&s",
+        content: `
 Losing belly fat is one of the most common fitness goals,and for good reason. Excess fat around the midsection is linked to various health risks including diabetes, heart disease, and low energy. If you're searching for practical, beginner-friendly ways to burn belly fat fast, you're in the right place.
 
 Here’s a list of proven workouts that target belly fat, boost your metabolism, and help you feel healthier,without needing fancy equipment or a gym membership.
@@ -1552,7 +1552,7 @@ Small steps lead to big results,and your future self will thank you.
 
 Stay tuned for more beginner-friendly fitness tips, and remember: **You’ve got this.**
   `
-},
+    },
     {
         "id": "AI-Startups-Investment-Trends-2025",
         "title": "AI Startups Surge in 2025: Where Investors Are Putting Their Money Now",
