@@ -1,14 +1,196 @@
 const blogs = [
-  {
-  id: "iran-attacks-israel-17-june-2025",
-  title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
-  category: "News",
-  date: "2025-06-17",
-  tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
-  keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
-  description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
-  banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
-  content: `
+    {
+        id: "world-war-3-what-happens-next",
+        title: "What Happens Next If World War 3 Starts?",
+        category: "Analysis",
+        date: "2025-06-17",
+        tags: ["World War 3", "global conflict", "nuclear threat", "military alliances", "future warfare"],
+        keywords: "World War 3 2025, global war scenario, what if WW3 starts, nuclear war risks, future of warfare",
+        description: "If a global war breaks out in 2025, what would actually happen? Here's a clear, grounded breakdown of how World War 3 might start, what it would look like, and how it could affect daily life, security, and global stability.",
+        banner: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GSzoX.img?w=810&h=539&m=4&q=79",
+        content: `
+
+## What Could Trigger World War 3?
+
+In 2025, the world is already under stress. Ongoing military tensions between global powers have created multiple flashpoints. World War 3 wouldn’t necessarily start with a formal declaration, it could ignite in any of the following ways:
+
+- A Chinese invasion of Taiwan
+- A direct NATO-Russia clash in Eastern Europe
+- A cyberattack that disables U.S. or EU infrastructure
+- A major attack in the Middle East pulling in superpowers
+
+Even a misinterpreted military move could lead to a full-blown global response. When high-alert systems are involved, minutes matter.
+
+---
+
+## What Happens in the First 72 Hours?
+
+### 1. Military Activation
+
+All military alliances would be triggered. NATO’s Article 5 would be invoked if a member is attacked. Aircraft carriers, submarines, and fighter jets would mobilize. Strategic bombers would be in the air before political leaders even speak publicly.
+
+### 2. Cyber Disruption
+
+Major cities could lose electricity, banking, and communications due to cyberattacks. Governments and civilians may lose access to the internet or mobile services. Hospitals, airports, and financial systems would be key targets.
+
+### 3. Airspace Shutdown
+
+All international flights would halt. Civilian air travel would be suspended worldwide. Missile defense systems would be on high alert. Cities might issue shelter-in-place orders. Emergency sirens would blare in major urban areas.
+
+---
+
+## How Would Nations Respond?
+
+| Region           | Likely Action |
+|------------------|---------------|
+| United States    | Homeland defense, global military deployment |
+| NATO             | Immediate response to any member attacked |
+| Russia           | Long-range missile strikes, Eastern push |
+| China            | Naval dominance and Taiwan seizure |
+| India & Pakistan | Possible regional war escalation |
+| Middle East      | Proxy conflicts and oil-targeted strikes |
+
+Some neutral countries would try to remain uninvolved but may still suffer cyber or economic consequences.
+
+---
+
+## Civilian Impact Around the World
+
+Even if you’re not in a direct war zone, your life could change overnight.
+
+- Fuel stations would run dry
+- Banks may limit or freeze transactions
+- Supermarkets could face food shortages
+- Cities might see curfews and martial law
+- Governments could begin conscription or reactivation of reserves
+
+In large cities, panic and confusion would be widespread. Online misinformation would spike, while official communication might go dark.
+
+---
+
+## Will Nuclear Weapons Be Used?
+
+This is the biggest fear, and the biggest question.
+
+Most experts believe nuclear weapons wouldn’t be used early in the conflict. However, if one side feels cornered, it might deploy tactical nukes (short-range, lower-yield) to change battlefield dynamics.
+
+If one nuclear weapon is launched, others could follow. Even a “limited” exchange between two powers would cause mass death, radiation, and irreversible climate effects.
+
+---
+
+## Could This War Expand into Space?
+
+Yes. Military satellites control navigation, targeting, weather, and communication. Countries like the U.S., Russia, China, and India all have the ability to destroy satellites.
+
+Without satellites:
+
+- GPS systems would fail
+- Aircraft and naval movements would suffer
+- Internet coverage would collapse in many areas
+
+Space would become a contested zone for the first time in warfare history.
+
+---
+
+## What Technology Would Define WW3?
+
+Unlike past wars, WW3 would use modern technologies never seen at this scale before:
+
+- Drone swarms conducting targeted strikes
+- Hypersonic missiles that move faster than Mach 5
+- Cyber armies launching digital invasions
+- Autonomous robots patrolling battlefields
+- Deepfake videos used to confuse civilians
+
+AI could determine who lives or dies. Algorithms might make decisions faster than humans can intervene.
+
+---
+
+## What Would Happen to the Economy?
+
+World markets are tightly connected. The moment war breaks out:
+
+- Stock markets crash globally
+- Oil prices skyrocket
+- Trade routes shut down
+- Food imports freeze
+- Supply chains collapse
+
+Inflation would hit hard. Banks may place limits on cash withdrawals. Investors would pull back, and job losses would rise. Some currencies may become unstable or collapse entirely.
+
+---
+
+## Humanitarian Crisis in the Making
+
+The war wouldn’t just affect soldiers. It would push millions of civilians into crisis:
+
+- Refugee flows across borders
+- Overcrowded shelters and camps
+- Shortages of clean water and medicine
+- Hospitals overwhelmed by injured civilians
+- Mental health trauma on a global scale
+
+Countries not involved in the fighting may still be forced to deal with millions of displaced people.
+
+---
+
+## Diplomacy: Can It Stop the War?
+
+The only way to stop a total world war is through fast, quiet diplomacy.
+
+- Peace talks might happen in neutral countries like Switzerland or Qatar
+- Backchannel messages between intelligence agencies would try to de-escalate
+- The UN may try, but veto powers will limit action
+- Regional peace brokers like Turkey, Brazil, or India could step in
+
+However, the longer the war lasts, the harder peace becomes.
+
+---
+
+## What Comes Next?
+
+| Area              | What to Expect                                          |
+|-------------------|----------------------------------------------------------|
+| Military Fronts   | Expansion into new regions and contested territories     |
+| Technology        | Rise of AI-driven weapons and autonomous warfare         |
+| Global Economy    | Collapse of trade, loss of jobs, inflation               |
+| Civil Liberties   | Possible censorship, conscription, martial law           |
+| Refugees          | Mass displacement and rising humanitarian pressure       |
+
+---
+
+## What You Should Know
+
+- A global war could begin without warning, in minutes, not days
+- Civilians would face fuel, food, and communication breakdowns
+- Nuclear use is unlikely but cannot be ruled out
+- Emergency plans, supplies, and offline awareness will matter
+- Governments may not be able to protect or inform everyone quickly
+
+---
+
+## The Bottom Line
+
+If World War 3 begins, it won’t look like past wars, it will be faster, more complex, and more destructive. The battlefield would include land, sea, air, cyberspace, and even space itself.
+
+Every nation would feel the shock. Civilians would suffer first. The economy could collapse. Technology would amplify the chaos. And if diplomacy fails fast, the world could change forever.
+
+We’re not at that point yet, but the risk is real. Understanding the stakes is the first step in avoiding the unimaginable.
+
+Stay informed. Stay ready. Hope for peace.
+
+`
+    },
+    {
+        id: "iran-attacks-israel-17-june-2025",
+        title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
+        category: "News",
+        date: "2025-06-17",
+        tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
+        keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
+        description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
+        banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
+        content: `
 
 ## What Just Happened?
 
@@ -69,11 +251,11 @@ Bombardments like this affect global oil markets and prompt urgent international
 
 ## The Bottom Line
 
-This June 2025 strike marks one of the most serious direct military escalations in the region in years. With lives lost, defenses tested, and tensions rising, it’s a pivotal moment in the broader Middle East conflict. The focus now turns to whether diplomacy can quickly defuse the situation—or if further retaliatory strikes will follow.
+This June 2025 strike marks one of the most serious direct military escalations in the region in years. With lives lost, defenses tested, and tensions rising, it’s a pivotal moment in the broader Middle East conflict. The focus now turns to whether diplomacy can quickly defuse the situation, or if further retaliatory strikes will follow.
 
 Stay tuned for updates as this situation unfolds.
 `
-},
+    },
     {
         id: "Trump-launches-Trump-Mobile-2025",
         title: "Trump Mobile 2025: The Former President's Bold Entry Into the Smartphone Wars",
@@ -1457,19 +1639,19 @@ Start small. Focus on one product, one store, and one marketing strategy. Be con
   `
     },
     {
-  id: "lose-weight-with-keto-diet-2025",
-  title: "How to Lose Weight with the Keto Diet in 2025: A Beginner’s Guide",
-  category: "Fitness",
-  date: "2025-06-14",
-  tags: ["keto diet", "weight loss", "low-carb", "health tips", "burn belly fat", "nutrition", "beginner keto guide"],
-  keywords: "keto diet weight loss, how to lose belly fat keto, keto for beginners, ketogenic diet 2025, keto meal plan, low carb diet results",
-  description: "Thinking of using the keto diet to lose weight in 2025? Here's a complete beginner-friendly guide that explains how the ketogenic diet works, what to eat, and how to lose belly fat naturally with keto.",
-  banner: "https://cdn.images.express.co.uk/img/dynamic/126/590x/1187336_1.jpg",
-  content: `
+        id: "lose-weight-with-keto-diet-2025",
+        title: "How to Lose Weight with the Keto Diet in 2025: A Beginner’s Guide",
+        category: "Fitness",
+        date: "2025-06-14",
+        tags: ["keto diet", "weight loss", "low-carb", "health tips", "burn belly fat", "nutrition", "beginner keto guide"],
+        keywords: "keto diet weight loss, how to lose belly fat keto, keto for beginners, ketogenic diet 2025, keto meal plan, low carb diet results",
+        description: "Thinking of using the keto diet to lose weight in 2025? Here's a complete beginner-friendly guide that explains how the ketogenic diet works, what to eat, and how to lose belly fat naturally with keto.",
+        banner: "https://cdn.images.express.co.uk/img/dynamic/126/590x/1187336_1.jpg",
+        content: `
 
 ## What Is the Keto Diet?
 
-The keto diet — short for **ketogenic diet** — is a low-carb, high-fat eating plan that helps your body switch from burning sugar to burning fat. Instead of relying on carbohydrates (like bread and pasta) for energy, your body starts using fat as its main fuel source. This process is called **ketosis**.
+The keto diet ,  short for **ketogenic diet** ,  is a low-carb, high-fat eating plan that helps your body switch from burning sugar to burning fat. Instead of relying on carbohydrates (like bread and pasta) for energy, your body starts using fat as its main fuel source. This process is called **ketosis**.
 
 By eating fewer carbs and more fats, your insulin levels drop, and your body becomes more efficient at burning fat. That’s why many people use keto to lose weight, especially belly fat.
 
@@ -1481,7 +1663,7 @@ By eating fewer carbs and more fats, your insulin levels drop, and your body bec
 Carbs cause insulin levels to rise. Insulin is a hormone that tells your body to store fat. By lowering carb intake, you reduce insulin spikes, making it easier for your body to burn fat instead of storing it.
 
 ### 2. **Burns Fat for Energy**
-When carbs are low, your liver starts turning fat into ketones. These ketones become your new fuel source. Your body becomes a fat-burning machine — even while you rest.
+When carbs are low, your liver starts turning fat into ketones. These ketones become your new fuel source. Your body becomes a fat-burning machine ,  even while you rest.
 
 ### 3. **Controls Hunger**
 Fats and proteins are more satisfying than carbs. When you’re full and satisfied, you naturally eat less without feeling deprived.
@@ -1567,24 +1749,24 @@ Here's a simple meal plan to help you get started with your keto journey:
 
 ## Is the Keto Diet Safe?
 
-For most healthy individuals, yes — the keto diet is safe when followed properly. However, if you have conditions like diabetes, liver issues, or take medication, it’s best to speak with a doctor before starting.
+For most healthy individuals, yes ,  the keto diet is safe when followed properly. However, if you have conditions like diabetes, liver issues, or take medication, it’s best to speak with a doctor before starting.
 
 ---
 
 ## How Long Does It Take to See Results?
 
-Most people see noticeable results within **1–2 weeks** — often losing 4 to 10 pounds of water weight initially, followed by steady fat loss. With consistency, keto can help you lose **belly fat, back fat**, and improve your energy levels.
+Most people see noticeable results within **1–2 weeks** ,  often losing 4 to 10 pounds of water weight initially, followed by steady fat loss. With consistency, keto can help you lose **belly fat, back fat**, and improve your energy levels.
 
 ---
 
 ## Final Thoughts
 
-The keto diet is not a magic pill — but if done correctly, it’s a powerful tool for **burning fat, controlling cravings, and transforming your body**. It’s especially effective if your goal is to **lose weight fast and naturally** in 2025.
+The keto diet is not a magic pill ,  but if done correctly, it’s a powerful tool for **burning fat, controlling cravings, and transforming your body**. It’s especially effective if your goal is to **lose weight fast and naturally** in 2025.
 
-The key? Keep it simple, be consistent, and enjoy the food you eat. Keto isn’t just a diet — it can be a lifestyle change that leads to better health and long-term success.
+The key? Keep it simple, be consistent, and enjoy the food you eat. Keto isn’t just a diet ,  it can be a lifestyle change that leads to better health and long-term success.
 
 `
-},
+    },
     {
         id: "How-to-Use-AI-to-Build-a-Website",
         title: "How to Use AI to Build a Website (Even If You Can’t Code)",
