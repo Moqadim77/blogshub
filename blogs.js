@@ -1,4 +1,79 @@
 const blogs = [
+  {
+  id: "iran-attacks-israel-17-june-2025",
+  title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
+  category: "News",
+  date: "2025-06-17",
+  tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
+  keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
+  description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
+  banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
+  content: `
+
+## What Just Happened?
+
+On June 17, 2025, Iran’s Revolutionary Guard carried out a large-scale attack on Israel. This was Iran’s direct response to recent Israeli airstrikes on Iranian nuclear and military sites. In a rare show of military capability, Iran launched more than **100 ballistic missiles** along with **hundreds of drones** aimed at cities such as **Tel Aviv, Haifa, Petah Tikva,** and **Ramat Gan**.
+
+---
+
+## Why Did Iran Strike Back?
+
+Iran claims its actions were justified retaliation after Israeli forces destroyed key sites inside Iran, including nuclear infrastructure and military bases. That operation reportedly killed over **200 Iranian personnel**, which Tehran says justified immediate action.
+
+---
+
+## How is Israel Responding?
+
+### 1. Active Defense
+Israel’s Iron Dome and Arrow missile systems intercepted dozens of incoming threats, though some missiles broke through and struck civilian areas.
+
+### 2. Casualties and Damage
+Early reports indicate at least **24 civilians were killed**, and hundreds more injured. Several apartment buildings and public areas suffered significant damage. In Petah Tikva, a missile strike tragically claimed four lives.
+
+### 3. Ongoing Alerts
+Cities across Israel remained on high alert, with sirens and air-raid warnings continuing as the night went on. Authorities urged residents to seek shelter immediately when alarms sounded.
+
+---
+
+## What This Escalation Means
+
+### A Shift in the Conflict
+This direct exchange between Iran and Israel marks a departure from proxy skirmishes. Both nations engaged directly, raising concerns of a wider regional war.
+
+### Drone and Missile Tactics
+Iran used a combination of drones and ballistic missiles to overwhelm Israel’s defenses. In response, Israel deployed advanced aircraft like the F-35 alongside missile defense systems.
+
+### Global Ripple Effects
+Bombardments like this affect global oil markets and prompt urgent international diplomacy. The UN and G7 have called for calm, while energy prices remain volatile.
+
+---
+
+## What Comes Next?
+
+| Area              | What to Watch                                       |
+|-------------------|------------------------------------------------------|
+| Security          | Continued air-raid alerts and increased military readiness |
+| Diplomacy         | Pressure from global leaders for ceasefire talks and restraint |
+| Economy           | Oil markets could stay unstable following the strike |
+| Regional Stability| Neighboring countries may be affected by refugee movements or military tension |
+
+---
+
+## What You Should Know
+
+- Israeli civilians are facing ongoing emergencies and must stay alert to public warnings.
+- Regional tensions could shift rapidly, with diplomatic efforts underway behind the scenes.
+- Global markets, especially oil, will likely remain sensitive to unfolding events.
+
+---
+
+## The Bottom Line
+
+This June 2025 strike marks one of the most serious direct military escalations in the region in years. With lives lost, defenses tested, and tensions rising, it’s a pivotal moment in the broader Middle East conflict. The focus now turns to whether diplomacy can quickly defuse the situation—or if further retaliatory strikes will follow.
+
+Stay tuned for updates as this situation unfolds.
+`
+},
     {
         id: "Trump-launches-Trump-Mobile-2025",
         title: "Trump Mobile 2025: The Former President's Bold Entry Into the Smartphone Wars",
