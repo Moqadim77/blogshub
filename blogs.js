@@ -1,14 +1,14 @@
 const blogs = [
-  {
-  id: "iran-attacks-israel-17-june-2025",
-  title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
-  category: "News",
-  date: "2025-06-17",
-  tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
-  keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
-  description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
-  banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
-  content: `
+    {
+        id: "iran-attacks-israel-17-june-2025",
+        title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
+        category: "News",
+        date: "2025-06-17",
+        tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
+        keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
+        description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
+        banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
+        content: `
 
 ## What Just Happened?
 
@@ -73,7 +73,7 @@ This June 2025 strike marks one of the most serious direct military escalations 
 
 Stay tuned for updates as this situation unfolds.
 `
-},
+    },
     {
         id: "Trump-launches-Trump-Mobile-2025",
         title: "Trump Mobile 2025: The Former President's Bold Entry Into the Smartphone Wars",
@@ -1457,15 +1457,15 @@ Start small. Focus on one product, one store, and one marketing strategy. Be con
   `
     },
     {
-  id: "lose-weight-with-keto-diet-2025",
-  title: "How to Lose Weight with the Keto Diet in 2025: A Beginner’s Guide",
-  category: "Fitness",
-  date: "2025-06-14",
-  tags: ["keto diet", "weight loss", "low-carb", "health tips", "burn belly fat", "nutrition", "beginner keto guide"],
-  keywords: "keto diet weight loss, how to lose belly fat keto, keto for beginners, ketogenic diet 2025, keto meal plan, low carb diet results",
-  description: "Thinking of using the keto diet to lose weight in 2025? Here's a complete beginner-friendly guide that explains how the ketogenic diet works, what to eat, and how to lose belly fat naturally with keto.",
-  banner: "https://cdn.images.express.co.uk/img/dynamic/126/590x/1187336_1.jpg",
-  content: `
+        id: "lose-weight-with-keto-diet-2025",
+        title: "How to Lose Weight with the Keto Diet in 2025: A Beginner’s Guide",
+        category: "Fitness",
+        date: "2025-06-14",
+        tags: ["keto diet", "weight loss", "low-carb", "health tips", "burn belly fat", "nutrition", "beginner keto guide"],
+        keywords: "keto diet weight loss, how to lose belly fat keto, keto for beginners, ketogenic diet 2025, keto meal plan, low carb diet results",
+        description: "Thinking of using the keto diet to lose weight in 2025? Here's a complete beginner-friendly guide that explains how the ketogenic diet works, what to eat, and how to lose belly fat naturally with keto.",
+        banner: "https://cdn.images.express.co.uk/img/dynamic/126/590x/1187336_1.jpg",
+        content: `
 
 ## What Is the Keto Diet?
 
@@ -1584,7 +1584,7 @@ The keto diet is not a magic pill — but if done correctly, it’s a powerful t
 The key? Keep it simple, be consistent, and enjoy the food you eat. Keto isn’t just a diet — it can be a lifestyle change that leads to better health and long-term success.
 
 `
-},
+    },
     {
         id: "How-to-Use-AI-to-Build-a-Website",
         title: "How to Use AI to Build a Website (Even If You Can’t Code)",
