@@ -7,7 +7,7 @@ const blogs = [
         tags: ["World War 3", "global conflict", "nuclear threat", "military alliances", "future warfare"],
         keywords: "World War 3 2025, global war scenario, what if WW3 starts, nuclear war risks, future of warfare",
         description: "If a global war breaks out in 2025, what would actually happen? Here's a clear, grounded breakdown of how World War 3 might start, what it would look like, and how it could affect daily life, security, and global stability.",
-        banner: "https://i.guim.co.uk/img/media/8c0b7a0d315e508fc946de1b8c9f7a1cfb08b6e3/0_0_2048_1229/master/2048.jpg?width=1200&quality=85&auto=format&fit=max&s=c4e6aafbe0e103b776fc844a3cf8baf6",
+        banner: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GSzoX.img?w=810&h=539&m=4&q=79",
         content: `
 
 ## What Could Trigger World War 3?
