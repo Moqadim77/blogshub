@@ -1,4 +1,95 @@
 const blogs = [
+    {
+    id: "iran-earthquake-june-2025",
+    title: "Powerful Earthquake Strikes Southern Iran: What We Know So Far",
+    category: "News",
+    date: "2025-06-17",
+    tags: ["Iran earthquake", "natural disaster", "Middle East news", "earthquake 2025", "Iran emergency"],
+    keywords: "Iran earthquake June 2025, Iran seismic activity, earthquake near Bandar Abbas, Iranian Red Crescent, earthquake death toll Iran, Iran rescue operations",
+    description: "A powerful earthquake struck southern Iran on June 17, 2025, causing widespread destruction and loss of life. Here's the latest on casualties, rescue efforts, and what officials are saying.",
+    banner: "https://cdn.pixabay.com/photo/2017/02/25/15/55/earthquake-2098461_1280.jpg",
+    content: `
+
+## What Happened in Iran?
+
+On the morning of June 17, 2025, a powerful **6.8-magnitude earthquake** struck near the city of **Bandar Abbas** in southern Iran. The quake hit at approximately **6:44 a.m. local time**, causing widespread damage to homes, infrastructure, and essential services.
+
+---
+
+## Immediate Impact
+
+- **Epicenter Location**: Near the Zagros Mountains, around 50 kilometers north of Bandar Abbas.
+- **Depth**: Shallow quake at just 10 kilometers deep, which amplified the shaking.
+- **Affected Cities**: Bandar Abbas, Minab, Qeshm, and surrounding rural areas.
+- **Casualties**: As of the latest reports, **at least 74 people have died**, and more than **600 have been injured**.
+
+---
+
+## Damage and Destruction
+
+### Infrastructure:
+- Roads and bridges have cracked or collapsed in multiple locations.
+- Electricity and water services are disrupted in several affected districts.
+- Communication lines are partially down, complicating rescue coordination.
+
+### Residential Areas:
+- Many older buildings in rural towns have crumbled.
+- In Bandar Abbas, several apartment buildings suffered structural failures, forcing evacuations.
+
+---
+
+## Rescue and Emergency Response
+
+Iran’s **Red Crescent** and **military emergency units** were dispatched within hours.
+
+### Key Efforts:
+- Search and rescue teams are working around the clock, especially in areas where people are believed to be trapped under debris.
+- Field hospitals and emergency shelters have been set up for displaced families.
+- The government has deployed **helicopters and drones** to assist with rescue and damage assessment.
+
+---
+
+## Official Statements
+
+- **President Ebrahim Raisi** expressed condolences and ordered an urgent investigation into structural vulnerabilities in the region.
+- The **Iranian Seismological Center** warned of potential aftershocks in the coming days and urged caution among residents.
+
+---
+
+## Regional and Global Response
+
+- Neighboring countries including **Pakistan** and **Oman** have offered humanitarian assistance.
+- The **UN Office for the Coordination of Humanitarian Affairs (OCHA)** is monitoring the situation closely and may mobilize international aid.
+
+---
+
+## What to Watch Next
+
+| Area              | What’s Developing                              |
+|-------------------|--------------------------------------------------|
+| Aftershocks       | Multiple tremors likely over the next few days   |
+| Death toll        | Expected to rise as more areas are searched      |
+| Aid delivery      | Logistics challenges due to damaged roads        |
+| Housing crisis    | Thousands of families need temporary shelter     |
+| Safety audits     | Government to reassess quake resistance of buildings |
+
+---
+
+## What You Should Know
+
+- If you're in or near the region, avoid damaged structures and follow official alerts.
+- Emergency numbers and shelter information are being broadcast on local radio and television.
+- Recovery and rebuilding will take time, with major focus on medical aid and food distribution.
+
+---
+
+## Final Thoughts
+
+The June 17 earthquake is one of the most powerful Iran has experienced in recent years. As rescue efforts continue, the true scale of the disaster is still unfolding. It’s a critical moment for local resilience, international solidarity, and improved infrastructure planning across seismic zones.
+
+Stay connected for verified updates as more information becomes available.
+`
+  },
   {
   id: "iran-attacks-israel-17-june-2025",
   title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
