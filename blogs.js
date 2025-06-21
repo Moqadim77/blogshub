@@ -1286,6 +1286,142 @@ So go ahead, open up Canva or Photoshop, and start experimenting. Every great de
   `
     },
     {
+  id: "pakistan-newzealand-tri-series-final-2025",
+  title: "Karachi Showdown: Pakistan vs New Zealand Tri‑Series Final Breakdown",
+  category: "Sports",
+  date: "2025-02-15",
+  tags: ["cricket", "Pakistan", "New Zealand", "Tri‑Series Final", "ODI", "Karachi"],
+  keywords: "Pakistan vs New Zealand final 2025, Karachi tri-series final, Pakistan cricket analysis, New Zealand ODI dominance, cricket final recap",
+  description: "A full-length, in-depth analysis of the gripping Tri‑Series final in Karachi, where New Zealand chased down Pakistan’s total to claim the trophy. Stats, turning points, and what lies ahead.",
+  banner: "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2025/06/21/4613776-1807588774.jpg?itok=wNaOWLP_",
+  content: `
+
+The Tri‑Series final at Karachi’s National Stadium on **February 14, 2025** was a dramatic, edge‑of‑your‑seat showdown between host Pakistan and New Zealand. The Kiwis, who had already dominated the series, delivered a composed chase to win by 5 wickets—sealing the title and gaining momentum ahead of the upcoming ICC Champions Trophy.
+
+---
+
+## 1. Setting the Stage
+
+Pakistan entered the final with high hopes after a strong run, including a comeback win over South Africa in the group stage. Winning the toss, Mohammad Rizwan opted to bat—hoping to post a defendable total on this familiar pitch. :contentReference[oaicite:1]{index=1}
+
+The stadium buzzed with anticipation. Pakistan felt confident, while New Zealand looked focused and calm, determined to cap off their flawless tri‑series campaign. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 2. Pakistan’s Innings: A Run‑aureole Under Pressure
+
+Pakistan’s 242 all out in 49.3 overs was a solid, if not spectacular, effort. The innings unfolded like this:
+
+- **Mohammad Rizwan (46)** and **Salman Ali Agha (45)** held the innings together during the middle overs :contentReference[oaicite:3]{index=3}
+- Attempts to accelerate late in the innings, with Faheem Ashraf adding 22, were promising but insufficient to boost the total beyond 250 :contentReference[oaicite:4]{index=4}
+- Will O’Rourke of New Zealand produced a standout bowling performance, claiming **4/43** to give Kiwi pacers dominant control  :contentReference[oaicite:5]{index=5}
+
+Pakistan fought hard, but never managed to build a truly commanding total—a factor that New Zealand would exploit.
+
+---
+
+## 3. New Zealand’s Steady Chase
+
+Chasing 243, New Zealand delivered a composed, clinical performance:
+
+- **Daryl Mitchell** (57) and **Tom Latham** (56) anchored the innings with classy half‑centuries :contentReference[oaicite:6]{index=6}  
+- **Devon Conway** contributed a helpful 48, keeping the middle order solid :contentReference[oaicite:7]{index=7}  
+- A few late wickets added drama, but Pakistan couldn’t ignite an effective collapse
+
+New Zealand sealed the victory in **45.2 overs**, winning by five wickets and completing an unbeaten run through the tournament – a confident display leading into the Champions Trophy. :contentReference[oaicite:8]{index=8}
+
+---
+
+## 4. Moments That Shaped the Game
+
+### A. Rizwan and Agha’s Resistance  
+In a tense middle overs phase, their steady partnership (nearly 90 runs) kept Pakistan in touching distance :contentReference[oaicite:9]{index=9}
+
+### B. O’Rourke’s Impact  
+His four-wicket haul essentially turned Pakistan’s batting innings into a struggle, restricting the total.
+
+### C. Kiwi Calm  
+Mitchell and Latham’s half-centuries were matter-of-fact—applying pressure steadily rather than flamboyant domination.
+
+### D. Death Overs  
+Pakistan’s late wickets did little to reverse momentum—New Zealand saw out the chase smoothly.
+
+---
+
+## 5. Defining Performances
+
+- **Will O’Rourke (NZ)**: Bowled smartly under pressure, took 4 wickets for 43 :contentReference[oaicite:10]{index=10}  
+- **Daryl Mitchell & Tom Latham**: Anchored the chase with composed batting :contentReference[oaicite:11]{index=11}  
+- **Mohammad Rizwan & Salman Agha**: Impressive resistance in Pakistan’s batting lineup :contentReference[oaicite:12]{index=12}
+
+O’Rourke earned **Player of the Match**, while Agha was named **Player of the Series**—a strong showing across all matches for Pakistan. :contentReference[oaicite:13]{index=13}
+
+---
+
+## 6. Implications for Champions Trophy
+
+Tri‑Series winners New Zealand enter the global tournament with momentum and confidence. In contrast, Pakistan, the hosts of both the Tri‑Series and upcoming Champions Trophy launch, will focus on tightening their bowling and reinforcing middle-order consistency. :contentReference[oaicite:14]{index=14}
+
+Their next encounter in the Champions Trophy opener (Feb 19) is already shaping up to be a high-stakes rematch.
+
+---
+
+## 7. Fan & Critic Reactions
+
+- Pakistani crowds applauded Rizwan and Agha’s grit but voiced urgency for a stronger death-over performance.
+- Kiwi fans celebrated tactical maturity—highlighting how calm finishing can outweigh flair.
+- Commentators noted Karachi’s dew factor once again contributed to Pakistan’s slower batting in the chase—classic subcontinental conditions at play.
+
+---
+
+## 8. What Comes Next
+
+| Area                  | Outlook                                             |
+|-----------------------|-----------------------------------------------------|
+| **Champions Trophy**  | First test comes five days later—Pakistan vs NZ     |
+| **Pakistan Strategy** | Focus on picking wickets late; adapt to dew        |
+| **New Zealand Plan**  | Maintain balance in attack and consistency in batting |
+| **Pitch Conditions**  | Karachi’s night dew will impact tomorrow’s match     |
+| **Bowling Discipline**| Pakistan must learn from O’Rourke’s clinical show   |
+
+---
+
+## 9. Final Thoughts
+
+The final at Karachi was more than a trophy match—it indicated readiness for high-pressure cricket. New Zealands’ path of unbeaten triumph and steady chases reveals their growing strength. Pakistan’s journey shows promising talent and leadership, but exposes areas—especially in bowling execution—where improvement is essential before the global stage.
+
+Cricket fans can expect fireworks when these two teams clash again in the Champions Trophy. Karachi could well play host to one of the tournament’s defining rematches.
+
+---
+
+## 10. Player Quotes & Post‑Match Notes  
+
+**Mohammad Rizwan:**  
+“We built a competitive total, but credit to NZ—they bowled well. We’ll work on death bowling before the next game.”
+
+**Mitchell Santner (NZ Captain):**  
+“We expected a tough chase, and our boys responded calmly. This win boosts our confidence heading into the big tournament.” :contentReference[oaicite:15]{index=15}  
+
+---
+
+## 11. How to Follow the Next Match
+
+- **Live Scores:** Check major cricket sites on Feb 19  
+- **Highlights:** YouTube and official broadcast channels  
+- **Analysis:** Look out for pre‑ and post‑match breakdowns after the Challenger Trophy starts
+
+---
+
+## Final Takeaway
+
+The Karachi Tri‑Series final delivered high-quality cricket, dramatic moments, and clear lessons for both teams. New Zealand’s well-rounded performance underlined their title credentials, while Pakistan’s spirited chase highlighted resilience, even as the margin for improvement became clear.
+
+As both sides prepare for the Champions Trophy, fans have much to look forward to—especially a rematch with added context, pressure, and potential at a global stage.
+
+`
+
+},
+    {
         "id": "Mental-Health-Burnout-Work-2025",
         "title": "The Burnout Epidemic: How Chronic Stress at Work Is Impacting Mental Health in 2025",
         "category": "Health",
