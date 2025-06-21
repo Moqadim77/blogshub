@@ -7,7 +7,7 @@ const blogs = [
     tags: ["Iran earthquake", "natural disaster", "Middle East news", "earthquake 2025", "Iran emergency"],
     keywords: "Iran earthquake June 2025, Iran seismic activity, earthquake near Bandar Abbas, Iranian Red Crescent, earthquake death toll Iran, Iran rescue operations",
     description: "A powerful earthquake struck southern Iran on June 17, 2025, causing widespread destruction and loss of life. Here's the latest on casualties, rescue efforts, and what officials are saying.",
-    banner: "https://static.dw.com/image/41357673_605.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4x7YQ_TXVUle0yLRHv1W0U6mwyvz1XUeCMg&s",
     content: `
 
 ## What Happened in Iran?
