@@ -1,196 +1,14 @@
 const blogs = [
-    {
-        id: "world-war-3-what-happens-next",
-        title: "What Happens Next If World War 3 Starts?",
-        category: "Analysis",
-        date: "2025-06-17",
-        tags: ["World War 3", "global conflict", "nuclear threat", "military alliances", "future warfare"],
-        keywords: "World War 3 2025, global war scenario, what if WW3 starts, nuclear war risks, future of warfare",
-        description: "If a global war breaks out in 2025, what would actually happen? Here's a clear, grounded breakdown of how World War 3 might start, what it would look like, and how it could affect daily life, security, and global stability.",
-        banner: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GSzoX.img?w=810&h=539&m=4&q=79",
-        content: `
-
-## What Could Trigger World War 3?
-
-In 2025, the world is already under stress. Ongoing military tensions between global powers have created multiple flashpoints. World War 3 wouldn’t necessarily start with a formal declaration, it could ignite in any of the following ways:
-
-- A Chinese invasion of Taiwan
-- A direct NATO-Russia clash in Eastern Europe
-- A cyberattack that disables U.S. or EU infrastructure
-- A major attack in the Middle East pulling in superpowers
-
-Even a misinterpreted military move could lead to a full-blown global response. When high-alert systems are involved, minutes matter.
-
----
-
-## What Happens in the First 72 Hours?
-
-### 1. Military Activation
-
-All military alliances would be triggered. NATO’s Article 5 would be invoked if a member is attacked. Aircraft carriers, submarines, and fighter jets would mobilize. Strategic bombers would be in the air before political leaders even speak publicly.
-
-### 2. Cyber Disruption
-
-Major cities could lose electricity, banking, and communications due to cyberattacks. Governments and civilians may lose access to the internet or mobile services. Hospitals, airports, and financial systems would be key targets.
-
-### 3. Airspace Shutdown
-
-All international flights would halt. Civilian air travel would be suspended worldwide. Missile defense systems would be on high alert. Cities might issue shelter-in-place orders. Emergency sirens would blare in major urban areas.
-
----
-
-## How Would Nations Respond?
-
-| Region           | Likely Action |
-|------------------|---------------|
-| United States    | Homeland defense, global military deployment |
-| NATO             | Immediate response to any member attacked |
-| Russia           | Long-range missile strikes, Eastern push |
-| China            | Naval dominance and Taiwan seizure |
-| India & Pakistan | Possible regional war escalation |
-| Middle East      | Proxy conflicts and oil-targeted strikes |
-
-Some neutral countries would try to remain uninvolved but may still suffer cyber or economic consequences.
-
----
-
-## Civilian Impact Around the World
-
-Even if you’re not in a direct war zone, your life could change overnight.
-
-- Fuel stations would run dry
-- Banks may limit or freeze transactions
-- Supermarkets could face food shortages
-- Cities might see curfews and martial law
-- Governments could begin conscription or reactivation of reserves
-
-In large cities, panic and confusion would be widespread. Online misinformation would spike, while official communication might go dark.
-
----
-
-## Will Nuclear Weapons Be Used?
-
-This is the biggest fear, and the biggest question.
-
-Most experts believe nuclear weapons wouldn’t be used early in the conflict. However, if one side feels cornered, it might deploy tactical nukes (short-range, lower-yield) to change battlefield dynamics.
-
-If one nuclear weapon is launched, others could follow. Even a “limited” exchange between two powers would cause mass death, radiation, and irreversible climate effects.
-
----
-
-## Could This War Expand into Space?
-
-Yes. Military satellites control navigation, targeting, weather, and communication. Countries like the U.S., Russia, China, and India all have the ability to destroy satellites.
-
-Without satellites:
-
-- GPS systems would fail
-- Aircraft and naval movements would suffer
-- Internet coverage would collapse in many areas
-
-Space would become a contested zone for the first time in warfare history.
-
----
-
-## What Technology Would Define WW3?
-
-Unlike past wars, WW3 would use modern technologies never seen at this scale before:
-
-- Drone swarms conducting targeted strikes
-- Hypersonic missiles that move faster than Mach 5
-- Cyber armies launching digital invasions
-- Autonomous robots patrolling battlefields
-- Deepfake videos used to confuse civilians
-
-AI could determine who lives or dies. Algorithms might make decisions faster than humans can intervene.
-
----
-
-## What Would Happen to the Economy?
-
-World markets are tightly connected. The moment war breaks out:
-
-- Stock markets crash globally
-- Oil prices skyrocket
-- Trade routes shut down
-- Food imports freeze
-- Supply chains collapse
-
-Inflation would hit hard. Banks may place limits on cash withdrawals. Investors would pull back, and job losses would rise. Some currencies may become unstable or collapse entirely.
-
----
-
-## Humanitarian Crisis in the Making
-
-The war wouldn’t just affect soldiers. It would push millions of civilians into crisis:
-
-- Refugee flows across borders
-- Overcrowded shelters and camps
-- Shortages of clean water and medicine
-- Hospitals overwhelmed by injured civilians
-- Mental health trauma on a global scale
-
-Countries not involved in the fighting may still be forced to deal with millions of displaced people.
-
----
-
-## Diplomacy: Can It Stop the War?
-
-The only way to stop a total world war is through fast, quiet diplomacy.
-
-- Peace talks might happen in neutral countries like Switzerland or Qatar
-- Backchannel messages between intelligence agencies would try to de-escalate
-- The UN may try, but veto powers will limit action
-- Regional peace brokers like Turkey, Brazil, or India could step in
-
-However, the longer the war lasts, the harder peace becomes.
-
----
-
-## What Comes Next?
-
-| Area              | What to Expect                                          |
-|-------------------|----------------------------------------------------------|
-| Military Fronts   | Expansion into new regions and contested territories     |
-| Technology        | Rise of AI-driven weapons and autonomous warfare         |
-| Global Economy    | Collapse of trade, loss of jobs, inflation               |
-| Civil Liberties   | Possible censorship, conscription, martial law           |
-| Refugees          | Mass displacement and rising humanitarian pressure       |
-
----
-
-## What You Should Know
-
-- A global war could begin without warning, in minutes, not days
-- Civilians would face fuel, food, and communication breakdowns
-- Nuclear use is unlikely but cannot be ruled out
-- Emergency plans, supplies, and offline awareness will matter
-- Governments may not be able to protect or inform everyone quickly
-
----
-
-## The Bottom Line
-
-If World War 3 begins, it won’t look like past wars, it will be faster, more complex, and more destructive. The battlefield would include land, sea, air, cyberspace, and even space itself.
-
-Every nation would feel the shock. Civilians would suffer first. The economy could collapse. Technology would amplify the chaos. And if diplomacy fails fast, the world could change forever.
-
-We’re not at that point yet, but the risk is real. Understanding the stakes is the first step in avoiding the unimaginable.
-
-Stay informed. Stay ready. Hope for peace.
-
-`
-    },
-    {
-        id: "iran-attacks-israel-17-june-2025",
-        title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
-        category: "News",
-        date: "2025-06-17",
-        tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
-        keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
-        description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
-        banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
-        content: `
+  {
+  id: "iran-attacks-israel-17-june-2025",
+  title: "Iran Launches Retaliatory Strikes on Israel: What You Need to Know",
+  category: "News",
+  date: "2025-06-17",
+  tags: ["Iran", "Israel", "Middle East conflict", "missile strikes", "drone attack", "latest news"],
+  keywords: "Iran missile attack Israel 2025, Iran drone strike Israel, Middle East war update, Israel Iran escalation, Iranian retaliation June 2025",
+  description: "In a major escalation on June 17, 2025, Iran launched a coordinated missile and drone attack on Israel. Here's a clear, non-robotic breakdown of what happened, who was affected, and what's next.",
+  banner: "https://responsiblestatecraft.org/media-library/iranian-attack-on-israel.jpg?id=61011846&width=1200&height=600&coordinates=0%2C647%2C0%2C270",
+  content: `
 
 ## What Just Happened?
 
@@ -1377,6 +1195,142 @@ So go ahead, open up Canva or Photoshop, and start experimenting. Every great de
   `
     },
     {
+  id: "pakistan-newzealand-tri-series-final-2025",
+  title: "Karachi Showdown: Pakistan vs New Zealand Tri‑Series Final Breakdown",
+  category: "Sports",
+  date: "2025-02-15",
+  tags: ["cricket", "Pakistan", "New Zealand", "Tri‑Series Final", "ODI", "Karachi"],
+  keywords: "Pakistan vs New Zealand final 2025, Karachi tri-series final, Pakistan cricket analysis, New Zealand ODI dominance, cricket final recap",
+  description: "A full-length, in-depth analysis of the gripping Tri‑Series final in Karachi, where New Zealand chased down Pakistan’s total to claim the trophy. Stats, turning points, and what lies ahead.",
+  banner: "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2025/06/21/4613776-1807588774.jpg?itok=wNaOWLP_",
+  content: `
+
+The Tri‑Series final at Karachi’s National Stadium on **February 14, 2025** was a dramatic, edge‑of‑your‑seat showdown between host Pakistan and New Zealand. The Kiwis, who had already dominated the series, delivered a composed chase to win by 5 wickets—sealing the title and gaining momentum ahead of the upcoming ICC Champions Trophy.
+
+---
+
+## 1. Setting the Stage
+
+Pakistan entered the final with high hopes after a strong run, including a comeback win over South Africa in the group stage. Winning the toss, Mohammad Rizwan opted to bat—hoping to post a defendable total on this familiar pitch. :contentReference[oaicite:1]{index=1}
+
+The stadium buzzed with anticipation. Pakistan felt confident, while New Zealand looked focused and calm, determined to cap off their flawless tri‑series campaign. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 2. Pakistan’s Innings: A Run‑aureole Under Pressure
+
+Pakistan’s 242 all out in 49.3 overs was a solid, if not spectacular, effort. The innings unfolded like this:
+
+- **Mohammad Rizwan (46)** and **Salman Ali Agha (45)** held the innings together during the middle overs :contentReference[oaicite:3]{index=3}
+- Attempts to accelerate late in the innings, with Faheem Ashraf adding 22, were promising but insufficient to boost the total beyond 250 :contentReference[oaicite:4]{index=4}
+- Will O’Rourke of New Zealand produced a standout bowling performance, claiming **4/43** to give Kiwi pacers dominant control  :contentReference[oaicite:5]{index=5}
+
+Pakistan fought hard, but never managed to build a truly commanding total—a factor that New Zealand would exploit.
+
+---
+
+## 3. New Zealand’s Steady Chase
+
+Chasing 243, New Zealand delivered a composed, clinical performance:
+
+- **Daryl Mitchell** (57) and **Tom Latham** (56) anchored the innings with classy half‑centuries :contentReference[oaicite:6]{index=6}  
+- **Devon Conway** contributed a helpful 48, keeping the middle order solid :contentReference[oaicite:7]{index=7}  
+- A few late wickets added drama, but Pakistan couldn’t ignite an effective collapse
+
+New Zealand sealed the victory in **45.2 overs**, winning by five wickets and completing an unbeaten run through the tournament – a confident display leading into the Champions Trophy. :contentReference[oaicite:8]{index=8}
+
+---
+
+## 4. Moments That Shaped the Game
+
+### A. Rizwan and Agha’s Resistance  
+In a tense middle overs phase, their steady partnership (nearly 90 runs) kept Pakistan in touching distance :contentReference[oaicite:9]{index=9}
+
+### B. O’Rourke’s Impact  
+His four-wicket haul essentially turned Pakistan’s batting innings into a struggle, restricting the total.
+
+### C. Kiwi Calm  
+Mitchell and Latham’s half-centuries were matter-of-fact—applying pressure steadily rather than flamboyant domination.
+
+### D. Death Overs  
+Pakistan’s late wickets did little to reverse momentum—New Zealand saw out the chase smoothly.
+
+---
+
+## 5. Defining Performances
+
+- **Will O’Rourke (NZ)**: Bowled smartly under pressure, took 4 wickets for 43 :contentReference[oaicite:10]{index=10}  
+- **Daryl Mitchell & Tom Latham**: Anchored the chase with composed batting :contentReference[oaicite:11]{index=11}  
+- **Mohammad Rizwan & Salman Agha**: Impressive resistance in Pakistan’s batting lineup :contentReference[oaicite:12]{index=12}
+
+O’Rourke earned **Player of the Match**, while Agha was named **Player of the Series**—a strong showing across all matches for Pakistan. :contentReference[oaicite:13]{index=13}
+
+---
+
+## 6. Implications for Champions Trophy
+
+Tri‑Series winners New Zealand enter the global tournament with momentum and confidence. In contrast, Pakistan, the hosts of both the Tri‑Series and upcoming Champions Trophy launch, will focus on tightening their bowling and reinforcing middle-order consistency. :contentReference[oaicite:14]{index=14}
+
+Their next encounter in the Champions Trophy opener (Feb 19) is already shaping up to be a high-stakes rematch.
+
+---
+
+## 7. Fan & Critic Reactions
+
+- Pakistani crowds applauded Rizwan and Agha’s grit but voiced urgency for a stronger death-over performance.
+- Kiwi fans celebrated tactical maturity—highlighting how calm finishing can outweigh flair.
+- Commentators noted Karachi’s dew factor once again contributed to Pakistan’s slower batting in the chase—classic subcontinental conditions at play.
+
+---
+
+## 8. What Comes Next
+
+| Area                  | Outlook                                             |
+|-----------------------|-----------------------------------------------------|
+| **Champions Trophy**  | First test comes five days later—Pakistan vs NZ     |
+| **Pakistan Strategy** | Focus on picking wickets late; adapt to dew        |
+| **New Zealand Plan**  | Maintain balance in attack and consistency in batting |
+| **Pitch Conditions**  | Karachi’s night dew will impact tomorrow’s match     |
+| **Bowling Discipline**| Pakistan must learn from O’Rourke’s clinical show   |
+
+---
+
+## 9. Final Thoughts
+
+The final at Karachi was more than a trophy match—it indicated readiness for high-pressure cricket. New Zealands’ path of unbeaten triumph and steady chases reveals their growing strength. Pakistan’s journey shows promising talent and leadership, but exposes areas—especially in bowling execution—where improvement is essential before the global stage.
+
+Cricket fans can expect fireworks when these two teams clash again in the Champions Trophy. Karachi could well play host to one of the tournament’s defining rematches.
+
+---
+
+## 10. Player Quotes & Post‑Match Notes  
+
+**Mohammad Rizwan:**  
+“We built a competitive total, but credit to NZ—they bowled well. We’ll work on death bowling before the next game.”
+
+**Mitchell Santner (NZ Captain):**  
+“We expected a tough chase, and our boys responded calmly. This win boosts our confidence heading into the big tournament.” :contentReference[oaicite:15]{index=15}  
+
+---
+
+## 11. How to Follow the Next Match
+
+- **Live Scores:** Check major cricket sites on Feb 19  
+- **Highlights:** YouTube and official broadcast channels  
+- **Analysis:** Look out for pre‑ and post‑match breakdowns after the Challenger Trophy starts
+
+---
+
+## Final Takeaway
+
+The Karachi Tri‑Series final delivered high-quality cricket, dramatic moments, and clear lessons for both teams. New Zealand’s well-rounded performance underlined their title credentials, while Pakistan’s spirited chase highlighted resilience, even as the margin for improvement became clear.
+
+As both sides prepare for the Champions Trophy, fans have much to look forward to—especially a rematch with added context, pressure, and potential at a global stage.
+
+`
+
+},
+    {
         "id": "Mental-Health-Burnout-Work-2025",
         "title": "The Burnout Epidemic: How Chronic Stress at Work Is Impacting Mental Health in 2025",
         "category": "Health",
@@ -1638,6 +1592,7 @@ If you’re:
 Start small. Focus on one product, one store, and one marketing strategy. Be consistent, keep learning, and you’ll have a solid shot at building a real online business.
   `
     },
+    
     {
         id: "lose-weight-with-keto-diet-2025",
         title: "How to Lose Weight with the Keto Diet in 2025: A Beginner’s Guide",
@@ -1965,6 +1920,183 @@ Start by picking one service. Offer it to one client. Then another. Then raise y
 Whether you're doing it part-time for extra cash or turning it into a full-time career, freelancing can open doors to a flexible and rewarding lifestyle.
   `
     },
+    {
+  id: "home-workouts-no-equipment-2025",
+  title: "Home Workouts Without Equipment: A Complete 2025 Guide",
+  category: "Fitness",
+  date: "2025-06-21",
+  tags: ["home workouts", "no equipment", "bodyweight training", "fitness", "exercise at home", "beginner fitness"],
+  keywords: "home workouts no equipment, bodyweight exercises at home, beginner home workout plan, no gym fitness, home exercise routine 2025, workout without weights",
+  description: "Looking to get fit at home with zero equipment? Here’s a full guide with routines, tips, and a 4-week bodyweight program that works for all levels.",
+  banner: "https://visionarycios.com/wp-content/uploads/2025/04/1.1-Workout-At-Home-Without-Equipment-With-These-12-Extensive-Exercises-1024x683.jpg",
+  content: `
+
+## Why Bodyweight Workouts Work
+
+You don’t need fancy gym equipment to build strength, stay healthy, or lose fat. Bodyweight workouts challenge your muscles, raise your heart rate, and help you improve mobility—all within the comfort of your own space. They allow flexibility, cost nothing, and can be scaled up as you get stronger.
+
+---
+
+## Key Principles for Effective Home Workouts
+
+### 1. Compound Movements
+Focus on exercises that work multiple muscle groups at once—like squats, push-ups, and lunges. These give you more bang for your time and boost calorie burn.
+
+### 2. Proper Form
+If your form is off, you’re risking injury. Take the time to learn how to perform each movement well. Use mirrors, video yourself, or follow coached tutorials online.
+
+### 3. Progressive Overload
+To get stronger or leaner, you need to increase your challenge over time. That could mean more reps, shorter rest, or harder variations like jump squats instead of bodyweight squats.
+
+### 4. Structured Routine
+Even with bodyweight, having a plan helps you stay consistent. We’ve included a 4-week plan below so you can build strength, confidence, and results.
+
+### 5. Warm-Up and Cool-Down
+A 5-minute warm-up (rocking, hip circles, arm swings) and 5-minute cool-down (stretching, deep breathing) reduce soreness and boost recovery.
+
+---
+
+## Full-Body Home Workout Routine
+
+Here are five essential bodyweight exercises—suitable for all fitness levels:
+
+**Push-Ups**  
+Targets your chest, shoulders, triceps, and core.  
+- Beginners: incline push-ups (hands on wall or bench)  
+- Intermediate: standard push-ups  
+- Advanced: decline or one-arm push-ups  
+
+**Squats**  
+Works quads, hamstrings, glutes, and core.  
+- Beginners: steady bodyweight  
+- Intermediate: slower reps or pause at the bottom  
+- Advanced: jump squats or pistol squats  
+
+**Lunges**  
+Strengthens glutes, quads, hamstrings, and improves balance.  
+- Keep torso upright, step forward or backward.  
+- Advanced: dynamic jump lunges or walking lunges.
+
+**Plank**  
+Core staple for abs, back, hips, and shoulders.  
+- Beginners: hold for 20 seconds  
+- Intermediate: aim for 45–60 seconds  
+- Advanced: side planks, plank with arm/leg raises
+
+**Glute Bridges**  
+Works the posterior chain—glutes, hamstrings, lower back.  
+- Beginners: basic bridge  
+- Intermediate: single-leg bridge  
+- Advanced: bridge hold with hip lift pulse or march
+
+---
+
+## Sample 4-Week Home Workout Plan
+
+This plan builds gradually and gives your body time to adapt.
+
+### Week 1 – Foundation
+- Day 1:  
+  • 3 x 8 push-ups  
+  • 3 x 12 squats  
+  • 3 x 10 lunges (each leg)  
+  • 3 x 20-sec plank  
+  • 3 x 12 glute bridges  
+
+- Day 2: Active Rest (restorative yoga, walking)  
+- Day 3: Repeat Day 1 routine  
+- Day 4: Active Rest  
+- Day 5: Repeat Day 1 routine  
+- Days 6–7: Rest or active recovery
+
+### Week 2 – Add Volume
+- Increase to 3 x 10 push-ups, 15 squats  
+- Hold 30-sec planks  
+- Try single-leg bridges or pulses  
+
+### Week 3 – Introduce Intensity
+- Add more reps (3 x 12), or switch to more challenging push-up/squat variations  
+- Perform lunges walking or faster tempo  
+- Add side planks or leg lift variations  
+
+### Week 4 – Challenge and Mix it Up
+- Booster workout: circuit-style, minimal rest, 4 sets  
+- Combine exercises: superset squats then push-ups  
+- Add 1-minute cardio bursts (high knees, jump jacks)
+
+---
+
+## Exercise Progressions (No Equipment Needed)
+
+| Exercise        | Beginner → Intermediate → Advanced                        |
+|----------------|-----------------------------------------------------------|
+| Push-ups       | Hands on bench → Standard → Feet elevated → Decline       |
+| Squats         | Bodyweight → Paused → Jump squats → Pistol squats          |
+| Lunges         | Stationary → Walking → Jump lunges → Bulgarian split squats |
+| Plank          | Hold 20 sec → 45 sec → Side plank → Dynamic plank        |
+| Glute Bridge   | Basic → Single-leg → Glute bridge march                  |
+
+---
+
+## Add-On Moves for Variety
+
+Once the basics feel easy, try these bodyweight options:
+- **Burpees** (full-body cardio strength combo)  
+- **Mountain climbers** (core plus heart rate)  
+- **Inchworm to push-up** (mobility + strength)  
+- **Superman holds** (glutes and lower back)  
+- **Bear crawls or crab walks** (full-body dynamic stability)
+
+---
+
+## Benefits Beyond Strength
+
+- **Fat Loss & Cardiovascular Health**  
+  Compound bodyweight moves combined with cardio snippets help burn calories and strengthen your heart.
+
+- **Mobility & Balance**  
+  Lunges, planks, and burpees build flexibility, core control, and coordination.
+
+- **Mental Strength**  
+  Completing workouts at home improves discipline, confidence, and stress relief.
+
+- **Sustainable Fitness**  
+  Adaptable programming means these workouts grow with you—no plateau or gym needed.
+
+---
+
+## Tips to Stay Consistent
+
+1. **Schedule workouts** like appointments—set reminders.  
+2. **Track progress**: note reps, time held, or exercise variations.  
+3. **Switch it up** every 4–6 weeks to avoid boredom.  
+4. **Create a space**: even a small corner with enough floor space works great.  
+5. **Wear good gear**: supportive shoes and breathable clothing make workouts more comfortable.
+
+---
+
+## Sample Weekly Schedule
+
+| Day          | Focus                              |
+|--------------|-------------------------------------|
+| Monday       | Strength Workout                    |
+| Tuesday      | Active Recovery (walk, yoga)        |
+| Wednesday    | Strength Workout + Cardio Burst     |
+| Thursday     | Core & Mobility Focus               |
+| Friday       | Full-Body Circuit Workout           |
+| Saturday     | Fun Activity (bike, hike)           |
+| Sunday       | Rest and Stretch                    |
+
+---
+
+## Final Thoughts
+
+You don’t need a gym or gadgets to build a strong, fit body. With bodyweight routines, consistency, and progressive effort, you can lose fat, tone muscle, and feel better than ever from the comfort of home. Use the 4-week plan as a foundation, refine your form, and adjust as you grow. The most effective tools? Determination and daily movement.
+
+Ready to challenge yourself? Start today—this could be your strongest, healthiest version yet.
+`
+},
+    
     {
         id: "best-workouts-lose-belly-fat-fast",
         title: "Best Workouts to Lose Belly Fat Fast (Beginner Friendly Guide)",
