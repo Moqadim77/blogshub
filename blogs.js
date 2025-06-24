@@ -1,5 +1,111 @@
 const blogs = [
     {
+        id: "2025-hottest-year-on-record-global-heat-warning",
+        title: "2025 Confirmed as Hottest Year in History: Scientists Warn of Urgent Climate Risks",
+        category: "Science",
+        date: "2025-06-25",
+        tags: ["climate change", "global warming", "2025 heat records", "climate crisis", "science update", "environment"],
+        keywords: "2025 hottest year climate change, global warming temperature records, climate emergency report 2025, heatwave global impact, UN climate science 2025",
+        description: "New data confirms that 2025 has surpassed all previous temperature records. Scientists are raising urgent alarms about the climate crisis, with growing impacts on food, health, and global stability.",
+        banner: "https://th.bing.com/th/id/OIP.v0zHyA5dfKsPAzeUUmI1pAHaEO?rs=1&pid=ImgDetMain&cb=idpwebpc2",
+        content: `
+
+## What Just Happened?
+
+Climate researchers have officially declared 2025 the hottest year ever recorded in human history. According to combined data from NASA, the European Copernicus Climate Service, and Japan’s Meteorological Agency, global average temperatures have now exceeded the dangerous threshold of 1.6°C above pre-industrial levels.
+
+This confirms that the planet is heating faster than many scientists predicted even five years ago. Extreme heat events are becoming normal, and ecosystems, food systems, and human lives are already feeling the impact.
+
+## How Was This Measured?
+
+The declaration is based on satellite data, ground-based sensors, ocean temperature readings, and atmospheric CO₂ tracking. The results are consistent across every major climate agency.
+
+From January to June 2025, almost every continent experienced record-breaking monthly temperatures. In April alone, over 40 countries reported all-time heat highs. Oceans also absorbed unprecedented levels of heat, especially in the North Atlantic and Indian Ocean.
+
+## Where Is It Hitting Hardest?
+
+Some of the worst-hit regions include:
+
+- **South Asia:** India and Bangladesh faced multiple deadly heatwaves. Temperatures in New Delhi reached 49.8°C, forcing schools and businesses to shut down.
+- **Southern Europe:** Spain, Italy, and Greece battled wildfires, with thousands of acres burned and tourism industries disrupted.
+- **Central Africa:** Drought conditions worsened food insecurity in Sudan and Ethiopia.
+- **Southwestern United States:** States like Arizona and Nevada recorded multiple days over 48°C. Cities issued emergency warnings as power grids neared collapse.
+
+These events are not isolated incidents. They are part of a larger pattern showing that climate systems are destabilizing.
+
+## Why This Matters
+
+Scientists have long warned that once global warming crosses certain temperature thresholds, it can lead to “feedback loops.” This means damage can accelerate on its own, without human action. Melting permafrost, disappearing ice sheets, and deforestation all contribute to this spiral.
+
+The latest findings show we are dangerously close to crossing more of those thresholds. What was once a prediction for the future is now the present.
+
+- **Glaciers are melting faster** than expected in Greenland and Antarctica.
+- **Coral reefs** are experiencing mass bleaching, destroying ecosystems that support millions of marine species.
+- **Sea levels are rising**, putting coastal cities like Jakarta, Miami, and Venice at risk of long-term flooding.
+- **Global crop yields** are under threat, with heat damaging wheat, rice, and corn fields across continents.
+
+## What Are Scientists Saying?
+
+The global scientific community is calling for immediate action. Climate scientists from institutions like the IPCC, NOAA, and the Potsdam Institute have all released coordinated statements urging governments to act faster.
+
+This includes:
+
+- Ending new fossil fuel projects
+- Accelerating renewable energy investment
+- Implementing stricter emissions targets
+- Expanding climate education and adaptation plans
+
+Many experts now argue that limiting warming to 1.5°C, as outlined in the 2015 Paris Agreement, may no longer be realistic without aggressive action in the next two years.
+
+## What Governments Are Doing (or Not Doing)
+
+Some countries are stepping up:
+
+- **Germany and the Netherlands** have announced new green energy subsidies and carbon taxes.
+- **Brazil** is increasing rainforest protections with international funding.
+- **Kenya** is scaling up solar energy programs in rural areas.
+
+However, major polluters like the United States, China, and India are still struggling to balance economic interests with environmental goals. Fossil fuel lobbying remains strong, and many climate promises are not being met.
+
+The United Nations has warned that current climate pledges are still not enough to avoid catastrophic consequences by 2030.
+
+## How This Affects Regular People
+
+This is not just about rising temperatures in far-off places. It affects daily life around the world.
+
+- **Food Prices:** Extreme weather is causing poor harvests, leading to higher food costs globally.
+- **Health Risks:** Heat-related illness, respiratory problems, and water-borne diseases are on the rise.
+- **Migration:** Climate stress is driving displacement, especially in vulnerable regions like the Sahel and Southeast Asia.
+- **Insurance and Housing:** Homes in high-risk zones face rising premiums or become uninsurable altogether.
+
+The effects are real, visible, and growing more serious every month.
+
+## What Comes Next?
+
+More extreme events are expected through the second half of 2025. Scientists are predicting:
+
+- Increased wildfire activity in North America and Australia
+- Stronger and more destructive hurricanes in the Atlantic
+- Persistent droughts in South America and sub-Saharan Africa
+
+At the same time, new global summits are being scheduled. A special emergency session of the UN Climate Assembly is set for September. Protest movements are also expected to grow, especially among younger generations demanding urgent reforms.
+
+## What You Should Know
+
+- 2025 is now officially the hottest year ever measured, with clear consequences for human health, ecosystems, and economies.
+- Without bold and immediate action, the situation will get worse. Climate change is no longer a future problem. It is already here.
+- Everyone — from governments to corporations to individuals — has a role to play in limiting the damage and adapting to a new climate reality.
+
+## The Bottom Line
+
+We are living through a turning point in climate history. The extreme heat of 2025 is not a warning of what’s to come. It is the result of years of delay and inaction.
+
+The world has the technology, science, and ability to reverse some of the damage. But time is running out. What happens next depends on choices made today, not tomorrow.
+
+This year could be the moment the world finally wakes up. Or it could just be the first in a long line of record-breaking, dangerous years ahead.
+`
+    },
+    {
         id: "eu-passes-ai-act-24-june-2025",
         title: "Europe Passes Groundbreaking AI Act: What It Means for the Future of Tech",
         category: "News",
