@@ -1924,7 +1924,7 @@ Affiliate marketing won’t make you rich overnight, but it *can* grow into a re
     tags: ["graphic design", "creative skills", "designing"],
     keywords: "graphic design for beginners, how to learn graphic design, beginner guide to designing, design tools for beginners, freelance graphic designer, creative skills online, start graphic designing",
     description: "Discover the world of graphic design with this beginner-friendly guide. Learn essential tools, skills, and tips to start creating stunning visuals and kickstart a creative career in design, no degree needed.",
-    banner: "https://itcentre.pk/uploads/courses/b1e312643-graphic-designing.jpg",
+    banner: "https://www.psero.com/wp-content/uploads/2023/02/graphic-design.jpg",
     content: `
 Ever wondered who designs those eye-catching posters, website banners, social media ads, or even the packaging of your favorite snacks? That’s the work of **graphic designers**, the visual storytellers of the digital world.
 
