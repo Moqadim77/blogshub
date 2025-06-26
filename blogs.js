@@ -1,5 +1,106 @@
 const blogs = [
 	{
+		id: "global-plastic-ban-agreement-2025-environment",
+		title: "Global Pact to Cut Plastic Waste Signed: 42 Countries and Big Brands Join Forces",
+		category: "Environment",
+		date: "2025-06-25",
+		tags: ["plastic ban", "climate action", "waste management", "eco policies", "sustainability", "global environment"],
+		keywords: "2025 plastic waste ban, global environment agreement, plastic pollution solution, single-use plastic ban 2025, climate sustainability action",
+		description: "In a major move for climate and ocean health, a coalition of 42 countries and over 100 corporations signed a binding agreement to phase out most single-use plastics by 2030. Here's what it means, and how it will be enforced.",
+		banner: "https://static.mygov.in/indiancc/2022/09/mygov-1000000000368743973.jpg",
+		content: `
+
+## What Just Happened?
+
+On June 24, 2025, in Geneva, global leaders from **42 countries**, alongside executives from more than **100 multinational companies**, signed a legally binding agreement to drastically reduce **plastic production and usage** by the end of this decade.
+
+The deal, referred to as the **Global Plastic Reduction Pact (GPRP)**, marks one of the most ambitious international climate efforts since the Paris Agreement. It sets clear targets and enforcement mechanisms for reducing **single-use plastics**, improving **recycling systems**, and investing in **eco-friendly materials**.
+
+This isn’t just a promise, it’s backed by policy, penalties, and corporate responsibility clauses.
+
+## Who’s Involved?
+
+The agreement includes:
+
+- Countries like **Canada, Germany, India, Kenya, Brazil, Indonesia, Japan, the UK, and France**
+- Corporations including **Unilever, Nestlé, Coca-Cola, IKEA, PepsiCo, and L’Oréal**
+- Environmental bodies such as the **UNEP** (United Nations Environment Programme) and **WWF**
+
+The United States and China signed on as “supporting observers” but have not fully committed to binding targets yet, though both sent delegates and pledged domestic reforms.
+
+## What Are the Core Goals?
+
+The GPRP lays out six primary goals to be achieved by **2030**:
+
+1. **Ban all single-use plastics** for packaging, cutlery, and containers by 2028  
+2. **Reduce virgin plastic production** by 60% compared to 2023 levels  
+3. **Ensure 80% of all plastic waste is either recycled or compostable**  
+4. **Ban microplastics** in cosmetic and cleaning products by 2026  
+5. **Create a global plastic tracking system** for waste origin and export  
+6. **Support alternatives** like biodegradable materials and refill systems
+
+To enforce the pact, countries are required to submit progress reports every 18 months, and companies must publish annual transparency statements.
+
+## Why Now?
+
+Plastic pollution has reached a tipping point:
+
+- More than **11 million metric tons of plastic** enter the oceans each year.
+- Microplastics have been found in **human blood, lungs, and placentas**.
+- Only **9% of global plastic** has ever been recycled.
+
+Environmental and health concerns, combined with consumer activism and scientific pressure, pushed governments and corporations to act fast.
+
+UN Secretary-General António Guterres called the agreement “the strongest global acknowledgment yet that plastic pollution is a climate issue, a health issue, and a justice issue.”
+
+## What Will Change?
+
+In the next five years, expect to see:
+
+- Supermarkets switching to **paper, metal, or compostable packaging**
+- Cities rolling out **plastic-free zones** and smart waste bins
+- A surge in **bioplastic startups** and alternative materials
+- New taxes on virgin plastic production
+- International audits of corporate waste and packaging choices
+
+For example, IKEA has pledged to make 100% of its packaging **plastic-free by mid-2027**, while Coca-Cola will begin testing refillable bottle kiosks in 12 countries starting this fall.
+
+## What Challenges Remain?
+
+This global push is ambitious, but not simple.
+
+- **Developing nations** may struggle with infrastructure changes.
+- **Greenwashing** is a concern, where companies label packaging “eco” without meeting standards.
+- Plastic-producing industries (especially oil and petrochemical sectors) may resist or lobby against implementation.
+- Recyclability depends on **local collection systems**, which remain uneven globally.
+
+Environmental groups are urging stronger monitoring and whistleblower protections to ensure accountability.
+
+## Public Reaction
+
+Citizens, especially youth climate groups, have praised the move. Social media campaigns using tags like **#PlasticEndsNow** and **#2030PlasticFree** went viral within hours.
+
+However, some critics point out that previous climate pacts have faced weak enforcement and want guarantees on **corporate penalties**, not just voluntary pledges.
+
+Still, optimism is growing, especially with strong commitments from companies historically criticized for plastic overuse.
+
+## What You Should Know
+
+- 42 countries and over 100 corporations signed the Global Plastic Reduction Pact
+- The pact targets a complete ban on single-use plastics by 2028 and drastic cuts by 2030
+- Transparent reporting, recycling benchmarks, and innovation support are built in
+- Public pressure and scientific evidence were key to securing the agreement
+
+## The Bottom Line
+
+Plastic waste has been one of the most visible symbols of environmental damage for decades. With this new agreement, the world may finally be moving beyond promises and toward actual transformation.
+
+It’s not just about cleaner oceans, it’s about a **new relationship with consumption, packaging, and the planet itself**.
+
+The next five years will show whether global will can match global need. And if this pact holds, 2025 may be remembered as the year the world got serious about plastic.
+`
+	},
+	{
 		id: "ai-space-station-operational-2025-nasa-esa",
 		title: "World’s First AI-Controlled Space Station Goes Live: A New Era in Orbital Exploration Begins",
 		category: "Space",
