@@ -18,14 +18,14 @@
 
   <!-- Article page (listing or dynamic?) -->
   <url>
-    <loc>https://blogshub.online/article</loc>
+    <loc>https://blogshub.online/article.html</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <!-- Blogs page -->
   <url>
-    <loc>https://blogshub.online/blogs</loc>
+    <loc>https://blogshub.online/blogs.html</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -46,14 +46,14 @@
 
   <!-- Search -->
   <url>
-    <loc>https://blogshub.online/search</loc>
+    <loc>https://blogshub.online/search.html</loc>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <!-- Sign In -->
   <url>
-    <loc>https://blogshub.online/signin</loc>
+    <loc>https://blogshub.online/signin.html</loc>
     <priority>0.3</priority>
     <changefreq>monthly</changefreq>
   </url>
