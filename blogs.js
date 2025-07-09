@@ -1,5 +1,101 @@
 const blogs = [
 	{
+		id: "digital-minimalism-youth-2025-social-shift",
+		title: "Why Millions of Young People Are Logging Off: Digital Minimalism Is the 2025 Social Trend to Watch",
+		category: "Social",
+		date: "2025-06-25",
+		tags: ["digital minimalism", "social trends", "youth behavior", "mental health", "technology detox", "online habits"],
+		keywords: "2025 digital minimalism trend, youth quitting social media, mental health online addiction, screen time reduction movement, log off trend Gen Z",
+		description: "A rising number of Gen Z and Millennials in 2025 are quitting social media, turning off constant notifications, and embracing a new lifestyle: digital minimalism. Here's why it matters and what’s driving this social shift.",
+		banner: "https://tse4.mm.bing.net/th/id/OIP.GXtuThy-773PBU-js0h7VAHaE9?rs=1&pid=ImgDetMain&o=7&rm=3",
+		content: `
+
+## What Just Happened?
+
+In 2025, something surprising is trending, **logging off**.
+
+Across cities like New York, Seoul, Berlin, Nairobi, and São Paulo, millions of young people are **intentionally reducing screen time**, deleting social apps, and switching to simpler phones. The trend is called **digital minimalism**, and it’s quickly becoming one of the most important social shifts of the year.
+
+This isn't just about “taking a break.” It's a lifestyle change, a conscious rejection of endless notifications, algorithmic dopamine loops, and 24/7 digital performance.
+
+## What Is Digital Minimalism?
+
+Digital minimalism is a philosophy and practice that encourages people to:
+
+- **Use technology only when it adds deep value**
+- **Remove non-essential digital noise**
+- **Be intentional** about screen time, social media, and app use
+
+Instead of being constantly online, digital minimalists focus on **offline connections**, **quiet time**, **hobbies**, and **face-to-face communication**.
+
+It’s not anti-tech, it’s pro-balance.
+
+## Why Are Young People Leading This?
+
+Gen Z and Millennials were raised on smartphones. Many had Instagram before puberty, and they’ve spent more time online than any generation in history. But after a decade of hyperconnectivity, fatigue is setting in.
+
+Key drivers of the shift include:
+
+- **Mental health pressure** from endless comparison on social platforms
+- **Burnout** from digital overload and multitasking
+- **Desire for privacy** in a world of constant surveillance
+- **Need for deeper relationships**, not just digital “likes”
+- **Rejection of algorithmic manipulation** and clickbait culture
+
+Popular creators and influencers, ironically, are now promoting **logging off as self-care**. Some have even built followings by documenting their digital detox journeys.
+
+## Real-Life Examples
+
+In 2025, we’re seeing:
+
+- **Young professionals switching to “dumb phones”** like the Light Phone or Punkt
+- **University students organizing “No Scroll Sundays”** or campus-wide app fasts
+- **Content creators deleting their main accounts** and returning to blogging or newsletters
+- **Cities opening “digital wellness cafés”** with no-WiFi zones, journaling booths, and analog activities
+
+A viral movement called **#DeleteToLive** has sparked thousands of videos showing people removing Instagram, TikTok, and X, and sharing how it improved their focus, sleep, and relationships.
+
+## How Big Is This Movement?
+
+Global surveys in early 2025 show:
+
+- **38% of Gen Z users have deleted at least one major social media app**
+- **61% of young adults actively limit daily screen time** through app blockers or time budgets
+- **1 in 4 Gen Zers say they’d prefer a non-smartphone lifestyle** if it didn’t affect school or work
+
+And it’s not just individuals. Schools, offices, and even governments are responding.
+
+- Schools in Finland and Japan now mandate **1-hour tech-free zones** each day
+- Some startups are giving employees **monthly “offline days”**
+- Berlin’s city council is considering **“notification curfews”** for public employees after 9pm
+
+## The Role of Tech Companies
+
+While the trend challenges their business models, some tech companies are adapting:
+
+- Instagram now has a **“Quiet Mode by Default”** setting for users under 21
+- Apple’s iOS 19 includes a **Digital Wellbeing Summary** that shows your actual time on values-based apps
+- Spotify launched **“Offline Hour” playlists**, nudging users to pause digital noise once daily
+
+Still, critics argue these moves are performative and come **years too late**, after years of fostering addiction-based design.
+
+## What You Should Know
+
+- **Digital minimalism is not anti-technology**, it’s about regaining control
+- Young people are choosing fewer apps, less screen time, and deeper offline experiences
+- The trend reflects broader concerns about mental health, privacy, and meaning
+- Workplaces, schools, and even tech giants are beginning to respond
+
+## The Bottom Line
+
+In 2025, the most radical thing a young person can do might not be going viral, but **logging out**.
+
+Digital minimalism isn’t a retreat from modern life. It’s a redesign of it.
+
+And as more people unplug to reconnect with themselves and others, the world may be witnessing a **generational redefinition of what a “connected life” really means**.
+`
+	},
+	{
 		id: "ai-replaces-standardized-tests-education-reform-2025",
 		title: "Standardized Tests Are Being Replaced by AI Learning Systems in 2025: A New Chapter in Global Education",
 		category: "Education",
