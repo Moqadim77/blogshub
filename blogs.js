@@ -131,7 +131,7 @@ And that could mean a smarter, fairer future, for everyone.
 		tags: ["plastic ban", "climate action", "waste management", "eco policies", "sustainability", "global environment"],
 		keywords: "2025 plastic waste ban, global environment agreement, plastic pollution solution, single-use plastic ban 2025, climate sustainability action",
 		description: "In a major move for climate and ocean health, a coalition of 42 countries and over 100 corporations signed a binding agreement to phase out most single-use plastics by 2030. Here's what it means, and how it will be enforced.",
-		banner: "https://static.mygov.in/indiancc/2022/09/mygov-1000000000368743973.jpg",
+		banner: "https://tse1.mm.bing.net/th/id/OIP.0aJD27DinJm9daXdgMpnZgHaEe?rs=1&pid=ImgDetMain&o=7&rm=3",
 		content: `
 
 ## What Just Happened?
