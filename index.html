@@ -97,7 +97,7 @@
             md = md.replace(/`([^`]+)`/g, '<code class="bg-gray-100 px-1 rounded">$1</code>');
 
             // Images
-            md = md.replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1" class="my-4 rounded border" />');
+            md = md.replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1" loading="lazy" class="my-4 rounded border" />');
 
             // Links
             md = md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" ref="no" class="text-blue-600 hover:underline" target="_blank">$1</a>');
@@ -192,7 +192,7 @@
                     <article class="bg-white w-full sm:px-10 md:px-16 lg:px-32 xl:px-40 pb-6 pt-2 mb-6 rounded-xl">
                         <a href="index.html" class="inline-block text-blue-500 mb-2 hover:underline px-3 sm:px-0">← Back to all blogs</a>
 
-                        <img src="${blog.banner}" alt="Banner for ${blog.title}"
+                        <img src="${blog.banner}" loading="lazy" alt="Banner for ${blog.title}"
                             class="w-full h-48 sm:h-full object-cover sm:rounded-lg mb-4" />
 
                         <h1 class="text-3xl font-bold mb-2 px-3 sm:px-0">${blog.title}</h1>
@@ -232,7 +232,7 @@
         <div class="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             ${filteredBlogs.map(blog => `
             <article class="bg-white sm:rounded-lg transition">
-                <img src="${blog.banner}" alt="Banner for ${blog.title}"
+                <img src="${blog.banner}" loading="lazy" alt="Banner for ${blog.title}"
                     class="w-full h-48 object-cover sm:rounded-lg mb-4" />
                 <h2 class="text-2xl font-bold mb-2 px-3 sm:px-0">
                     <a href="?post=${blog.id}" class="hover:underline text-blue-900">${blog.title}</a>
